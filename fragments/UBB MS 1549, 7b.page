@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+
+<TEI.2 lang="en">
+    <teiHeader>
+    <fileDesc>
+        <titleStmt>
+        	<title>Description of UB Bergen MS 1549, 7b</title>
+            <author>&Aring;slaug Ommundsen</author>
+        </titleStmt>
+        <publicationStmt><publisher>Bergen University Library</publisher><address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+            <date>2005</date>
+        </publicationStmt>
+        <sourceDesc>
+        <msDescription>
+                    
+        <msIdentifier>
+        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+        <repository>Bergen University Library</repository>
+            <idno>MS 1549, 7b</idno>
+            <altName>MS 410, 7b</altName>
+            <altName>Gjerløw: Mi 91 (Gjerløw has included 1549, 7a-c under Mi 91, even though the fragments come from different manuscripts)</altName>
+            <altName>The fragment is repeatedly called 1549, 4b in the literature on the stave church of Kaupanger. </altName>
+        </msIdentifier>
+            <msHeading><title>The Kaupanger Prayerbook fragment</title>
+                <note type="schlagzeile">Parchment (or paper?), one fragment ca 12 x 9 cm, unknown origin, 15th century (?).</note>
+                
+            </msHeading>
+            
+                <msContents>
+                    <p>The fragment is described and transcribed by Hans Buvarp. It appears under the title “Oratio devota de beata Maria” in <hi rend="italic">Horae Eboracenses</hi> (printed Rouen 1536, reprinted by the Surtees society, vol. 132, 1920) (Buvarp 1969, p. 60). It is also available on-line, in the Burnet Psalter, University of Aberdeen, f. 90v-92v, see Bibliography. </p>
+                    <p>The prayer invokes saint Mary, the mother of God (in our version the words “mater” and “maria” have switched places, curiously enough), by her many virtues, by the miracle of the annunciation, and by her grief at the sight of her dying son, the Lord Jesus Christ, to always come to his aid in hardships and in hours of need. While our fragment ends, the prayer continues to ask for help to do what is right, keep the faith, and be protected from the seven mortal sins until the last days of his life, when he asks that she show him her face, let him know the hour of his death and grant him eternal life. </p>
+
+                </msContents>
+            <physDesc><p>Parchment (or paper?), one fragment <dimensions>ca 12 x 9 cm</dimensions>.</p>
+                <p>Lay-out: The ruling is not visible. Size and more specific lay-out of the page is difficult to figure out because of the limited size of the fragment.</p>
+                <p>Script: The script is a Gothic cursive. It would be quite clear and easily readable if not for the sorry state of the fragment.</p>
+                <p>Initials: No initials visible.</p>
+                <p>Condition: The fragment is in poor condition, and has been strengthened with thin, stiff paper. Only one side is readable.</p></physDesc>
+            <history><origin><p>Unknown origin, 15th century (?). Hans Buvarp suggests the first half of the 15th century (Buvarp 1969, p. 59-60).</p>
+            </origin><provenance>
+                <p>Was probably used in Kaupanger in the Middle Ages. Was found underneath the floorboards of the stave church of Kaupanger during the excavations in 1964-65.</p>
+            </provenance>
+                
+                <acquisition>
+                    <p>Given to the University Library by Hans Emil Lidén in 1965 after the excavations in the stave church of Kaupanger.</p>
+                </acquisition>
+                
+            </history>
+            <additional><listBibl><head>Bibliography</head>
+                <bibl>Buvarp, Hans 1969: ”To liturgiske fragmenter”, Kaupanger stavkirke, Fortidsminner 56, Oslo, p.57-62.</bibl>
+                <bibl>Lidén, Hans-Emil 1969: ”Utgravningene under kirken”, Kaupanger stavkirke, Fortidsminner 56, Oslo, p. 5-24. (see p. 19)</bibl>
+                <bibl>Lidén, Hans-Emil and Bjerknes, Kristian 1975: The stave churches of Kaupanger, Oslo. (see p. 46) 
+                </bibl>
+                <bibl>Tveitane, Mattias et. al.: Bergen University Library Manuscript Catalogue [unpublished]</bibl>
+            </listBibl>
+            </additional>
+                    </msDescription>
+            
+        </sourceDesc>
+    </fileDesc>
+        <profileDesc>
+            <langUsage><language id="en"></language></langUsage></profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2005.10.18</date>
+                <respStmt><name>Tone Merete Bruvik</name></respStmt>
+            <item>Renecoded a bit to make the xml document valid</item>
+        </change>
+        <change>
+            <date>2005.10.17</date>
+            <respStmt><name>&Aring;slaug Ommundsen</name></respStmt>
+            <item>Made the original</item>
+        </change>
+    </revisionDesc>
+    </teiHeader>
+    <text><body><div><head>Introduction</head><p>The fragments catalogued under MS 1549, 7 were found underneath the floorboards in the choir of the stave church of Kaupanger in Sogn (Western Norway), during the excavation and restoration of the church in 1964-1965. Immediately after the excavation, the fragments were given to Bergen University Library by Hans-Emil Lidén. This is one of the rare cases where fragments are found on site, not in some archive or bookbinding. It is likely that this fragment comes from a book used in Kaupanger in the Middle Ages. It contains the prayer “Obsecro te domina” for St Mary. We have given 1549, 7b the heading “prayerbook” for lack of clues to a closer specification of book genre. </p>
+        <list type="facsimiles"><head>Facsimiles and transcriptions</head>
+            <item>
+                <xref url="../transcriptions/UBB MS 1549, 7b-transkr.page">Transcription of UBB MS 1549, 7b</xref>
+                <figure url="../facsimiles/UBB MS 1549, 7b.jpg"><p>Facsimile recto</p></figure>                     
+            </item>
+        </list>
+    </div></body></text>
+</TEI.2>

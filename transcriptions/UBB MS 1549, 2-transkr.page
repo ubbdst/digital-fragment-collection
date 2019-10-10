@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://gandalf.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>The Good Friday Missal Fragment</title>
+    <title level="s">Transcription of UBB MS 1549, 2</title>
+<author>Unknown</author>
+<respStmt>
+<resp>Transcription</resp>
+<name>&Aring;slaug Ommundsen, University of Bergen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>First Menota draft, <date>2004-06</date>.</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University Library of Bergen/Medieval Nordic Text Archive</publisher>
+<pubPlace>Bergen</pubPlace>
+<date>2004</date>
+<idno type="Menota">Ms. ?</idno>
+<availability status="restricted"><p>This text is available for purposes of academic research and teaching only. Re-distribution in any form without prior permission is prohibited. Short extracts may be cited with full acknowledgment of the source.</p></availability>
+</publicationStmt>
+    
+<sourceDesc>
+<p>The fragment 1549,2 was a gift to Bergen museum by foged Ole Vidsteen in the 19th century. Missing or unclear text or corrections have been supplied by the transcriber from Lilli Gjerl&oslash;w: "Missaler brukt i Bj&oslash;rgvin bisped&oslash;mme fra misjonstiden til Nidarosordinariet", Bj&oslash;rgvin bispestol. Byen og bisped&oslash;mmet, Bergen 1970, pp. 73-115. Corrections to the "benedictio cerei" prayer Exultet on the second column of 1v are taken from http://praiseofglory.com/exultetlatin.htm</p>
+    <p>Facsimiles available at <figure url="../facsimiles/UBB MS 1549, 2 1.jpg"><p>UBB MS 1549, 2, verso</p></figure> and <figure url="../facsimiles/UBB MS 1549, 2 2.jpg"><p>UBB MS 1549, 2, recto</p></figure></p>
+       
+<msDescription>
+<msIdentifier>
+<country reg="NO">Norway</country>
+<settlement>Bergen</settlement>
+<repository>University Library</repository>
+<idno>UBB MS 1549,2</idno>
+</msIdentifier>
+<msHeading>
+<textLang langKey="lat">Latin</textLang>
+<title>Missal</title>
+<origPlace>England</origPlace>
+<origDate notBefore="1130" notAfter="1170">mid 12th century</origDate>
+</msHeading>
+<physDesc>
+<condition><p>One whole folio in good condition.</p>
+</condition>
+</physDesc> 
+</msDescription>
+</sourceDesc>
+    
+</fileDesc>
+
+<encodingDesc>
+<projectDesc>
+    <p>This text has been encoded according to the standard set out in <xref url="http://www.hit.uib.no/menota/guidelines">The Menota handbook, version 1.1</xref>.</p>
+</projectDesc>
+<editorialDecl>
+<correction status="medium"><p>This text was proofread by &Aring;slaug Ommundsen before internet release february 2005</p></correction> 
+    <normalization>
+        <p>The orthography has not been normalized. Abbreviations are silently written out. Where the abbreviation is not standard, but depending on the context, I have added a supplied element.</p>
+    </normalization>
+    
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+    <langUsage><language id="lat"/></langUsage>
+    <langUsage><language id="en"/></langUsage>
+    <listPerson>
+          <person id="scribe"><persName>Unknown</persName></person>
+        </listPerson>      
+</profileDesc>
+<revisionDesc>
+    <change>
+        <date>2005.10.07</date>
+        <respStmt><name>Tone Merete Bruvik</name></respStmt>
+        <item>Added translation into English.</item>
+    </change>
+    <change>
+        <date>2005.02.14</date>
+        <respStmt><name>Tone Merete Bruvik</name></respStmt>
+        <item>Some changes to make the file valid according to MENOTA DTD 1.1</item>
+    </change>
+    </revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+    <div lang="lat">
+<pb n="1r"/>
+<cb n="A"/>
+<lb n="1"/><div type="oratio"><p>lorum cultura et aggrega ecclesie tue sancte
+<lb n="2"/><sic corr="ad">et</sic> laudem, et gloriam nominis tui. Per.</p></div>
+<lb n="3"/><div type="rubric"><note resp="scribe" place="margin"><hi rend="red">Antiphona</hi></note></div><div type="antiphona"><p>Popule meus quid <sic corr="feci tibi">fecittibi</sic> aut in <sic corr="quo">co</sic> contristaui<note><p>t and (r)i are placed above the n</p></note>
+<lb n="4"/>te responde michi.</p></div><div type="rubric"><note resp="scribe" place="supralinear"><hi rend="red">Versus</hi></note></div><div><p>Quia eduxit te <sic corr="de terra">derra</sic>
+<lb n="5"/>egipti parasti crucem saluatori tuo. Agyos othe
+<lb n="6"/>os. Agyos, ischiros. Agyos atha<supplied reason="faded ink in fold">na</supplied>tos, eleyson
+<lb n="7"/>ymmas. Sanctus deus. Sanctus fortis. Sanctus et inmortalis mi
+<lb n="8"/>serere nobis. Quia eduxi te per desertum quadra
+<lb n="9"/>ginta annis et manna cibaui te et introduxi<note><p>supralinear line for the letter i</p></note> 
+<lb n="10"/>te in terram optimam parasti <supplied reason="text left out in ms">crucem saluatori tuo</supplied>. Agyos. Sanctus. Quid
+<lb n="11"/>ultra  debui facere tibi et non f<supplied reason="faded ink in fold">ec</supplied>i ego quidem plan
+<lb n="12"/>taui te uineam meam spec<supplied reason="faded ink in fold">io</supplied>sissimam fructu
+<lb n="13"/><sic corr="decoram">decoris</sic> et tu facta es michi nimis amara <sic corr="aceto">ac
+<lb n="14"/>cepto</sic> namque con felle <sic corr="mixto sitim meam">mixtosa mea</sic> potasti et
+<lb n="15"/>lancea perforasti latus saluatori tuo. Agyos. Sanctus.</p></div>
+<lb n="16"/><div type="rubric"><note resp="scribe" place="margin"><hi rend="red">Responsorium</hi></note></div><div type="responsorium"><p>Ecce lignum crucis in quo salus mundi pepen
+<lb n="17"/>dit uenite adoremus. Venite adoremus eum quia <note><p>note quia abbreviation</p></note>
+<lb n="18"/>ipse est dominus deus noster. Ecce lignum. Deus m<supplied reason="abbreviated">isereatur</supplied>. Ecce lignum.</p></div>
+<lb n="19"/><div type="antiphona"><note><p>rubric for antiphona is missing</p></note><p>Tuam crucem adoremus domine adoremus domine tuam <sic corr="gloriosam">gloriam
+<lb n="20"/>sum</sic> recolimus passionem <sic corr="miserere">misere</sic> nobis qui passus <supplied reason="text left out in ms">es</supplied> pro
+<lb n="21"/>nobis; Crucem tuam adoramus domine et sanctam resurrec<note><p>the loop on the ct ligature is maintained, even though the letters are divided with a line break</p></note>
+<lb n="22"/>tionem tuam domine laudamus et glorificamus ecce enim
+<lb n="23"/>propter<note><p>unusual abbraviation for propter</p></note> crucem uenit gaudium <supplied reason="text left out in ms">in</supplied> univers<del type="dot under letter" hand="scribe">a</del><add place="supralinear" hand="scribe">o</add> mundo</p></div>
+<lb n="24"/><div type="rubric"><note resp="scribe" place="margin"><hi rend="red">Antiphona</hi></note></div><div type="antiphona"><p>Dum fabricator mundi mortis supplicio <sic corr="pateretur">pararetur</sic>
+<lb n="25"/>in cruce <sic corr="clamans">claminans</sic> uoce magna tradidit
+<lb n="26"/>spiritum et ecce uelu<del type="dot under letter" hand="scribe">t</del><add place="supralinear" hand="scribe">m</add><note><p>the m is added as a nasal abbreviation</p></note> <sic corr="scissum">cissum</sic> est <sic corr="monumenta">inmonumenta</sic>
+<lb n="27"/>aperta sunt motus enim factus fuerat magnus
+<lb n="28"/>quia mortem filii dei cla<supplied reason="faded ink in fold">m</supplied>abat mundus se
+<lb n="29"/>sustinere non posse. O admirabile precium
+<lb n="30"/>cuius pondere captiuitas redempta est <supplied reason="text left out in ms">mundi tartarea confracta sunt claustra inferni aperta est</supplied>nobis ianua
+<lb n="31"/>reg<note><p>space left open for high number of neumes?</p></note>ni.</p></div><div type="psalmi"><p>Domine ne in. Beati. Domine ne. Mise<supplied reason="abbreviated">rere</supplied>. Domine.
+<lb n="32"/>De pro<supplied reason="abbreviated">fundis</supplied>. Domine exau<supplied reason="abbreviated">di</supplied>.<note><p>The seven penitent psalms:Ps. 6, 31, 37, 50, 101, 129, 142</p></note></p></div>
+
+
+<cb n="B"/>
+<lb n="1"/><div type="oratio"><p><hi rend="red initial 2 lines high">D</hi>omine ihesu christe, adoro te in crucem<note><p>a nasal abbreviation sign seems to be hidden underneath the damage from the clip</p></note>
+<lb n="2"/>ascendentem, deprecor te ut ipsa
+<lb n="3"/>crux liberet me de diabolo percutiente.
+<lb n="4"/>Domine ihesu christe, adoro te in cruce uulne
+<lb n="5"/>ratum deprecor te ut ipsa uulnera remedium
+<lb n="6"/>sit anime mee. Domine ihesu christe adoro te in
+<lb n="7"/>sepulcro positum, deprecor te ut ipsa mors
+<lb n="8"/>sit uita mea. Domine ihesu christe adoro te des
+<lb n="9"/>cendentem ad <sic corr="inferos">infernis</sic> <sic corr="redimentem">redimantem</sic> captiuos
+<lb n="10"/>deprecor te ut non ibi me dimittas intro
+<lb n="11"/>ire. Domine ihesu christe adoro te uenturum 
+<lb n="12"/>iudicaturum deprecor te ut in tuo aduen
+<lb n="13"/>tu non intres in iudicio cum me peccante <supplied reason="text left out in ms">sed deprecor te</supplied> ut
+<lb n="14"/><sic corr="ante">non</sic> dimitt<del type="dot under letter" hand="scribe">e</del><add place="supralinear" hand="scribe">a</add>s quam iudices; Saluator mun
+<lb n="15"/>di qui cum deo coeterno patre. Per om<supplied reason="abbreviated">nia secula seculorum</supplied>.</p></div><div type="rubric"><p><hi rend="red">Oratio</hi></p></div>
+<lb n="16"/><div type="oratio"><p><note><p>The following prayer is identified in The Portiforium of Saint Wulstan (Worcester) only, and our text is corrected on the basis of this, from Gjerl&oslash;w 1970 p. 91</p></note><hi rend="red initial 1 line high">D</hi>eus qui crucem <sic corr="ueneror">uenerator</sic> et <sic corr="sanctam">spiritum</sic> resur
+<lb n="17"/>rectionem tuam credo christe saluator mundi
+<lb n="18"/>qui redemisti <supplied reason="text left out in ms">me</supplied> precioso sanguine tuo pro nobis
+<lb n="19"/>hodie pendens in cruce obsecro <supplied reason="text left out in ms">te salua me</supplied> pecca
+<lb n="20"/>torem prostratum adorantem te humiliter
+<lb n="21"/>confitentem in cruce lacrimabiliter passio
+<lb n="22"/>nemque tuam recolentem et sanctam resurrectionem
+<lb n="23"/>tuam laudantem atque <sic corr="credentem">creantem</sic> mente deuota;
+<lb n="24"/>Et <sic corr="confessione">confessionem</sic> supplici et corpore prostrato
+<lb n="25"/>lignum sacratissime passionis tue humiliter
+<lb n="26"/>ueneremur. Per.</p></div><div type="rubric"><note resp="scribe" place="supralinear"><hi rend="red">Antiphona</hi></note></div><div type="antiphona"><p>Crux fidelis inter omnis arbor una
+<lb n="27"/><sic corr="nobilis">nobili</sic> nulla silua talem profert fronde flore
+<lb n="28"/>germine dulce lignum dulce clauos dulce pondus
+<lb n="29"/>sustinet.</p></div><div type="rubric"><note resp="scribe" place="supralinear"><hi rend="red">Ymnus</hi></note></div><div type="hymnus"><p>Pange lingua</p></div><div type="rubric"><note resp="scribe" place="supralinear"><hi rend="red">Antiphona</hi></note></div><div type="antiphona"><p>Super omnia ligna ce
+<lb n="30"/>drorum tu sola excelsior in qua uita mundi pe
+<lb n="31"/>pendit in qua christus triumphauit et mors mortem
+
+<pb n="1v"/>
+<cb n="A"/>
+<lb n="1"/>superauit in eternum. Sepulto domino. In pace in <sic corr="id">it</sic>
+<lb n="2"/>ipsum.</p></div><div type="diverse"><p>Oremus preceptis. Libera nos usque in finem.
+<lb n="3"/><add place="left" hand="scribe">Respice</add> Calicem. Cenantibus. M<supplied reason="abbreviated">agnificat</supplied>. Non dominus uobiscum. Sed alta uoce. 
+<lb n="4"/><sic corr="refecta">Refect<del type="dot under letter" hand="scribe">i</del><add place="supralinear" hand="scribe">a</add></sic><note><p>hypercorrection</p></note> uita.</p></div><div type="oratio"><p><hi rend="red initial 1 line high">D</hi>omine sancte pater omnipotens
+<lb n="5"/>lumen indefi<add place="supralinear" hand="scribe">ci</add>ens conditor omnium luminum
+<lb n="6"/>exaudi nos famulos tuos, et benedic hunc
+<lb n="7"/>ignem qui tua sanctificatione atque <sic corr="benedictione">benedic<note><p>the loop on the ct ligature is maintained, even though the letters are divided with a line break</p></note>
+<lb n="8"/>tionem</sic> consecratur tu qui illuminas omnem ho
+<lb n="9"/>minem uenientem in hunc mundum illumi
+<lb n="10"/>na conscientias nostri cordis igne tue cla
+<lb n="11"/>ritatis, ut <sic corr="tuo">tue</sic> igne igniti et tuo lumine
+<lb n="12"/>illuminati expulsis cordibus nostris peccatorum
+<lb n="13"/>tenebris ad uitam te illustrante peruenire
+<lb n="14"/>mereamur eternam. Per.</p></div>
+<lb n="15"/><div type="oratio"><p><hi rend="red initial 1 line high">D</hi>eus qui filium tuum angularem scilicet
+<lb n="16"/>lapidem caritatis ignem tuis fidelibus contu
+<lb n="17"/>listi, productum <sic corr="et silice">est scilicet</sic> nostris profuturum usibus
+<lb n="18"/>nouum hunc ignem sanctifica et concede nobis ita
+<lb n="19"/>per hec festa pascalia celestibus <sic corr="desideriis">desidens in</sic>
+<lb n="20"/>inflammari ut ad perpetua festa purgatis
+<lb n="21"/>mentibus <sic corr="pertingere">pertangere</sic> ualeamus. Per.</p></div><div type="hymnus"><p>Inuento.</p></div> 
+<lb n="22"/><div type="oratio"><p><sic corr="Exorcizo"><hi rend="red initial over one line">E</hi>xortizo</sic> te omnis immundissime spiritus
+<lb n="23"/>et <sic corr="omne">omnis</sic> fantasma inimici, in nomine dei omni
+<lb n="24"/>potentis, et in nomine ihesu christi filii eius et spiritus
+<lb n="25"/>sancti ut exeas et recedas ab hac creatura
+<lb n="26"/><sic corr="thimiamatis">tihimatis</sic> <sic corr="siue">sine</sic> incensi cum omni <sic corr="fallacia">fallantia</sic>;
+<lb n="27"/>atque nequitia tua ut sit hec creatura <sic corr="sanctificata">sanctifica</sic>
+<lb n="28"/>in nomine domini nostri ihesu christi, filii eius; ut omnis
+<lb n="29"/>gestantes siue odorantes, eam uirtutem
+<lb n="30"/>et <sic corr="auxilium">auxiliam</sic> percipiant <sic corr="spiritus">spiritu</sic> sancti, ita <supplied reason="text left out in ms">ut</supplied> ubicumque
+
+<cb n="B"/>
+<lb n="1"/>hoc incensum uel <sic corr="thimiana">thimiania</sic> fuerit,
+<lb n="2"/>ibidem nullatenus appropinquare audeas, nec
+<lb n="3"/><sic corr="aduersa">aduerse</sic> inferre presumas set quicumque
+<lb n="4"/>es spiritus immunde, cum omni uersutia <sic corr="tua">sua</sic>
+<lb n="5"/>procul inde fugias adque discedas ad iuratus
+<lb n="6"/>per nomen et per <sic corr="uirtutem">uirtutis</sic> dei patris omnipotentis,
+<lb n="7"/>et filii eius ihesu christi domini nostri qui uenturus est in
+<lb n="8"/>spiritu sancto i<supplied reason="abbreviated">udicare</supplied> <sic corr="uiuos">uiuit</sic> et m<supplied reason="abbreviated">ortuos</supplied> et s<supplied reason="abbreviated">eculum</supplied> per i<supplied reason="abbreviated">gnem</supplied>.<note><p>the last line above is so chaotic and shortened I doubt whether the meaning could have been clear. The i in ignem is placed above the abbreviated "per".</p></note></p></div> 
+<lb n="9"/><div type="oratio"><p><hi rend="red initial over one line">E</hi>xsultet iam angelica <sic corr="turba">tuba</sic> celorum exultent
+<lb n="10"/>diuina misteria et pro tanti regis<note><p>space left open for high number of neumes?</p></note> uictoria tu
+<lb n="11"/>ba intonat <sic corr="salutaris">saluris</sic>; Gaudeat se tellus tantis
+<lb n="12"/>irradiata fulgoribus et eterni regis splendore illu
+<lb n="13"/>strata totius orbis sentiat amississe <unclear>caliginem</unclear>.
+<lb n="14"/>Letetur mater ecclesia tanti luminis <unclear>adornata</unclear>
+<lb n="15"/>fulgoribus, et magnis populorum uocibus hec aula
+<lb n="16"/>resultet. Quapropter astantibus uobis fratres karissimi
+<lb n="17"/>ad tam miram sancti luminis huius claritatem
+<lb n="18"/>una mecum <unclear>queso</unclear>, <add place="supralinear" hand="scribe">dei</add> omni potentis patris <sic corr="misericordiam">micerisordiam</sic><note><p>the scribe switched two letters in the abbreviation. Instead of miscdia he wrote micsdia</p></note>
+<lb n="19"/>inuocate ut qui non meis meritis intra leuitarum
+<lb n="20"/>numerum dignatus est, aggregare luminis sui
+<lb n="21"/>gratia infundente cerei, huius laudem <sic corr="implere">implete</sic>
+<lb n="22"/>perficiat. Per dominum nostrum ihesum christum 
+<lb n="23"/> filium suum qui cum eo uiuit et regnat deus in u<supplied reason="shortened">nitate</supplied> <sic corr="spiritus">spiritu</sic> sancti. Per om<supplied reason="shortened">nia secula seculorum</supplied>.</p></div> 
+<lb n="24"/><div type="prefatio"><p>Dominus uobiscum et sursum, h<supplied reason="shortened">abemus ad dominum</supplied>. Gratias. Dignum.</p></div>
+<lb n="25"/><div type="oratio"><p><hi rend="red initial over one line">V</hi>ere dignum et iustum est. Inuisibi
+<lb n="26"/>lem deum patrem omnipotentem filiumque
+<lb n="27"/>unigenitum dominum nostrum ihesum christum, cum
+<lb n="28"/>sancto spiritu cordis ac mentis affectu et uotis
+<lb n="29"/><sic corr="ministerio">misterio</sic><note><p>the scribe forgot to put the nasal abbreviation over the first i in misterio</p></note> personare. Qui pro nobis eterno <unclear>patri ade</unclear><note><p>it looks like the p is an abbreviated "per" with a small i behind it. This (Patri Ade) was probably never clear</p></note> 
+<lb n="30"/>debitum soluit: et ueteris piaculi cauti</p></div>
+    </div>
+    <div lang="en" type="translation">
+        <div><head>Translation, 1549, 2:</head><pb n="1r"/>
+            <cb n="1. column"/>
+            <div><head>Antiphon</head><p>O my people, what I have done to you? or how have I burdened you? Answer me.</p></div>
+            <div><head>Verse</head><p>Because he led you out of the land of Egypt, you have prepared a cross for your saviour.</p>
+<p>O holy God! O holy strong one! O holy immortal one, have mercy on us.</p>
+                <p>O holy god! O holy strong one! O holy and immortal one, have mercy on us.
+                </p>
+                <p>Because I led you through the desert forty years and fed you with manna, and brought you into a land exceeding good, you have prepared a cross for your saviour. </p>
+                <p>O holy. O holy.</p>
+                <p>What more ought I have done for you, that I have not done? I planted you, indeed, my most beautiful vineyard, and you have become exceeding bitter to me: For in my thirst you gave me vinegar to drink, and with a lance you pierced the side of your saviour. </p>
+                <p>O holy. O holy.</p><note>For online translation, see <xref url="http://www.christusrex.org/www1/mcitl/trholyweek.html">http://www.christusrex.org/www1/mcitl/trholyweek.html</xref> or <xref url="http://www.cantemusdomino.net/blog/archives/001209.php">http://www.cantemusdomino.net/blog/archives/001209.php</xref>.</note></div>
+            <div><head>Responsory</head><p>Behold the wood of the cross, on which hung the saviour of the world, come let us adore. Come let us adore him, because he is the Lord, our God. Behold the wood. God have mercy. Behold the wood.</p></div>
+            <div><head>Antiphon</head>
+                <p>Let us adore your cross, Lord, let us adore, Lord, and honour your glorious passion. Have mercy on us, you who suffered for us. We adore your cross, O Lord, we praise and glorify your holy resurrection. For behold, by the wood of the Cross joy came into the whole world.</p></div>
+            <div><head>Antiphon</head>
+                <p>While the maker of the world suffered the punishment of death on the cross, crying out loudly, he gave up his spirit, and behold, the veil was ripped, the graves were opened, for there was a strong tremor, because the world cried out that it could not stand the death of the son of God. O admirable ransom, by the weight of which the darkness’ captivity of the world was abolished, the walls of hell were crushed, and the gates of the kingdom opened for us.</p><note>For online translation, see <xref url="http://www.bl.uk/collections/eblj/2004/pdfarticles/article1.pdf">http://www.bl.uk/collections/eblj/2004/pdfarticles/article1.pdf, p. 3.</xref>.</note>
+                <p><note>Incipits of the 7 Penitent Psalms. (Ps. 6, 31, 37, 50, 101, 129, 142)</note></p></div>
+                <pb n="1r"/>
+                <cb n="2. column"/>
+                <div><p>O Lord, Jesus Christ, I adore you climbing onto the cross, I implore you, that this very cross will liberate me from the striking devil.</p>
+                <p>O Lord, Jesus Christ, I adore you wounded on the cross, I implore you, that these very wounds will be a remedy for my soul.</p>
+                <p>O Lord, Jesus Christ, I adore you placed in the sepulchre, I implore you that your very death will be life for me.</p>
+                <p>O Lord, Jesus Christ, I adore you descending to hell, releasing the captives, I implore you, that you will not send me away to enter there. </p>
+                <p>O Lord, Jesus Christ, I adore you when you come to pass judgement, I implore you, that when you come, you will not pass judgement on me as a sinner, but I implore you that you will not send me away before you judge. The saviour of the world, who, with the eternal God, the Father. For ever and ever.</p></div>
+                <div>
+                    <head>Prayer</head><p>God, I who venerate your cross and believe in your holy resurrection, O Christ, saviour of the world, you who have redeemed me with your precious blood, hanging on the cross for us on this day, I beseech you, save me, this sinner who bowing to the ground humbly worships you and confesses to you, honouring your sorrowful Passion on the cross, and praising and devoutly believing in your holy resurrection. Submissively confessing and bowing to the ground we humbly venerate the wooden instrument of your most holy Passion.</p></div>
+                <div>
+                    <head>Antiphon</head><p>Faithful cross above all other, one and only noble tree, none in foliage none in blossom, none in fruit thy peer may be, sweetest wood and sweetest iron, sweetest weight is hung on thee.<note>For online translation, see <xref url="http://mywebpages.comcast.net/joegrabowski/personal/pange_lingua.html">http://mywebpages.comcast.net/joegrabowski/personal/pange_lingua.html</xref> </note></p>
+                </div>
+                <div>
+                    <head>Hymn</head><p>Sing, my tongue.</p></div>
+                <div>
+                    <head>Antiphon</head><p>Of all cedar-wood you alone are the highest, on which hung the life of the world, on which Christ triumphed and death conquered death in eternity.</p>
+                
+                <pb n="1v"/>
+                <cb n="1. column"/>
+                    <note>Incipits of antiphons.</note></div>
+            <div>
+                <p>O Lord, almighty holy Father, the ever-shining light, the maker of all light, hear us, your servants, and bless this fire, which will be consecrated by your sanctification and blessing; you, who illuminate every man who comes into this world, illuminate our heart’s conscience with the fire of your clarity, so that we, alight with your fire and illuminated by your light, with the darkness of sin expelled from our hearts, deserve to reach the eternal life by your guiding light.</p>
+                <p>O God, you who brought your Son, the corner stone, the fire of love, to those who believe in you, brought forth to our benefit, bless this new fire and let us through this Easter celebration be inflamed by celestial desires, so that we may reach the eternal celebration with pure minds.</p></div>
+                    <div><head>Hymn</head><p>Invento</p></div>
+                <div><p>I exorcise you, every impure spirit and every ghost of the enemy, in the name of the almighty God and in the name of Jesus Christ, His Son, and of the Holy spirit, so that you will leave and withdraw from this creature, through thyme or incense, with all your deceit and your sins, so that this creature may be blessed in the name of our Lord Jesus Christ, His Son; may all who carry or emanate this receive the virtue and help of the Holy spirit, so that wherever <cb n="2. column"/>this incense or thyme may be, there you will not in any way dare to come close or try to bring adversities, but whoever you are, impure spirit, with all your cunning you will run far away from there and leave, bound by the name and virtue of God, the almighty Father, and his son Jesus Christ, our Lord, who will come in the Holy spirit to pass judgement on the living and the dead and time through fire.</p>
+                <p>Let the flock of angels rejoice, let the divine mysteries rejoice, and for the victory of so great a king let the trumpet of salvation sound. Let the earth rejoice, made radiant with such gleaming light and enlightened by the splendour of the eternal king, let it feel that the darkness of the whole world is expelled. Be glad, mother church, adorned with such brightness, and let this hall resound from the strong voices of the people. Therefore, dearest brothers, as you stand by the amazing clarity of his holy light, I ask, invoke with me the mercy of God, the almighty Father, so that he who by no merit of mine has seen me worthy to be counted among the levites, as the grace of his light flows forth, will enable me to fulfil the praise of this candle. Through our Lord, Jesus Christ his son, who lives and reigns with him, in the unity of the Holy Ghost, God; world without end. Amen.</p>
+                <p>The Lord be with you. (And with your spirit.) Lift up (your hearts). We have lifted them up to the Lord. Let us give thanks (to the Lord, our God). It is fitting (and just).</p>
+                    <p>It is fitting indeed and just, to proclaim with all our hearts and all the affection of our minds, and with the ministry of our voices, the invisible God, the Father Almighty and His Only-begotten Son our Lord Jesus Christ with the Holy spirit, who repaid for us to His Eternal Father the debt of Adam, ... <note>For online translation, see <xref url="http://www.catholic.org/frz/Images_Liturgy/EASTER/exsultet.htm">www.catholic.org/frz/Images_Liturgy/EASTER/exsultet.htm</xref></note></p> 
+                
+                </div>
+            </div>
+      </div>
+</body>
+</text>
+</TEI.2>
+

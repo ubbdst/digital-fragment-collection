@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://gandalf.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>Missal</title>
+    <title level="s">Transcription of UBB MS 1549, 5</title>
+<author>Unknown</author>
+<respStmt>
+<resp>Transcription</resp>
+<name>&Aring;slaug Ommundsen, University of Bergen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>First Menota draft, <date>2004-06</date>.</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University Library of Bergen/Medieval Nordic Text Archive</publisher>
+<pubPlace>Bergen</pubPlace>
+<date>2004</date>
+<idno type="Menota">Ms. ?</idno>
+<availability status="restricted"><p>This text is available for purposes of academic research and teaching only. Re-distribution in any form without prior permission is prohibited. Short extracts may be cited with full acknowledgment of the source.</p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>The bifolium contains the liturgy for Wednesday (feria quarta) after first Sunday of Lent and, after a lacuna, the liturgy for Saturday of that same week, and for the second Sunday of Lent. In the transkription I have used Gjerl&oslash;w, Lilli: "Missaler brukt i Bj&oslash;rgvin bisped&oslash;mme fra misjonstiden til Nidarosordinariet", Bj&oslash;rgvin bispestol. Byen og bisped&oslash;mmet, Bergen 1970, pp. 73-115. For full texts I have also used the online Vulgate version <xref url="http://www.sacred-texts.com/bib/vul">http://www.sacred-texts.com/bib/vul</xref> and <xref url="http://users.starpower.net/jacade/sun2lent.html">http://users.starpower.net/jacade/sun2lent.html</xref> </p>
+    <p>Facsimiles available at <figure url="../facsimiles/UBB MS 1549, 5a.jpg"><p>Facsimile 1549 5a</p></figure>, <figure url="../facsimiles/UBB MS 1549, 5b.jpg"><p>Facsimile 1549 5b</p></figure>,
+        <figure url="../facsimiles/UBB MS 1549, 5c.jpg"><p>Facsimile 1549 5c</p></figure> and
+        <figure url="../facsimiles/UBB MS 1549, 5d.jpg"><p>Facsimile 1549 5d</p></figure></p>
+<msDescription>
+<msIdentifier>
+<country reg="NO">Norway</country>
+<settlement>Bergen</settlement>
+<repository>University Library</repository>
+<idno>UBB MS 1549,5</idno>
+</msIdentifier>
+<msHeading>
+<textLang langKey="lat">Latin</textLang>
+<title>Breviary</title>
+    <title level="s">UBB MS 1549, 5</title>
+    <origPlace>England?</origPlace>
+<origDate notBefore="1090" notAfter="1130">early 12th century</origDate>
+</msHeading>
+<physDesc>
+<condition><p>The bifolium is in good condition.</p>
+</condition>
+</physDesc> 
+</msDescription>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+    <p>This text has been encoded according to the standard set out in <xref url="http://www.hit.uib.no/menota/guidelines">The Menota handbook</xref>, version 1.1.</p>
+</projectDesc>
+
+<editorialDecl>
+<correction status="medium"><p>This text was proofread by &Aring;slaug Ommundsen before internet release February 2005</p></correction>
+    <normalization>
+    <p>The orthography has not been normalized. Abbreviations are silently written out.</p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+    <profileDesc>
+        <langUsage>
+            <language id="lat"/>
+        </langUsage>
+        <handList>
+            <hand id="scribe"/>
+        </handList>
+    </profileDesc>
+</teiHeader>
+
+<text>
+<body><div>
+<pb n="1r"/>
+<lb n="1"/><div type="lectio"><p><hi rend="red">I</hi>n diebus illis&punctelev; Dixit dominus ad moysen. <hi rend="red">lectio libri exodi.</hi>
+<lb n="2"/>Ascende ad me in montem&punctelev; et esto ibi. Daboqe tibi duas tabulas
+<lb n="3"/>lapideas&punctelev;<unclear>et legem ac mandata</unclear> que scripsi ut docens filios
+<lb n="4"/>israhel. Surrexerunt moyses et iosue minister eius&punctelev; ascendens
+<lb n="5"/>que moyses in montem <unclear>dei</unclear>&punctelev; senioribus ait&middot; Expectate hic&punctelev; do<supplied>nec</supplied>
+<lb n="6"/>reuertamur ad uos. Habetis <unclear>aaron</unclear> et <add place="supralinear">h</add>ur uobiscum&punctelev; si quid na-
+<lb n="7"/>tum fuerit quaestionis referetis ad eos. Cumque ascendisset mo-
+<lb n="8"/>yses operuit nubes montem&punctelev;et habitauit gloria domini super synai&middot; te-
+<lb n="9"/>gens illum nube sex <supplied>d</supplied>iebus. Septimo autem die&punctelev; uocauit eum
+<lb n="10"/>de medio cal<supplied>i</supplied>ginis. Erat autem species glori&eogon; domini quasi ignis
+<lb n="11"/>ardens super <supplied>uert</supplied>icem <supplied>mon</supplied>tium&punctelev; in conspectu filiorum israel. Ingres-
+<lb n="12"/>susque moyses mediu<supplied>m n</supplied>ebule. Ascendit in montem&middot; Et fuit ibi
+    <lb n="13"/>quadraginta diebus <supplied>et q</supplied>uadraginta noctibus.</p><note><p>Exodus 24, 12-18</p></note></div><div type="graduale"><head><hi rend="red">graduale</hi></head> <p>Tribulationes
+        <lb n="14"/>cordis mei <supplied>dilatate sunt de necessitatibus meis</supplied> eripe me do
+<lb n="15"/>mine.</p></div><div type="versus"><head><hi rend="red">versus</hi></head><p>Vide humi<supplied>litatem meam et labo</supplied> 
+<lb n="16"/>rem meum <supplied>et</supplied> dimi<supplied>tte omnia</supplied> peccata mea.</p><note><p>Ps. 24, 17-18</p></note></div><div type="lectio"><head><hi rend="red">lectio libri regum</hi></head><p>
+<lb n="17"/><hi rend="blue">I</hi>n diebus illis. Venit helias in bersabe&eogon; iuda&punctelev; et dimisit ibi
+<lb n="18"/>puerum suum&middot; et perr<supplied>exit in</supplied> desertum uiam unius diei&middot; Cumque
+<lb n="19"/>uenisset et se<supplied>dere</supplied>t su<supplied>bter una</supplied>m iuniperum&punctelev; petiuit animae suae
+<lb n="20"/>ut moreretur&middot; <supplied>et ait</supplied>&middot; Su<supplied>fficit</supplied> mihi domine, tolle animam meam&middot; neque enim 
+<lb n="21"/>melior sum quam pa<supplied>tr</supplied>es mei&middot; Proiecitque se&punctelev; et obdormiuit
+<lb n="22"/>in umbra iuniperi&middot; Et ecce Angelus domini tetigit eum&punctelev; di-
+<lb n="23"/>xitque ei&middot; Sur<supplied>ge</supplied> com<supplied>ede</supplied>&middot; Et respexit&punctelev; et ecce Ad caput suum
+<lb n="24"/>subcinericiu<supplied>s pa</supplied>anis <supplied>et</supplied> uas aque. Comedit ergo et bibit&punctelev; et rursum
+<lb n="25"/>obdormiuit. <supplied>R</supplied>eu<supplied>ersus</supplied> est angelus domini secundo&punctelev; 
+<lb n="26"/>tetigit <supplied>eum dixitque illi surge comede</supplied> grandis enim tibi
+<lb n="27"/>restat uia<note><p>notice the ia ligature</p></note>. Qui cum surrexisset&punctelev; comedit et bibt. Et ambu
+<lb n="28"/>lauit in fortitudine cibi illius quadraginta diebus et qua-
+<lb n="29"/>draginta noctibus&punctelev; usque ad montem dei oreb.</p><note>3 Reg 19, 3-8</note></div> <div type="tractus"><head><hi rend="red">Tractus.</hi></head>
+<lb n="30"/><p><hi rend="red">D</hi>e necessitatibus me<note><p>space for neumes</p></note>is eripe me domine uide
+<lb n="31"/>humilitatem meam et laborem meum et dimitte omnia peccata
+
+<pb n="1v"/>
+    <lb n="1"/>mea.</p></div><div type="versus"><head><hi rend="red">versus</hi></head><p>Ad te domine leuaui animam meam deus meus in te confi
+<lb n="2"/>do non erubescam neque irrideant me inimici mei.</p></div>
+    <lb n="3"/><div type="versus"><head><hi rend="red">versus</hi></head><p>Et enim uniuersi qui te expectant non confundentur confundan-
+        <lb n="4"/>tur omnes facientes uana.</p></div><div type="lectio"><head><hi rend="red">secundum matheum.</hi></head>
+<lb n="5"/><p><hi rend="blue">I</hi>n illo tempore&punctelev; Accesserunt ad ihesum scrib&eogon; et pharisei&punctelev; dicen-
+<lb n="6"/>tes&middot; Magister&punctelev; uolumus a te signum uidere. Qui respondens&punctelev;
+<lb n="7"/>ait illis&middot; Generatio mala et adultera signum qu&eogon;rit&punctelev; et signum
+<lb n="8"/>non dabitur ei&middot; nisi signum ion&eogon; prophet&eogon;&middot; Sicut enim fuit
+<lb n="9"/>ionas in uentr&eogon; ceti tribus diebus et tribus noctibus&punctelev; sic erit
+<lb n="10"/>filius hominis in corde terr&eogon; tribus diebus et tribus noctibus. 
+<lb n="11"/>Viri niniuice surgent in iudicio cum generatione ista&punctelev; et condemp-
+<lb n="12"/>nabunt eam&middot; quia poenitentiam egerunt in predicatione ion&eogon;.
+<lb n="13"/>Et ecce plusquam iona hic&middot; Regina austri surge<del type="dots under letter" hand="scribe">n</del>t in iudicio
+<lb n="14"/>cum generatione ista&punctelev; et condempnabit eam&punctelev; quia uenit a fi-
+<lb n="15"/>nibus terr&eogon; audire sapientiam salomonis&middot; Et ecce plus quam
+<lb n="16"/>salomon hic&middot; Cum autem inmundus spiritus exierit ab homine&punctelev;
+<lb n="17"/>ambulat per loca arida querens requiem et non inuenit&middot; Tunc di-
+<lb n="18"/>cit&middot; Reuertar in domum meam&punctelev; unde exiui&middot; Et ueniens&punctelev;
+<lb n="19"/>inuenit uacantem scopis mundata et ornatam&middot; Tunc uadit
+<lb n="20"/>et assumit septem alios spiritus secum nequiores se&punctelev; et ingressi habitant
+<lb n="21"/>ibi. Et fiunt nouissima hominis illius&punctelev; peiora prioribus. Sic
+<lb n="22"/>erit&punctelev; et generationi huic pessime; Adhuc eo loquente ad turbas&punctelev;
+<lb n="23"/>ecce mater eius et fratres stabant&middot; qu&eogon;rentes te, At ipse respon-
+<lb n="24"/>dens&punctelev; dicenti sibi ait; Qu&eogon; est mater <sic corr="mea">tua</sic> et qui sunt fratres
+<lb n="25"/>mei? Et extendens manum in discipulos suos&middot; dixit; Ec-
+<lb n="26"/>ce mater mea et fratres mei; Quicumq<supplied>ue enim</supplied> fecerit uolunta-
+<lb n="27"/>tem patris mei qui in c&eogon;lis est&punctelev; ipse meus et frater&middot; et soror
+    <lb n="28"/>et mater est;</p><note><p>Matheus 12, 38-50</p></note></div> <div type="secreta"><head><hi rend="red">secreta.</hi></head>
+<lb n="29"/><p><hi rend="red">H</hi>ostias tibi domine placationis offerimus&punctelev; ut et delicta
+<lb n="30"/>nostra miseratus absoluas&middot; et mirantia corda tu dirigas. per.</p></div>
+<lb n="31"/><div type="prefatio"><p><hi rend="blue">Vere</hi> aeterne deus&punctelev; Qui in alimentum <hi rend="red">Prefatio.</hi>
+
+<pb n="2r"/>
+<lb n="1"/>alicui reddat&punctelev; sed semper quod bonum est sectamini in inuicem, et in
+<lb n="2"/>omnis; Semper gaudete sine intermissione orate&punctelev; in omnibus gratias
+<lb n="3"/>agite; H&eogon; est enim uoluntas dei in christo ihesu in omnibus nobis; Spiritum
+<lb n="4"/>nolite extinguere&punctelev; proph&eogon;tias nolite spernere; Omnia autem pro-
+<lb n="5"/>bate&middot; quod bonum est tenete&punctelev; ab omni specie mala abstinete
+<lb n="6"/>uos; Ipse autem deus pacis sacrificet nos per omnia&punctelev; et integer spiritus noster
+<lb n="7"/>et anima et corpus sine qu&eogon;rela&punctelev; in <add place="supralinear">die</add> aduentu domini nostri ihesu
+    <lb n="8"/>christi seruetur;</p></div> <div type="lectio"><head><hi rend="red">Secundum matheum.</hi></head>
+<lb n="9"/><p><hi rend="red">I</hi>n illo tempore&punctelev; Assumpsit ihesus petrum et iacobum et iohannem fratrem
+<lb n="10"/>eius et ducit illos in montem excelsum seorsum&punctelev; et transfiguratus est
+<lb n="11"/>ante eos; Et resplenduit facies eius sicut sol&punctelev; uestimenta autem
+<lb n="12"/>eius facta sunt alba sicut nix; Et ecce apparuerunt illis mo-
+<lb n="13"/>yses et helias&punctelev; cum eo loquentes; Respondens autem petrus&punctelev;
+<lb n="14"/>dixit ad ihesum; Domine&punctelev; bonum est nos hic esse &punctelev; Si uis faciamus
+<lb n="15"/>hic tria tabernacula&punctelev; tibi unum&middot; et moysi unum&middot; et heli&eogon;
+<lb n="16"/>unum; Adhuc eo loquente&punctelev; ecce nubes lucida obumbrauit
+<lb n="17"/>eos; Et ecce uox de nube dicens&middot; hic est filius meus dilectus&punctelev;
+<lb n="18"/>in quo mihi bene conplacui ipsum audite; Et audientes discipu- 
+<lb n="19"/>li&punctelev; ceciderunt in faciem suam&punctelev; et timuerunt ualde; Et accessit
+<lb n="20"/>ihesus et tetigit eos&punctelev; dixitque eis; Surgite&punctelev; et nolite timere;
+<lb n="21"/>Leuantes autem oculos suos&punctelev; neminem uiderunt nisi solum ihesum; Et 
+<lb n="22"/>descendentibus illis de monte&punctelev; precepit eis ihesus dicens; Nemi- 
+<lb n="23"/>ni dixeritis uisionem&punctelev; donec filius hominis&middot; a mortuis resur-
+    <lb n="24"/>gat;</p><note><p>Matheus 17, 1-9</p></note></div> <div type="offertorium"><head><hi rend="red">offertorium</hi></head><p>Domine deus salutis mee in die clamaui et nocte co-
+        <lb n="25"/>ram te intret oratio mea in conspectu tuo domine</p></div> <div type="secreta"><head><hi rend="red">secreta.</hi></head>
+<lb n="26"/><p><hi rend="blue">P</hi>resentibus sacrificiis domine ieiunia nostra sacrifica&punctelev; ut quod
+<lb n="27"/>obseruantia nostra profitetur extrinsecus interius operetur. per</p></div>
+    <lb n="28"/><div type="communio"><head><hi rend="red">communio</hi></head><p>Domine deus meus in te speraui libera me ab omnibus persequen-
+<lb n="29"/>tibus me et eripe me</p></div> <div type="postcommunio"><p><hi rend="red">postcommunio.</hi>
+<lb n="30"/><hi rend="red">S</hi>acrificationibus tuis omnipotens deus&punctelev; et uicia nostra curentur et
+<lb n="31"/>remedia nobis aeterna proueniant per.</p></div>
+
+<pb n="2v"/>
+<lb n="1"/><div type="oratio"><p><hi rend="blue">A</hi>b omnibus nos quesumus domine peccatis&middot; propitiatus absolue&middot; ut percepta <hi rend="red">super populum.</hi>
+    <lb n="2"/>uenia peccatorum&middot; liberis tibi mentibus seruiamus. per.</p></div><div type="oratio"><head><hi rend="red">oratio.</hi></head>
+<lb n="3"/><p><hi rend="red">D</hi>eus qui nos gloriosis remed<supplied>iis in terris adhuc positis iam</supplied> c&eogon;
+<lb n="4"/>lestium rerum facis esse consortes <supplied>tu quesumus in ista</supplied> qua uiuimus
+<lb n="5"/>nos uita guberna&middot; ut ad illam in qua ipse es lucem perducas&middot; per.</p></div>
+<lb n="6"/><div type="introitus"><p>Reminiscere miserationum tuarum domine <hi rend="red">?.ii.</hi><note><p>dominica secunda quadragesime: Second Sunday of Lent</p></note>
+<lb n="7"/>et misericordi&eogon; tu&eogon; qu&eogon; a seculo fuit <supplied>ne umquam</supplied> dominenetur nobis ini
+<lb n="8"/>mici nostri libera nos deus israhel ex omnibus angustiis nostris Ad te
+    <lb n="9"/>domine leuaui&middot; Gloria seculorum amen.</p></div> <div type="oratio"><head><hi rend="red">Oratio.</hi></head>
+<lb n="10"/><p><hi rend="blue">D</hi>eus qui conspicis omninos uirtute destitui&punctelev; interius exteriusque 
+<lb n="11"/>custodi&middot; tu et ab omnibus aduersitatibus muniamur in corpore&punctelev; et a 
+<lb n="12"/>prauis cogitationibus mundemur <supplied>in mente</supplied>&middot; per.</p></div><div type="lectio"><p><hi rend="red">lectio beati pauli ad <sic>tesalonicensses</sic>.</hi> 
+<lb n="13"/><hi rend="red">F</hi>ratres&punctelev; Rogamus et obsecram<supplied>us in</supplied> domino ihesu&punctelev; ut quemadmo 
+<lb n="14"/>dum accepistis a nobis&middot; quomodo uos oporteat ambulare 
+<lb n="15"/>sicut et ambuletis&middot; ut abundet<supplied>is magis</supplied>&middot; Scitis enim que precep
+<lb n="16"/>ta dederim uobis&punctelev; per dominum ihesum. <supplied>Haec est</supplied> enim uoluntas dei sanctifica 
+<lb n="17"/>tio uestra&punctelev; ut abstineatis uos a for<supplied>nicatione</supplied> ut sciat unusquisque
+<lb n="18"/>uestrum su<supplied>u</supplied>m uas possidere in sanctificati<supplied>one e</supplied>t honore; Non in passi
+<lb n="19"/>one desiderii&punctelev; sicut et gentes <supplied>que igno</supplied>rant deum; Et nequis
+<lb n="20"/>supergradiatur neque circumueniat <supplied>in nego</supplied>tio fratrem suum <supplied>quoniam uin</supplied>
+<lb n="21"/>dex est dominus de his omnibus&middot; sicut <supplied>predix</supplied>imus uobis et testificati
+    <lb n="22"/>sumus&middot; Non enim uocauit nos d<supplied>eus in m</supplied>undiciam&middot; <supplied>sed in sanctificat</supplied>i- 
+<lb n="23"/>onem; In christo ihesu&punctelev; domino nostro;</p><note><p>1 Thess 4, 1-7</p></note></div><div type="graduale"><p><supplied>graduale</supplied> Tribulationes cordis mei di 
+<lb n="24"/>latate <supplied>s</supplied>unt de necessitatibus meis <supplied>eripe me</supplied> do<supplied>mine</supplied></p></div> 
+    <lb n="25"/><div type="versus"><head><hi rend="red">versus</hi></head><p>Uide humilitatem <supplied>meam et laborem</supplied>
+<lb n="26"/>meum et dimitte omnia <supplied>peccata mea.</supplied></p></div>
+    <lb n="27"/><div type="tractus"><head><hi rend="red">tractus</hi></head><p>De necessitatibus <sic>meis is</sic> eripe me domine ui
+<lb n="28"/>de humilitatem meam et laborem meum et dimitte om-
+<lb n="29"/>nia peccata mea Ad te domine leuaui animam
+<lb n="30"/>meam deus meus in te confido non erubescam neque
+        <lb n="31"/>irrideant me inimici mei</p></div> <div type="versus"><head><hi rend="red">versus</hi></head><p>Etenim</p></div></div>
+    <div type="translation"><p>English translation is not available.</p></div>
+</body>
+</text>
+    </TEI.2>
+

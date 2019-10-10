@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+<TEI.2 lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Description of UB Bergen MS 1549, 7a</title>
+                <author>&Aring;slaug Ommundsen</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bergen University Library</publisher>
+                <address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+                <date>2005</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+                        <repository>Bergen University Library</repository>
+                        <idno>MS 1549, 7a</idno>
+                        <altName>MS 410, 7a</altName>
+                        <altName>Gjerløw: Mi 91</altName>
+                        <altName>The fragment is repeatedly called MS 1549, 4a in the literature on
+                            the stave church of Kaupanger. </altName>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>The Kaupanger Missal fragment</title>
+                        <note type="schlagzeile">Parchment, one fragment ca. <dimensions>11,3 x 5,8 cm</dimensions>, unknown
+                            origin, <date>second half of the 12th century</date>.</note>
+                    </msHeading>
+                    <msContents>
+                        <p>The contents is from the liturgy of the Mass for Thursday and Friday
+                            after the fourth Sunday of Lent. <persName>Hans Buvarp</persName> (1969, p. 60) has completed
+                            the fragmentary texts of fragment 1549, 7 using the later, printed
+                            <title>Missale Nidrosiense</title> (1519). The parts added from the printed missal are
+                            put in brackets. Other additions are in parentheses. (The transcription
+                            and additions are taken from Hans Buvarp 1969.) The lines follow the
+                            fragment.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Parchment, one fragment <dimensions>ca. 11,3 x 5,8 cm</dimensions>.</p>
+                        <p>Lay-out: The ruling is hardly visible. Size and more specific lay-out of
+                            the page is difficult to specify because of the limited size of the
+                            fragment.</p>
+                        <p>Script: The script is a fine Carolingian minuscule from the second half
+                            of the 12th century. The m- and n-abbreviations are wavy, the d’s are
+                            straight. Ampersand is used for “et”. However, there is no example of
+                            the ae-ligature e <hi rend="italic">caudata</hi>, which pushes the date
+                            forward. Rubricated. There is no musical notation, but the sung parts
+                            are written in a smaller script.</p>
+                        <p>Initials: The visible initial is plain, in an orange red colour. The
+                            first letter of the Verse <hi rend="italic">Exsurge domine</hi> is
+                            decorated with a red filling.</p>
+                        <p>Condition: The fragment is not in a very good condition. The inner side
+                            appears to have been cut with a knife, but the lower part seems more to
+                            have been ripped. Something has eaten away a corner. There is also a
+                            hole in the margin. The script on the recto side is relatively well
+                            preserved, although the upper half is quite faded. The script on the
+                            verso side has almost completely disappeared. </p>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p>Unknown origin, <date>second half of the 12th century</date>, based on the
+                            script.</p>
+                        </origin>
+                        <provenance>
+                            <p>Was probably used in <placeName>Kaupanger</placeName> in the Middle Ages. Was found
+                                underneath the floorboards of the <placeName>stave church of Kaupanger</placeName> during
+                                the excavations in <dateRange>1964-65</dateRange>. Buvarp assumes that the fragment was
+                                used in a binding (Buvarp 1969, p. 57).</p>
+                        </provenance>
+                        <acquisition>
+                            <p>Given to the <orgName>Bergen University Library</orgName> by <persName>Hans Emil
+                                Lidén</persName> in <date>1965</date> after the excavations in the
+                                stave church of <placeName>Kaupanger</placeName>.</p>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <head>Bibliography</head>
+                            <bibl>Buvarp, Hans 1969: ”To liturgiske fragmenter”, Kaupanger
+                                stavkirke, Fortidsminner 56, Oslo, p.57-62.</bibl>
+                            <bibl>Lidén, Hans-Emil 1969: ”Utgravningene under kirken”, Kaupanger
+                                stavkirke, Fortidsminner 56, Oslo, p. 5-24. (see p. 19)</bibl>
+                            <bibl>Lidén, Hans-Emil and Bjerknes, Kristian 1975: The stave churches
+                                of Kaupanger, Oslo. (see p. 46) </bibl>
+                            <bibl>Tveitane, Mattias et. al.: Bergen University Library Manuscript
+                                Catalogue [unpublished]</bibl>
+                        </listBibl>
+                    </additional>
+                </msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2006.02.16</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Updated the encoding of dates, places, names etc.</item>
+            </change>
+            <change>
+                <date>2005.10.18</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Reecoded a bit to make the xml document valid</item>
+            </change>
+            <change>
+                <date>2005.10.17</date>
+                <respStmt>
+                    <name>&Aring;slaug Ommundsen</name>
+                </respStmt>
+                <item>Made the original</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Introduction</head>
+                <p>The fragments catalogued under MS 1549, 7 were found underneath the floorboards
+                    in the choir of the stave church of Kaupanger in Sogn (Western Norway), during
+                    the excavation and restoration of the church in 1964-1965. Immediately after the
+                    excavation, the fragments were given to Bergen University Library by Hans-Emil
+                    Lidén. This is one of the rare cases where fragments are found on site, not in
+                    some archive or bookbinding. It is likely that the missal the fragment came from
+                    was used in Kaupanger in the Middle Ages. The script is a fine Carolingian
+                    minuscule from the second half of the 12th century, with plain, red initials. </p>
+                <list type="facsimiles">
+                    <head>Facsimiles and transcriptions</head>
+                    <item>
+                        <xref url="../transcriptions/UBB MS 1549, 7a-transkr.page">Transcription of
+                            UBB MS 1549, 7a</xref>
+                        <figure url="../facsimiles/UBB MS 1549, 7a 1.jpg">
+                            <p>Facsimile verso</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 7a 2.jpg">
+                            <p>Facsimile recto</p>
+                        </figure>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+
+<TEI.2 lang="en">
+    <teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Description of UB Bergen MS 1550, 6</title>
+            <author>&Aring;slaug Ommundsen</author>
+        </titleStmt>
+        <publicationStmt><publisher>Bergen University Library</publisher><address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+            <date>2005</date>
+        </publicationStmt>
+        <sourceDesc>
+        <msDescription>
+                    
+        <msIdentifier>
+        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+        <repository>Bergen University Library</repository>
+        <idno>MS 1550, 6</idno>
+            
+        </msIdentifier>
+            <msHeading><title>Manuale, liber ritualis</title>
+                <note type="schlagzeile">Parchment, one cropped bifolium, ca. 32, 5 x 42 cm (leaf size: ca. 32, 5 x 24,5 cm), England, 14th century. 
+</note>
+            </msHeading>
+            
+                <msContents>
+                    <p>The contents are parts from the <emph rend="italic">Canon missae</emph> in the mass, more precisely the prayers <emph rend="italic">Supra que propitio ac sereno vultu respicere digneris</emph> and <emph rend="italic">Supplices te rogamus omnipotens deu iube hec perferri</emph>, followed by <emph rend="italic">Pater noster</emph> with musical notation. Finally there is the prayer <emph rend="italic">Libera nos quesumus domine ab omnibus malis</emph>. The prayers are supplied with instructions to the priest, written in red ink,  like “Here the priest shall kneel before the altar”, or “after he has kissed the altar, he rises, saying:”, and so on, revealing that the fragment comes from a priest’s manual. </p>
+
+                </msContents>
+            <physDesc><p>Parchment, one cropped bifolium, <dimensions>ca. 32, 5 x 42 cm</dimensions> (leaf size: ca. 32, 5 x 24,5 cm)</p>
+            <p>Lay-out: Writing space: 21,5 x 17, 5 cm. One column, 11 lines (8 lines when there is musical notation). There is no visible ruling, but there seem to be some “prickings” in the form of light brown rectangels, marking the x-height of each line. </p>
+            <p>Script: A large Gothic <emph rend="italic">textualis formata</emph> (x-height: 1,1 cm). This is an example of a <emph rend="italic">textus praescissus</emph>, meaning that the minims and the ascenders end flat to the baseline (with no serif going up to the right). Rubricated. The same scribe has written the main text and the rubrics (information from Mr. M. Gullick, Oct. 2005). One peculiarity is the tironian ”et”-sign with a hairline-stroke at the beginning. (A similar execution for the “et”-sign, only uncrossed, occurs in an early 14th century English Psalter, see Derolez 2003, pl. 27.) </p>
+            <p>Musical notation: 	Square notation on three red lines, with an F-clef.</p>
+            <p>Initials:	<emph rend="italic">Fleuronné</emph>: Two large initials have red pen-flourishing to a faded blue letter. There are also smaller, plain initials, alternating red and blue. </p>
+            <p>
+                    Condition:	The fragment is in relatively good condition, although the verso-side is somewhat darkened.
+                </p></physDesc>
+            <history><origin><p>England, 14th century. (Information given by the palaeographer Michael Gullick at a an international workshop on manuscript fragments in October 2005.)</p>
+            </origin>
+                <acquisition>
+                    <p>The fragment was probably acquired in a book binding, and removed from the binding during the 1960’s. Unfortunately the records of which book it came from, are now lost. Along with MS 1550, 7 it was kept together with the other manuscript fragments, but without being registered in the library’s manuscript catalogue. It received the current catalogue number (MS 1550, 6) in 2005.</p>
+            </acquisition>
+                
+            </history><additional><listBibl><head>Bibliography</head>
+                <bibl>Derolez, A. 2003: The Palaeography of Gothic Manuscript Books From the Twelfth to the Early Sixteenth Century, Cambridge.
+                </bibl>
+                <bibl>Kolsrud, O. 1962: Manuale Norwegicum, Oslo. (Text of the Canon missae p 117-119)
+                </bibl>
+                <bibl>Kulturhistorisk leksikon for Nordisk middelalder XI, Gyldendal 1966, ”Manuale” p. 343.
+                  </bibl>
+                </listBibl></additional></msDescription>
+            
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+    <langUsage><language id="en"></language></langUsage></profileDesc>
+    <revisionDesc>
+        <change>
+            <date>2005.03.07</date>
+            <respStmt><name>Tone Merete Bruvik</name></respStmt>
+            <item>Renecoded a bit to make the xml document valid</item>
+        </change>
+        <change>
+            <date>2004.10.?</date>
+            <respStmt><name>&Aring;slaug Ommundsen</name></respStmt>
+            <item>Made the original</item>
+        </change>
+    </revisionDesc>
+</teiHeader>
+    <text><body><div><head>Introduction</head><p>This fragment is a double leaf from a priest’s handbook, written in England in the 14th century. It was probably removed from the binding of one of the University library’s books in the 1960’s, but the record of which book it was, is unfortunately lost. The fragment was studied in October 2005 during an international workshop on manuscript fragments, and the origin determined. The preserved leaves contain parts of the <emph rend="italic">Canon missae</emph>, i.e. the prayer after the singing of the prefatio in the mass (see also 1550, 2), and the Lord’s prayer <emph rend="italic">Pater noster</emph> with musical notation. The prayers are supplied with instructions for the priest, written in red ink, like “Here the priest shall kneel before the altar”, and so on. The fragment had not previously been entered into the manuscript catalogue, and received its current signature in 2005.</p>
+         <list type="facsimiles"><head>Facsimiles and transcriptions</head>
+            <item>
+                <figure url="../facsimiles/UBB MS 1550, 6a.jpg" ><p>Facsimile recto</p></figure>
+                <figure url="../facsimiles/UBB MS 1550, 6b.jpg" ><p>Facsimile verso</p></figure>
+            </item>
+        </list>
+    </div></body></text>
+</TEI.2>

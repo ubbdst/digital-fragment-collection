@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+
+<TEI.2 lang="en">
+    <teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Description of UB Bergen MS 1550, 1</title>
+            <author>&Aring;slaug Ommundsen</author>
+        </titleStmt>
+        <publicationStmt><publisher>Bergen University Library</publisher><address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+        </publicationStmt>
+        <sourceDesc>
+        <msDescription>
+                    
+        <msIdentifier>
+        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+        <repository>Bergen University Library</repository>
+        <idno>MS 1550, 2</idno>
+        </msIdentifier>
+            <msHeading><title>The Canon missae fragment</title>
+                <note type="schlagzeile">Parchment, one leaf from an incunable, 38 x 23 cm, Unknown origin, second half of the 15th century. </note>
+            </msHeading>
+            
+                <msContents>
+                    <p></p>
+
+                </msContents>
+            <physDesc><p></p>
+                <p>Lay-out: </p>
+                <p>Script: </p>
+                <p>Initials: </p>
+                <p>Condition: </p></physDesc>
+            <history><origin><p>Origin unknown, second half of the 15th century.</p>
+            </origin><provenance>
+                <p></p>
+            </provenance>
+                
+                <acquisition>
+                    <p></p>
+                </acquisition>
+                
+            </history>
+            <additional><listBibl><head>Bibliography</head>
+                <bibl></bibl>
+            </listBibl></additional></msDescription>
+            
+        </sourceDesc>
+    </fileDesc>
+        <profileDesc>
+            <langUsage><language id="en"></language></langUsage></profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2005.10.18</date>
+                <respStmt><name>Tone Merete Bruvik</name></respStmt>
+            <item>Renecoded a bit to make the xml document valid</item>
+        </change>
+        <change>
+            <date>2005.10.17</date>
+            <respStmt><name>&Aring;slaug Ommundsen</name></respStmt>
+            <item>Made the original</item>
+        </change>
+    </revisionDesc>
+    </teiHeader>
+    <text><body><div><head>Introduction</head><p>
+        <table>
+        <row><cell>Tertius</cell><cell></cell></row>
+        </table></p>
+         <list type="facsimiles"><head>Facsimiles and transcriptions</head>
+             <item><!--<xref url="../transcriptions/UBB MS 1550, 2-transkr.page">Transcription of UBB MS 1550, 2.</xref>-->
+                 <figure url="../facsimiles/UBB MS 1550, 2a.jpg"><figDesc>UBB MS 1550, 2, recto</figDesc></figure>
+             </item>
+        </list>
+    </div></body></text>
+</TEI.2>

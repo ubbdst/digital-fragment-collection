@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+<TEI.2 lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Description of UB Bergen MS 1549, 1, e</title>
+                <author/>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bergen University Library</publisher>
+                <address><addrLine>Nygå̴rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+                <date>2006.02.10</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+                        <repository>Bergen University Library</repository>
+                        <idno>MS 1549, 1, e</idno>
+                        <altName type="old signature">Gjerløw: Br 4, along with fragments 1549, 1a-d
+                            even though they do not seem to come from the same manuscript.</altName>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>The St Mary Gradual fragment</title>
+                        <note type="schlagzeile">Parchment, one fragment 24 x 12 cm, France(?),
+                            14th century(?).</note>
+                    </msHeading>
+                    <msContents>
+                        <p>Three Alleluias with verses and an Offertory, none of which complete, for
+                            a celebration of Virgin Mary, possibly the Assumption (15 August) or the
+                            Nativity (8 September). On the dark and unreadable verso side the rubric
+                            Off(ertorium) and the initial red R is visible. Towards the margin it is
+                            possible to see the letters “go” and “ma”. This fits very well with the
+                            Offertory <foreign>Recordare virgo mater</foreign>. All the liturgical elements in the
+                            fragment are commonly found, and what could possibly be a clue to
+                            finding out the fragment’s origin is the sequence of the Alleluia
+                            verses. </p>
+                            
+                        <p>[Alleluia.] Vers. Post partum<lb/>
+                            Alleluia. Vers. Ave Maria<lb/>
+                            Alleluia. Vers. Salve virgo<lb/>
+                            Offertorium: Recordare virgo mater<lb/>
+                        </p>
+                    </msContents>
+                    <physDesc>
+                        <p>Lay-out: No ruling is visible apart from the staffs of the musical
+                            notation. It is not possible to say much about original lay-out or size
+                            because of the limited size of the fragment. The original manuscript had
+                            9 lines or more to the page, and was at least in quarto format. </p>
+                        <p>Script: Gothic <foreign>textualis formata</foreign> with no particular marking of the i’s or
+                            u’s. Several letters are relatively round in character, although the
+                            angularity of gothic script is definately present. Rubricated.</p>
+                        <p>Musical notation: Square notation on four red lines. Clef: f.</p>
+                        <p>Initials: Three red initials are visible, quite plain with the exception
+                            of a small floral ending to the left. The Alleluia verse begins with a
+                            smaller, black initial decorated with a red line.</p>
+                        <p>Condition: The fragment is in poor condition. The recto side is so worn
+                            and darkened it’s illegible, with the exception of the top line. There
+                            are four holes from a binding, which seems to be of a rather thick book,
+                            ca 6 cm across the back. The four lines of smaller script in the lower
+                            left corner on the verso side seems to have rubbed off from another
+                            fragment, 1549, 1a, which was used in the same binding.</p>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p>France(?), <date>14th century(?)</date>. The fragment was used in the
+                                same binding as fragments 1549, 1a-d, which come from a breviary of
+                                English origin. This could point to <placeName>England</placeName> also for the
+                                current fragment. At a workshop in Bergen in October 2005 it was suggested that the place of origin might be France. The order of the Alleluia verses could bring us
+                                closer to finding the origin. </p>
+                        </origin>
+                        <provenance>
+                            <p>Secondary provenance unknown. The fragment appears to have been used
+                                in the binding of the same book as 1549, 1a-d, but which book and
+                                where it was bound is unknown.</p>
+                        </provenance>
+                        <acquisition>
+                            <p>MS 1549, 1a-e was a gift to the <placeName>museum of Bergen</placeName> from <persName>cand. theol. H.
+                                Daae</persName> in <date>1829</date>. The H. Daae in question is probably <persName>Hans Daae
+                                (<dateRange>1808-65</dateRange>)</persName>, born in <placeName>Leikanger</placeName> as son of the minister there. He began
+                                his theology studies in <placeName>Christiania</placeName> in <date>1825</date>. In <date>1831</date> he was employed
+                                as a chaplain in <placeName>Korskirken (the Cross Church) in Bergen</placeName>, where he
+                                stayed until <date>1850</date>. The circumstances for the gift, or where Daae
+                                acquired the fragments, is not known. </p>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <head>Bibliography</head>
+                            <bibl>Legg, Wickham J. (ed.) 1916: The Sarum missal, edited from three early manuscripts, Oxford.</bibl>
+                            <bibl>Tveitane, Mattias et. al.: Bergen University Library Manuscript
+                                Catalogue [unpublished]</bibl>
+                        </listBibl>
+                    </additional>
+                </msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2006.02.16</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Updated the encoding of dates, places, names etc.</item>
+            </change>
+            <change>
+                <date>2006.02.13</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>First draft</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Introduction</head>
+                <p>This fragment contains three Alleluias with verses and one offertory for a
+                    celebration of St. Mary. Only one side of the fragment is readable, the other
+                    one is very dark and worn. Like the fragments 1549, 1a-d, this fragment was also
+                    a gift to Bergen Museum from cand. theol. H. Daae in 1829, and appears to be
+                    used in the binding of the same book. However, it does not seem to come from the
+                    same manuscript, or the same genre of liturgical book. While the other fragments
+                    in the group comes from a breviary, this piece of parchment appears to be from a
+                    gradual, a book containing the sung elements in the liturgy for the Mass.</p>
+                <list type="facsimiles">
+                    <head>Facsimiles and transcriptions</head>
+                    <item>
+                        <xref url="../transcriptions/UBB MS 1549, 1e-transkr.page">Transcription of UBB MS 1549, 1e.</xref>
+                        <figure url="../facsimiles/UBB MS 1549, 1e 1.jpg">
+                            <figDesc>UBB MS 1549 1e, recto</figDesc>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 1e 2.jpg">
+                            <figDesc>UBB MS 1549 1e, verso.</figDesc>
+                        </figure>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI.2>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd" [
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]>
+<TEI.2 lang="en">
+    <teiHeader type="mainpage">
+        <fileDesc>
+            <titleStmt>
+                <title>Digital fragment collection</title>
+                <author>Tone Merete Bruvik, <name>The Department of Culture, Language and
+                        Information Technology (Aksis), UNIFOB AS</name></author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Published in the web at <xref url="http://gandalf.aksis.uib.no/mpf/">http://gandalf.aksis.uib.no/mpf/</xref>/</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born electronic</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en">English</language>
+                <language id="nb">Norwegian - Bokmål</language>
+                <language id="nn">Norwegian - Nynorsk</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>17. November, 2005</date>
+                <respStmt>
+                    <name>TMB</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>New front page.</item>
+            </change>
+            <change>
+                <date>7 October, 2005</date>
+                <respStmt>
+                    <name>TMB</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>Added some new Latin fragments</item>
+            </change><change>
+                <date>15 August, 2005</date>
+                <respStmt>
+                    <name>TMB</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>Added the first old norse items</item>
+            </change>
+            <change>
+                <date>3 August, 2005</date>
+                <respStmt>
+                    <name>TMB</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>Updates</item>
+            </change>
+            <change>
+                <date>1 April, 2005</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>Updates</item>
+                </change>
+                <change>
+                <date>28 October, 2004</date>
+                <respStmt>
+                    <name>Rune Kyrkjebø</name>
+                    <resp>editor</resp>
+                </respStmt>
+                    <item>Some changes to the text</item>
+                </change>
+            <change>
+                <date>22. september, 2004</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>First draft.</item>
+            </change>
+            <change>
+                <date>13. september, 2012</date>
+                <respStmt>
+                    <name>Rune Kyrkjebø</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>Update.</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <front>
+            <div>
+           
+                <p>This website presents electronic images of the fragments together with catalogue text for each one, and transcriptions and translations of selected fragments.</p>
+                
+                <p>This electronic collection includes fragments in the University of Bergen library, and the Bergen State Archives.</p>           
+                <p>For more manuscript fragments, see <xref url="https://fragments.app.uib.no">Inventory of medieval manuscript fragments in Norway</xref>.</p>
+            </div>
+        </front>
+        <body> 
+            
+            
+            <div><table>
+                <row>
+                    <cell><xref url="./fragments/UBB MS 1550, 4.page"><figure rend="tumbnail" url="./grafikk/UBB MS 1550, 4a utsnitt.jpg"/></xref></cell>
+                    <cell></cell>
+                    <cell><xref url="latin.page"> Latin fragments at Bergen University Library</xref></cell>
+                </row>
+                <row></row>
+                <row>
+                    <cell><xref url="./fragments/UBB MS 1836, 1.page"><figure rend="tumbnail" url="./grafikk/UBB MS 1836, 1b utsnitt.jpg"/></xref></cell>
+                    <cell></cell>
+                    <cell><xref url="norse.page"> Old Norse fragments at Bergen University Library</xref></cell>
+                </row>
+                <row></row>
+                <row>
+                    <cell><xref url="./fragments/SAB MS B 43, 1-3.page"><figure rend="tumbnail" url="./grafikk/SAB MS B 43, 03R utsnitt.jpg"/></xref></cell>
+                    <cell></cell>
+                    <cell><xref url="latin SAB.page"> Latin fragments at Bergen State Archives</xref></cell>
+                </row>
+            </table>
+            </div>
+            
+            
+        </body>
+        <back><div><p>This website was built in 2004-2006. Updated 2012.</p></div>
+        </back>
+    </text>
+</TEI.2>

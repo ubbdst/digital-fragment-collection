@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+<TEI.2 lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Description of UB Bergen MS 1549, 4</title>
+                <author>&Aring;slaug Ommundsen</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bergen University Library</publisher>
+                <address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine>
+                    <addrLine>http://www.ub.uib.no</addrLine></address>
+                <date>2005</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+                        <repository>Bergen University Library</repository>
+                        <idno>MS 1549, 4</idno>
+                        <altName type="old signature">MS 410, 4</altName>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>A commentary on 75 Psalms (formerly attributed to Rufinus
+                            Aquileiensis)</title>
+                        <note type="schlagzeile">Parchment, two cropped bifolia, ca <dimensions>14,5 x 19,5 cm</dimensions>,
+                            Northern France or the Low Countries(?), <date>late 12th century</date>.</note>
+                    </msHeading>
+                    <msContents>
+                        <p>The two fragments contain commentaries to Psalms 17-19 and 31-33. This is
+                            an abridged version, and not all verses are included. </p>
+                        <p>The text begins at 1549, 4 a (2) right column: Psalm 17, 30-35. The first
+                            initial is a green Q, which marks Psalm 17, 30: Quoniam in te eripiar a
+                            te[ntatione]: (for in You I will be delivered from temptation) The rest
+                            of the verse is left out, and then comes the comment: non in me. In me
+                            enim infirmus, in te fortis sum ([In You I will be delivered, he says],
+                            not in me. Because in me I am weak, but in You I am strong) and so on.
+                            Red D: Psalm 17, 31: Deus meus impolluta via eius. Green D: Psalm 17,
+                            33: Deus qui precinxit me. Red Q: Psalm 17, 35: Qui docet manus meas ad
+                            prelium. </p>
+                        <p> 1549, 4a (1) left column: Psalm 17, 36-39. The top text is the first
+                            half of Psalm 17, 36, followed by the second half: Green E: Psalm 17,
+                            36: Et disciplina tua correxit me in finem. Red D: Psalm 17, 37:
+                            Dilatasti gressus meos subtus me. Red P: Psalm 17, 38: Persequar
+                            inimicos meos, et com[prehendar illos]. </p>
+                        <p>1549, 4b (2) right column: Psalm 17, 41-46 and Psalm 18, 6-11. The first,
+                            concentrated paragraph contains the last words of Psalm 17, 39,
+                            proceeding with 41, 42, 43, and 46. Then follows Psalm 18, 6 before the
+                            first initial. The green A with red decoration is the first initial for
+                            Psalm 18, even though the text more or less glides from Psalm 17 to 18
+                            in the preceding paragraph. Green A: Psalm 18, 7: A summo celo egressio
+                            eius. Red L: Psalm 18,8: Lex domini immaculata convertens animas. </p>
+                        <p> 1549, 4b (1) left column: Psalm 18, 13-15 and Psalm 19, 2-6. The text
+                            begins with the end of Psalm 18, 13, and continues with the first part
+                            of 18, 14 without initial, continuing with the second part: Red S: Psalm
+                            18, 14: Si mei non fuerint do[minati]. Green D: Psalm 18, 15: Domine,
+                            adiutor meus. The initial marking Psalm 19 is a plain one. The first
+                            verse is not included: Red E: Psalm 19, 2: Exaudiat te dominus. Green M:
+                            Memor sit omnis sa[crificii] tui. </p>
+                        <p> 1549, 4 b (1) right column: Psalm 31, 2-11 and Psalm 32, 1-5. The green
+                            E (Exultate) with red decoration marks the beginning of Psalm 32,
+                            Exultate iusti in domino. </p>
+                        <p> 1549, 4b (2) left column: Psalm 32, 17 and Psalm 33, 2-15. Green F:
+                            Psalm 32, 17: Fallax equus ad salutem. Red B: Psalm 33, 2: Bene[dicam
+                            dominum in omni tempore]. Green A: Psalm 33, 6: Accedite ad eum. Green
+                            P: Psalm 33, 14: P[rohibe] linguam tuam. Red D: Psalm 33, 15: Declina a
+                            malo. </p>
+                        <p> 1549, 4a (1) right column: Psalm 33, 16-19 and Psalm 34, 1-6. The plain
+                            red A is for Psalm 34, 2, and comes directly after the ending of the
+                            comment to Psalm 33, 19. This is another example of the first initial in
+                            a new Psalm not having penned decoration. The top text is the commentary
+                            to Psalm 33, 16. Green I: Psalm 33, 19: Iuxta est dominus his qui
+                            tri[bulati] sunt corde. Red A: Psalm 34, 2: Apprehende arma. Red F:
+                            Psalm 34, 6: Fiat via illorum. </p>
+                        <p> 1549, 4a (2) left column: Psalm 34, 13-28. Green E: Psalm 34, 27:
+                            Exultent et letentur.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Parchment, two cropped bifolia, <dimensions>ca 14,5 x 19,5
+                            cm</dimensions></p>
+                        <p>Lay-out: The two cropped bifolia, which together make two whole folia and
+                            two half folia, were probably the two outer bifolia of the second quire
+                            (f.1-2+7-8). Each page has been ca >15 x 12 cm. One column per page,
+                            >13,5 x 9,5 cm, with >30 lines. Very fine, hardly visible dry point
+                            ruling.</p>
+                        <p>Script: A very small and fine informal protogothic script with a frequent
+                            use of abbreviations. The presence of occasional juncture between round
+                            letters pushes the date of origin to the second half of the 12th century. The tironian et-sign is
+                            uncrossed. No rubrics. </p>
+                        <p>Initials: Mainly small, plain initials alternating in red and green (one
+                            line high), marking the beginning of a new verse. Two of the green
+                            letters, both marking the beginning of a new psalm (i.e. not only a new
+                            verse), have penned decorations in red. </p>
+                        <p>Condition: The fragments have large, darker spots, probably from glue, as
+                            well as traces of paper. The only holes are from their original binding.
+                            Their size and condition suggest that they have been glued to the inside
+                            of the front and back panels of an octavo bookbinding. </p>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p>Based on the script the fragments have been dated to the <date>12th century</date>
+                                (date supplied by <persName>prof. Ludwig Bieler</persName>, <placeName>Dublin</placeName>, in note from 6/7
+                                <date>1964</date>). The junctures in the script may suggest the <date>second half of
+                                the century</date>. At the international fragment workshop in Bergen 2005, this was narrowed down to the <date>third quarter of the 12th century</date>. The place of origin was believed to be <placeName>Northern France</placeName> or <placeName>the Low Countries</placeName>. </p>
+                        </origin>
+                        <provenance>
+                            <p> The fragments have been used in the binding of an octavo book. The
+                                margin of 1549, 4a recto has the inscription "NB Herremag 117 dr in
+                                specie". Whether or not the manuscript was in <placeName>Norway</placeName> in the middle
+                                ages and has been re-used here, is unknown.</p>
+                        </provenance>
+                        <acquisition>
+                            <p>No information.</p>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <head>Bibliography</head>
+                            <bibl>Patrologia latina, <xref url="http://pld.chadwyck.co.uk">web-edition</xref></bibl>
+                            <bibl>Tveitane, Mattias et. al.: Bergen University Library Manuscript
+                                Catalogue [unpublished]</bibl>
+                        </listBibl>
+                    </additional>
+                </msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2006.02.16</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Updated the encoding of dates, places, names etc.</item>
+            </change>
+            <change>
+                <date>2005.08.17</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Recoded the content of the history element.</item>
+            </change>
+            <change>
+                <date>2004.10.?</date>
+                <respStmt>
+                    <name>&Aring;slaug Ommundsen</name>
+                </respStmt>
+                <item>Made the original</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Introduction</head>
+                <p>The commentary on 75 psalms (Commentarius in LXXV psalmos) was earlier believed
+                    to have been written by Rufinus Aquileiensis (ca 345-410). The author is now
+                    unknown. Our text is an abridged version of the work with numerous
+                    abbreviations, which leaves the text very concentrated, but not always easily
+                    understood. The script from the late 12th century is unbelievably small and
+                    written with a pen with a narrow nib. The red and green initials help the reader
+                    to find his bearings, marking the different verses of the psalms. These two
+                    fragments, which probably were the two outer bifolia of the second quire,
+                    contain commentaries to the Psalms 17-19 and 31-33. The fragments are a bit of a
+                    mystery, since nothing is known about their history other than the fact that
+                    they were used in the binding of a book. How they came to be a part of the
+                    Bergen University Library's collection is not recorded. </p>
+                <list type="facsimiles">
+                    <head>Facsimiles and transcriptions</head>
+                    <item>
+                        <!--<xref url="../transcriptions/UBB MS 1549, 4a-transkr.page">Transcription of UBB MS 1549, 4a</xref>-->
+                        <figure url="../facsimiles/UBB MS 1549, 4a 1.jpg">
+                            <p>Facsimile recto</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 4a 2.jpg">
+                            <p>Facsimile verso</p>
+                        </figure>
+                    </item>
+                    <item>
+                        <!--<xref url="../transcriptions/UBB MS 1549, 4b-transkr.page">Transcription of UBB MS 1549, 4b</xref>-->
+                        <figure url="../facsimiles/UBB MS 1549, 4b 1.jpg">
+                            <p>Facsimile recto</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 4b 2.jpg">
+                            <p>Facsimile verso</p>
+                        </figure>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI.2>

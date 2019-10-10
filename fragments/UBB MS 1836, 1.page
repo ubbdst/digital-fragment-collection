@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+<TEI.2 lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Description of UB Bergen MS 1836, 1</title>
+                <author>Mattias Tveitane</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bergen University Library</publisher>
+                <address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+            <date>2005</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+                        <repository>Bergen University Library</repository>
+                        <idno>MS 1836, 1</idno>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>Fragments of the younger code of law of King Magnus the Law-Mender</title>
+                        <note type="schlagzeile">Parchment, two leaves, 110 x 80 mm, Norway, early
+                            14th century.</note>
+                    </msHeading>
+                    <msContents>
+                        <p>The fragments contain text from "Magnus Lagab&oslash;ters Nyere
+                            Landslov" (younger code of law of King Magnus the Law-Mender). </p>
+                        <p>For reference to the corresponding part of the text in the edition Norges
+                            Gamle Love, see bibliography</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Parchment, two fragments from the same leaf, <dimensions>110 x 80
+                            mm</dimensions>
+                        </p>
+                        <p>The two parts fit exactly together, without loss of text in the
+                            intersection. Fragment b is cut off in the lower edge, and the lowest
+                            text line is cut. The text in both left and right margins is also cut.
+                            Fragment b has two rubricated headings in read, and to large initials in
+                            read, green and blue.</p>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p>The text of the two fragments is written in South-East Norwegian
+                                dialect, probably sometime after 1300.</p>
+                        </origin>
+                        <provenance>
+                            <p>MS 1836 1 a-b has originally been part of the same manuscript as
+                                fragments 12 a-b in the Norwegian National Archive, published in
+                                facsimile in "Gammelnorske membranfragmenter i Riksarkivet", Oslo
+                                1963, s. 113-115. See the enclosed letter from the National Archive
+                                (enclosure 6). 13.2.1982, M. Tveitane.</p>
+                            <p>A pencil note, probably written by George Stephens, states that the
+                                two law code fragments are "taken from a book-back". The pencil note
+                                "Mandal 1625" may be connected with this information.</p>
+                        </provenance>
+                        <acquisition>
+                            <p>According to information from the antiquarian bookshop Cappelens
+                                Antikvariat, Oslo, these fragments together with 1836 2 has
+                                belonged, since around year 1850, to the philologist and book
+                                collector George Stephens (1813-1895), professor of English language
+                                at the University of Copenhagen, thereafter they have belonged to
+                                his son, landowner Joseph Stephens at Huseby in Skatel&oslash;v
+                                (Sm&aring;land), and lastly to his sons daugther. From her
+                                inheritors the fragments were acuired by Cappelens antique bookshop.</p>
+                            <p>Bought from J. W. Cappelens antiquarian bookshop, Oslo, in November
+                                1981, for the sum of NOK 15.000,-. Of this sum is NOK 10.000,- taken
+                                from the fund of the chief librarian, and NOK 5.000,- is payed by
+                                the Institute for Scandinavian Studies.</p>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <accMat>
+                            <p><list>
+                                <head>Enclosures:</head>
+                                <item>Pencil note about the law code fragments, probably by
+                                    George Stephens, with note by professor Ludvig Holm-Olsen on
+                                    the reverse side.</item>
+                                <item>Copy of a letter from professor Holm-Olsen to J. W.
+                                    Cappelens antiquarian book shop, Oslo, dated 28. sept. 1981.</item>
+                                <item>Copy of letter from Bergen University Library to the
+                                    Norwegian National Archives, dated 4th of December 1981.</item>
+                                <item>Two old photographies of the law code fragments (1 a-b),
+                                    probably made for George Stephens in the 19th century.</item>
+                                <item>Box containing (5.12.81): Two sets of full size
+                                    photographies, one set of reduced repro-prints, and films. </item>
+                                <item>Letter from the Norwegian National Archives, dated
+                                    5.2.1982, containing information on the earlier history of
+                                    the law code fragments.</item>
+                                <item>Copy of letter from Bergen University Library to the
+                                    Norwegian National Archives, containing some additional
+                                    information.</item>
+                            </list></p>
+                        </accMat>
+                        <listBibl>
+                            <head>Bibliography</head>
+                            <bibl>Gammelnorske membranfragmenter i Riksarkivet, Oslo 1963, s.
+                                113-115.</bibl>
+                            <bibl>(Norges Gamle Love II (1848), s. 132.16-133.13,
+                                133.14-134.10).</bibl>
+                                <bibl>Holm-Olsen, Ludvig. Pergamentblad p&aring; vandring. UB Bergen 1836. 1. In: Norvegica. Minneskrift til hundre&aring;rsdagen for opprettelsen av Universitetets norske avdeling 1883. 1. Januar 1983. Oslo 1983, pp. 129-141.</bibl>
+                <bibl>Tveitane, Mattias et. al.: Bergen University Library Manuscript Catalogue [unpublished]</bibl>
+                        </listBibl>
+                        
+                    </additional>
+                </msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2005.08.05</date>
+                <respStmt>
+                    <name>Rune Kyrkjeb&oslash;</name>
+                </respStmt>
+                <item>Translated from Norwegian and made the original electronic text from Tveitanes
+                    original text in the catalogue of UB Bergen manuscript collection</item>
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Introduction</head>
+                <p>In 1981 Bergen University Library bought these two fragments, together with 1836,
+                    2, from the antiquarian bookshop Cappelens Antikvariat, Oslo. The two fragments
+                    contain text from a code of law, and are written in an Old Norwegian dialect.</p>
+                <list type="facsimiles">
+                    <head>Facsimiles and transcriptions</head>
+                    <item>
+                        <figure url="../facsimiles/UBB MS 1836, 1a 1.jpg">
+                            <p>UBB MS 1836, 1a recto</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1836, 1a 2.jpg">
+                            <p>UBB MS 1836, 1a verso</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1836, 1b 1.jpg">
+                            <p>UBB MS 1836, 1b recto</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1836, 1b 2.jpg">
+                            <p>UBB MS 1836, 1b verso</p>
+                        </figure>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI.2>

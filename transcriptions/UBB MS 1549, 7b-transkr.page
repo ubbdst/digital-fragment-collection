@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://gandalf.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>The Kaupanger Prayerbook fragment</title>
+    <title level="s">Transcription of UBB MS 1549, 7b</title>
+    <title level="s">UNDER CONSTRUCTION</title>
+<author>Unknown</author>
+<respStmt>
+<resp>Transcription</resp>
+<name>&Aring;slaug Ommundsen, University of Bergen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>First Menota draft, <date>2004-06</date>.</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University Library of Bergen/Medieval Nordic Text Archive</publisher>
+<pubPlace>Bergen</pubPlace>
+<date>2004</date>
+<idno type="Menota">Ms. ?</idno>
+<availability status="restricted"><p>This text is available for purposes of academic research and teaching only. Re-distribution in any form without prior permission is prohibited. Short extracts may be cited with full acknowledgment of the source.</p></availability>
+</publicationStmt>
+<sourceDesc>
+    <p>
+        <figure url="../facsimiles/1549, 7b 1.jpg"><p>Facsimile verso</p></figure>           
+        <figure url="../facsimiles/1549, 7b 2.jpg"><p>Facsimile recto</p></figure>           </p>
+    
+<msDescription>
+<msIdentifier>
+<country reg="NO">Norway</country>
+<settlement>Bergen</settlement>
+<repository>University Library</repository>
+<idno>UBB MS 1549,7b</idno>
+</msIdentifier>
+<msHeading>
+<textLang langKey="lat">Latin</textLang>
+    <title>Missal</title>
+    <title level="s">UBB MS 1549, 7b</title>
+    <origPlace>Unknown.</origPlace>
+    <origDate notBefore="1500" notAfter="1600">15th century (?)</origDate>
+</msHeading>
+    <physDesc>
+        <condition><p>The fragment is in poor condition.</p>
+        </condition>
+</physDesc> 
+</msDescription>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+    <p>This text has been encoded according to the standard set out in <xref url="http://www.hit.uib.no/menota/guidelines">The Menota handbook</xref>, version 1.1.</p>
+</projectDesc>
+
+<editorialDecl>
+<correction status="medium"><p>This text was proofread by &Aring;slaug Ommundsen before internet release October 2005</p></correction>
+    <normalization>
+    <p>The orthography has not been normalized. Abbreviations are silently written out.</p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+    <profileDesc>
+        <langUsage>
+            <language id="lat"/>
+        </langUsage>
+        <handList>
+            <hand id="scribe"/>
+        </handList>
+    </profileDesc>
+</teiHeader>
+
+<text>
+<body><div>
+<pb n="1r"/><p>
+<lb n="1"/><supplied>Obsecro te domina</supplied> sancta mater maria dei pietate <supplied>plenissima summi regis filia mater gloriosissima
+<lb n="2"/>mate</supplied>r orphanorum consolacio desolatorum via erranci<supplied>um salus et spes in te sperancium 
+<lb n="3"/>virg</supplied>o post partum et virgo in partu fons misericordie <supplied>fons salutis et gracie fons pietatis et letitie
+<lb n="4"/>con</supplied>solacionis et indulgencie ut per illam sanctam <supplied>inestimabilem leticiam qua exultavit spiritus tuus
+<lb n="5"/>in illa</supplied> hora quando tibi per gabrielem archangelum annunciatus <supplied>et conceptus filius dei fuit et per illud
+<lb n="6"/>divin</supplied>um misterium quod tunc operatum est spiritus sanctus <supplied>in te. Et per illam sanctam inestimabilem pietatem graciam
+l. 7 misericordia</supplied>m amorem et humilitatem per quas filius tuus descendit <supplied>humanam carnem accipere in
+<lb n="8"/>venerabilissi</supplied>mo utero tuo et in quibus te respexit quando <supplied>te commendavit sancto Iohanni apostolo et evangeliste
+<lb n="9"/>et quando te exalta</supplied>vit super chorus angelorum et per illam sanctam <supplied>inestimabilem humilitatem in qua tu 
+<lb n="10"/>respondisti archang</supplied>elo gabrieli ecce <supplied>ancilla</supplied> domini fiat <supplied>mihi secundum verbum 
+<lb n="11"/>tuum et per illa</supplied> sanctissima quindecim <supplied>gaudia que habuisti de filio tuo domino nostro Ihesu christo et per illam
+<lb n="12"/>sanctam maximam compassionem et</supplied> acerbissimum cordis d<supplied>olorem quem habuisti quando dominum nostrum Ihesum christum
+<lb n="13"/>nudatum et in ipsa</supplied> levatum vidisti pend<supplied>dentem crucifixum vulneratum scicientem fel apponi heloy clamantem audisti et
+<lb n="14"/>morientem vidisti et</supplied> per quinque vulner<supplied>a  filii tui et per contraxionem viscerum suorum et pre nimio dolore 
+<lb n="15"/>vulnerum eius et per dolo</supplied>rem quem habu<supplied>isti quando eum vulnerari vidisti et per fontes sanguinis sui et per omnem
+<lb n="16"/>passionem eius et per omnem dolorem cordis tui, et per fontem lacrimarum tuarum ut cum omnibus sanctis et electis 
+<lb n="17"/>dei venias et festines in auxilium et consilium meum in omnibus oracionibus et requestis meis
+<lb n="18"/>in omnibus</supplied> angustiis <supplied>et necessitatibus meis et in omnibus illis rebus in quibus ego sum <lb n="19"/>facturus</supplied> locuturus <supplied>aut cogitaturus omnibus diebus ac noctibus horis atque momentis
+<lb n="20"/>vite m</supplied>ee et michi f<supplied>amulo tuo impetres a dilecto filio tuo complementum vite cum omni misericordia
+<lb n="21"/>et consolac</supplied>ione...
+
+</p>
+
+
+</div>
+
+    <div type="translation"><p>English translation is not available.</p></div>
+</body>
+</text>
+    </TEI.2>
+

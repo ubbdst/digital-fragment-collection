@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+<TEI.2 lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Description of State Archive of Bergen, MS B 43, 1-3</title>
+                <author>&Aring;slaug Ommundsen</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bergen University Library</publisher>
+                <address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+                <date>2005</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <settlement>Bergen</settlement>
+                        <repository>State Archive of Bergen</repository>
+                        <idno>MS B 43, 1-3</idno>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>The Antiphonary at State Archive of Bergen</title>
+                    </msHeading>
+                    <msContents>
+                        <p>The contents are from the feast of St. John the Baptist (24 June), 
+                            St. John and St. Paul (26 June), and St. Peter and St. Paul (29 June). </p>
+                    </msContents>
+                    <physDesc>
+                        <p>
+                            <note>To be supplied</note>
+                        </p>
+                        <p>Lay-out: <note>To be supplied</note></p>
+                        <p>Script: <note>To be supplied</note></p>
+                        <p>Initials: <note>To be supplied</note></p>
+                        <p> Condition: <note>To be supplied</note></p>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p>Northern French (possibly), 12th century.</p>
+                        </origin>
+                        <provenance>
+                            <p><note>To be supplied</note></p>
+                        </provenance>
+                        <acquisition>
+                            <p><note>To be supplied</note></p>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <head>Bibliography</head>
+                            <bibl><note>To be supplied</note></bibl>
+                        </listBibl>
+                    </additional>
+                </msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2006.02.15</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Made the original from a text supplied by Åslaug Ommundsen</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Introduction</head>
+                <p>The four fragments in the State Archive of Bergen are from two different manuscripts, 
+                    one Antiphonary (with songs for the Hours) and one 
+                    Missal (with the songs, prayers and readings for the Mass). </p>
+                <list type="facsimiles">
+                    <head>Facsimiles and transcriptions</head>
+                    <item>
+                        <figure url="../facsimiles/SAB MS B 43, 01R.jpg">
+                            <p>MS B 43, 1 recto</p>
+                        </figure>
+                        <figure url="../facsimiles/SAB MS B 43, 01V.jpg">
+                            <p>MS B 43, 1 verso</p>
+                        </figure>
+                        <figure url="../facsimiles/SAB MS B 43, 02R.jpg">
+                            <p>MS B 43, 2 recto</p>
+                        </figure>
+                        <figure url="../facsimiles/SAB MS B 43, 02V.jpg">
+                            <p>MS B 43, 2 verse</p>
+                        </figure>
+                        <figure url="../facsimiles/SAB MS B 43, 03R.jpg">
+                            <p>MS B 43, 3 recto</p>
+                        </figure>
+                        <figure url="../facsimiles/SAB MS B 43, 03V.jpg">
+                            <p>MS B 43, 3 verso</p>
+                        </figure>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI.2>

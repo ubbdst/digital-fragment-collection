@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://gandalf.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>
+]>
+
+<TEI.2>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Missal</title>
+    <title level="s">Transcription of UBB MS 1550, 3</title>
+    <title>The reversed missal fragment</title>
+    <author>Unknown</author>
+<respStmt>
+<resp>Transcription</resp>
+<name>&Aring;slaug Ommundsen, University of Bergen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>First Menota draft, <date>2005-09</date>.</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University Library of Bergen/Medieval Nordic Text Archive</publisher>
+<pubPlace>Bergen</pubPlace>
+<date>2005</date>
+<idno type="Menota">Ms. ?</idno>
+<availability status="restricted"><p>This text is available for purposes of academic research and teaching only. Re-distribution in any form without prior permission is prohibited. Short extracts may be cited with full acknowledgment of the source.</p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>The text is an inversed leaf from a missal containing prayers for the saints Severinus of Cologne (23 Oct), Crispinus and Crispinianus (25 Oct), Amandus (26 Oct) and the apostles Simon and Jude (28 Oct). The leaf belongs to the University Library in Bergen. Missing or unclear text has been supplied by the transcriber from Patrologia latin, on line edition (ProQuest).</p>
+    <p><figure url="../facsimiles/UBB MS 1550, 3.jpg"><p>Facsimile</p></figure>
+        <figure url="../facsimiles/UBB MS 1550, 3, flipped.jpg" ><p>Facsimile (flipped vertically). <note>This image is a mirror image of the fragment.</note></p></figure></p>
+<msDescription>
+<msIdentifier>
+<country reg="NO">Norway</country>
+<settlement>Bergen</settlement>
+<repository>University Library</repository>
+<idno>UBB MS 1550,3</idno>
+</msIdentifier>
+<msHeading>
+<textLang langKey="lat">Latin</textLang>
+<title>Missal</title>
+<origPlace>Unknown</origPlace>
+<origDate notBefore="1300" notAfter="1500">14.-15. century</origDate>
+</msHeading>
+<physDesc>
+<condition><p>The fragment is an inversed offprint of a manuscript leaf (not a printed one), and is not in a very good condition. The letters are not always easily readable. Unclear text is not marked as such when the letters are identifiable with use of a text source. Smaller holes in the parchment are not noted in the transcription.</p>
+</condition>
+</physDesc> 
+</msDescription>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<projectDesc>
+    <p>This text has been encoded according to the standard set out in <xref url="http://www.hit.uib.no/menota/guidelines">The Menota handbook</xref>, version 1.1.</p>
+</projectDesc>
+
+<editorialDecl>
+<correction status="medium"><p>This text was proofread by &Aring;slaug Ommundsen before internet release september 2005</p></correction> <normalization>
+    <p>The orthography has not been normalized. Abbreviations are silently written out.</p>
+</normalization> 
+</editorialDecl>
+</encodingDesc>
+    <profileDesc>
+        <langUsage><language id="lat"/></langUsage>
+        <langUsage><language id="en"/></langUsage>
+        <listPerson>
+            <person id="transcriber"><persName>&Aring;slaug Ommundsen</persName></person>
+            <person id="author"><persName>Unknown</persName></person>
+        </listPerson> 
+        
+    </profileDesc>
+    
+    <revisionDesc>
+        <change>
+            <date>2005.10.07</date>
+            <respStmt><name>Tone Merete Bruvik</name></respStmt>
+            <item>Correction to the encoding</item>
+        </change>
+        <change>
+            <date>2005.10.06</date>
+            <respStmt><name>&Aring;slaug Ommundsen</name></respStmt>
+            <item>First transcription</item>
+        </change>
+    </revisionDesc>
+</teiHeader>
+
+
+
+<text>
+<body><div>
+<pb n="1r"/>
+<cb n="A"/>
+<lb n="1"/><div type="oratio secreta"><p>quod nos interueniente beato seuerino con
+<lb n="2"/>fessore tuo ad ueniam perducat et
+<lb n="3"/>ad perpetuam gratiarum actionem constituat.</p></div><div type="oratio ad complendum"><p>
+<lb n="4"/><hi rend="red initial 1 line high">Q</hi>uesumus domine deus noster: ut interuenien
+<lb n="5"/>te hoc Seuerino confessore <hi rend="red">Complenda</hi>
+<lb n="6"/>tuo sacrosancta mysteria que
+<lb n="7"/>sumpsimus, fide et actione subse
+    <lb n="8"/>quamur. Per. </p></div><div type="rubric"><p><hi rend="red">Crispini et Crispiniani oratio</hi></p></div><div type="oratio collecta"><p>
+<lb n="9"/><hi rend="red initial 2 lines high">O</hi>mnipotens sempiterne
+<lb n="10"/>deus qui in sanctorum
+<lb n="11"/><unclear>martyrorum></unclear> cordibus Crispini
+<lb n="12"/>et Crispiniani flammam tue
+<lb n="13"/>dilectionis ardens fecisti: da men 
+<lb n="14"/><supplied reason="cropped parchment">tibus eadem</supplied> fidem, carita
+<lb n="15"/><supplied reason="cropped parchment">tisque uirtutem, ut</supplied> quorum gau
+<lb n="16"/><supplied reason="cropped parchment">demus triumph</supplied>is, proficiamus
+<lb n="17"/><supplied reason="cropped parchment">exemplis. Per. </supplied></p></div><div type="oratio secreta"><p><hi rend="blue initial 1 line high">S</hi>acri
+<lb n="18"/>ficiis <unclear>presentibus</unclear> domine <unclear>quesumus</unclear>
+<lb n="19"/>in tuo<supplied reason="ink missing">rum com</supplied>memoratione sanctorum
+<lb n="20"/>def<supplied>erimus</supplied>, intende placatus:
+<lb n="21"/>ut et de<supplied>uoti</supplied>one nostre <supplied>proficiat</supplied>
+<lb n="22"/>et sal<supplied>uti. Per. </supplied></p></div><div type="rubric"><p><hi rend="red">Complendum</hi></p></div><div type="oratio ad complendum"><p><hi rend="red initial 1 line high">C</hi>elestis
+<lb n="23"/>don<supplied>i benedicti</supplied>one percepta te <unclear>deus</unclear>
+<lb n="24"/>om<supplied>nipotens deprecamur</supplied>:ut idem ...
+<lb n="25"/>...........bus sanctis tuis
+<lb n="26"/>.............. sacramenti
+<lb n="27"/><supplied>causa sit et saluti</supplied>s. Per.</p></div> 
+
+<cb n="B"/>
+<lb n="1"/><div type="oratio collecta"><p><hi rend="blue initial 2 lines high">B</hi><supplied>eati Amandi</supplied> confessoris
+<lb n="2"/>tui <gap/> supplicatione pla
+<lb n="3"/>catus et ueniam nobis tribue
+<lb n="4"/>et remedia sempiterna nobis con
+    <lb n="5"/>cede. Per. </p></div><div type="rubric"><p><hi rend="red">Secreta</hi></p></div><div type="oratio secreta"><p><hi rend="red initial 1 line high">B</hi>enedictio
+<lb n="6"/>tua, <supplied>domine, beati</supplied> Amandi confes
+<lb n="7"/>soris tui intercessione super has
+<lb n="8"/>hostias descendat que et <supplied>bene
+<lb n="9"/>dictionem</supplied> nobis operetur et <supplied>beata
+<lb n="10"/>im</supplied>mortalitas concilie<supplied>t. Per. </supplied></p></div><div type="oratio ad complendum">
+<lb n="11"/><p><hi rend="blue initial 1 line high">H</hi>ec nos communio, <supplied>domine</supplied> 
+<lb n="12"/>purget a crimine et <supplied>interceden</supplied>
+<lb n="13"/>te hoc Amando confesso<supplied>re tuo</supplied>
+<lb n="14"/><unclear>celestibus remediis faciat <supplied>esse con</supplied>
+<lb n="15"/>sortes.</unclear><supplied>Per.</supplied></p></div><div type="rubric"><p><supplied><hi rend="red">Symonis &amp; Jude</hi></supplied></p></div>
+<lb n="16"/><div><p><note>line 16 has the remains of a rubric, probably Off or Intr for the Introit, and a blue initial followed by smaller script, probably the beginning of the antiphon.</note></p></div>
+<lb n="17"/><div type="oratio collecta"><p><hi rend="red initial 2 lines high">C</hi>oncede quesumus omnipotens deus 
+<lb n="18"/>ut sicut <unclear>apostolorum tuorum</unclear>
+<lb n="19"/>Symonis et Iude gloriosa nata
+<lb n="20"/>licia preuenimus sic ad tua bene
+<lb n="21"/>ficia promeranda maiestatem
+<lb n="22"/>tuam pro nobis ipsi preueniant.
+<lb n="23"/>Per.</p></div><div type="rubric"><p><hi rend="red">Epistola</hi></p></div><div type="epistola."><p>I............ 
+<lb n="24"/>...a domine. 
+    <lb n="25"/><hi rend="blue initial 2 lines high">I</hi>n illo tem.....a</p></div>
+    <div type="translation"><p>English translation is not available.</p></div>
+</div>
+</body>
+</text>
+</TEI.2>
+

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+<TEI.2 lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Description of UB Bergen MS 1549, 6</title>
+                <author>&Aring;slaug Ommundsen</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bergen University Library</publisher>
+                <address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+                <date>2005</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+                        <repository>Bergen University Library</repository>
+                        <idno>MS 1549, 6</idno>
+                        <altName>MS 410, 6</altName>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>Three small fragments</title>
+                        <note type="schlagzeile">Parchment, three small fragments, <dimensions>3 x 3,5 cm</dimensions>,
+                            unknown origin, <date>13th century (?)</date>.</note>
+                    </msHeading>
+                    <msContents>
+                        <p>The specific text has not yet been identified. However, the presence of
+                            words like ”ad vendicionem rei” (for the sale of something), ”suo
+                            creditori” (to his creditor), ”fundus” (piece of land), ”possessor”
+                            (owner) and ”prediis” (farms, pieces of land) suggests that the
+                            fragments could be from a book in some way concerned with the buying and
+                            selling of property. It need not be a legal text, but may also be a
+                            moral discussion. The personal voice that appears in “quesivi ad quid
+                            fuit...” (I have asked to what purpose...) or “ego vellem...” (I would
+                            rather...) could point in that direction, and even more so the partial
+                            “ait paul...” (says Paul). We could perhaps be looking at a text along
+                            the lines of <persName>Thomas Aquinas</persName>’ discussion in <hi rend="italic">Summa
+                                theologica</hi> II-II, 77, about cheating in buying and selling.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Parchment, three small fragments, <dimensions>3 x 3,5 cm</dimensions>.</p>
+                        <p>Lay-out: The ruling is done with a lead point. It is not possible to say
+                            much about original lay-out or size.</p>
+                        <p>Script: The script is a small and informal Gothic <hi rend="italic"
+                                >textualis</hi>. No visible rubrics, but certain elements are
+                            underlined and marked with a paragraph.</p>
+                        <p>Initials: No initials visible.</p>
+                        <p>Condition: The three fragments are very small, and quite wrinkled. There
+                            are some holes in the parchment on fragment 1549, 6a and c, while 1549,
+                            6b seems to be in better condition.</p>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p>The origin is unknown. Based on the roundness of the script in
+                                combination with Gothic elements (like the stroke above the i’s) one
+                                could suggest a date in the <date>13th century</date>. The fact that it comes
+                                from a Danish Bible could suggest a <placeName>Danish</placeName> or perhaps <placeName>German</placeName> origin,
+                                but this is uncertain.</p>
+                        </origin>
+                        <provenance>
+                            <p>Used in the cover of a Danish Bible from 1589, the socalled <title>Frederik
+                                II’s Bible</title>, printed in <placeName>Copenhagen</placeName>. In the original catalogue entry
+                                of the fragments the year <date>1598</date> was given for the Bible, but a
+                                correction to <date>1589</date> was suggested in the present handwritten
+                                catalogue.</p>
+                        </provenance>
+                        <acquisition>
+                            <p>Bought by <orgName>Bergen Museum</orgName> in <date>1913</date>.</p>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <head>Bibliography</head>
+                            <bibl>Thomas Aquinas: Summa theologica: <xref
+                                    url="http://www.newadvent.org/summa/"
+                                    >http://www.newadvent.org/summa/</xref></bibl>
+                            <bibl>Tveitane, Mattias et. al.: Bergen University Library Manuscript
+                                Catalogue [unpublished]</bibl>
+                        </listBibl>
+                    </additional>
+                </msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2006.02.16</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Updated the encoding of dates, places, names etc.</item>
+            </change>
+            <change>
+                <date>2005.10.18</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Renecoded a bit to make the xml document valid</item>
+            </change>
+            <change>
+                <date>2005.10.17</date>
+                <respStmt>
+                    <name>&Aring;slaug Ommundsen</name>
+                </respStmt>
+                <item>Made the original</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Introduction</head>
+                <p>These three small parchment fragments were removed from the binding of a Danish
+                    Bible from 1589 (Frederik II’s Bible, printed in Copenhagen), and the origin of
+                    the fragments may be Danish or perhaps German. Because the fragments are so
+                    small, it is difficult to identify the text. The contents seems to be about
+                    matters concerning the buying and selling of property. It may just as likely be
+                    a moral text as a legal one. The presence of first person singular (“I have
+                    asked...”, “I would rather”) and a reference to Paul (“says Paul...”) could
+                    suggest a text along the lines of Thomas Aquinas’ discussion in <hi
+                        rend="italic">Summa theologica</hi> II-II, 77, about cheating in buying and
+                    selling.</p>
+                <list type="facsimiles">
+                    <head>Facsimiles and transcriptions</head>
+                    <item>
+                        <figure url="../facsimiles/UBB MS 1549, 6a 1.jpg">
+                            <figDesc>UBB MS 1549 6a, recto</figDesc>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 6a 2.jpg">
+                            <figDesc>UBB MS 1549 6a, verso.</figDesc>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 6b 1.jpg">
+                            <figDesc>UBB MS 1549 6b, recto</figDesc>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 6b 2.jpg">
+                            <figDesc>UBB MS 1549 6b, verso.</figDesc>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 6c 1.jpg">
+                            <figDesc>UBB MS 1549 6c, recto</figDesc>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 6c 2.jpg">
+                            <figDesc>UBB MS 1549 6c, verso.</figDesc>
+                        </figure>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI.2>

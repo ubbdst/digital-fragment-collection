@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://gandalf.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>The Botulph Breviary fragments</title>
+    <title level="s">Transcription of UBB MS 1549, 1b</title>
+    <author>Unknown</author>
+<respStmt>
+<resp>Transcription</resp>
+<name>&Aring;slaug Ommundsen, University of Bergen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>First Menota draft, <date>2004-06</date></edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University Library of Bergen/Medieval Nordic Text Archive</publisher>
+<pubPlace>Bergen</pubPlace>
+<date>2004</date>
+<idno type="Menota">Ms. ?</idno>
+<availability status="restricted"><p>This text is available for purposes of academic research and teaching only. Re-distribution in any form without prior permission is prohibited. Short extracts may be cited with full acknowledgment of the source.</p></availability>
+</publicationStmt>
+<sourceDesc>
+<p> The text is from vespers and matins of The Annunciation (25 March). The fragment was a gift to the Bergen museum by cand. theol. H. Daae in 1829. Missing letters or words in hymns, antiphons, responsories and prayers have been supplied from Breviarium Monasticum, summorum pontificum cura recognitum, Marietti, Taurini et Romae 1963. Missing letters or words in the readings (Bede"s homily for the annunciation) are supplied from the online version of Patrologia latina, http://pld.chadwyck.co.uk/</p>
+    <p>Facsimiles available at <figure url="../facsimiles/UBB MS 1549, 1b 1.jpg"><p>UBB MS 1549, 1b, verso</p></figure> and <figure url="../facsimiles/UBB MS 1549, 1b 2.jpg"><p>UBB MS 1549, 1b, recto</p></figure></p>
+<msDescription>
+<msIdentifier>
+<country reg="NO">Norway</country>
+<settlement>Bergen</settlement>
+<repository>University Library</repository>
+<idno>UBB MS 1549,1b</idno>
+</msIdentifier>
+<msHeading>
+<textLang langKey="lat">Latin</textLang>
+<title>Breviary</title>
+<origPlace>England?</origPlace>
+<origDate notBefore="1220" notAfter="1300">13. century</origDate>
+</msHeading>
+</msDescription>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+    <p>This text has been encoded according to the standard set out in <xref url="http://www.hit.uib.no/menota/guidelines">The Menota handbook, version 1.1</xref>.</p>
+</projectDesc>
+<editorialDecl>
+<correction status="medium"><p>This text was proofread by &Aring;slaug Ommundsen before internet release February 2004</p></correction>
+</editorialDecl>
+</encodingDesc>
+    <profileDesc>
+        <langUsage><language id="lat"/></langUsage>
+    </profileDesc>
+</teiHeader>
+
+<text>
+<body lang="lat">
+<pb n="1r"/>
+<cb n="A"/>
+<lb n="1"/><div type="hymnus"><p><supplied>sum</supplied>ens illud aue gabrelis ore
+<lb n="2"/><supplied>fun</supplied>da nos in pace mutans nomen
+<lb n="3"/><supplied>eu</supplied>e. <hi rend="blue">S</hi>olue uincla reis pro
+<lb n="4"/><supplied>fer</supplied> lumen cecis mala nostra pelle
+<lb n="5"/><supplied>bon</supplied>a cuncta posce. <hi rend="red">M</hi>onstra
+<lb n="6"/><supplied>te</supplied> esse matrem sumat per te precem
+<lb n="7"/><supplied>qu</supplied>i pro nobis natus tulit
+<lb n="8"/><supplied>esse</supplied> tuus. <hi rend="blue">U</hi>irgo singularis
+<lb n="9"/><supplied>in</supplied>ter omnes mitis nos culpis
+<lb n="10"/><supplied>so</supplied>lutos mites fac et castos.
+<lb n="11"/><supplied>Uit</supplied>am presta puram iter para tu
+<lb n="12"/><supplied>tu</supplied>m ut uidentes ihesum semper
+<lb n="13"/><supplied>co</supplied>lletemur. <hi rend="blue">S</hi>it laus deo pa
+<lb n="14"/><supplied>tr</supplied>i summo christo decus spiritui sancto
+<lb n="15"/><gap/>imis honor unus. amen.</p></div> <div type="versus"><head><hi rend="red">uersus.</hi></head>
+<lb n="16"/><p><supplied>R</supplied>orate celi 
+<lb n="17"/><supplied>de</supplied>super, et
+<lb n="18"/><supplied>nu</supplied>b.</p></div> <div type="antiphona"><head><hi rend="red">antiphona</hi></head>
+    <figure url="../facsimiles/UBB MS 1549, 1b 1.jpg" id="Note1" rend="musical notation"><head>Ingressus angelus</head><figDesc>Fourline notation</figDesc>
+<link targets="Note1_1 Note1_2 Note1_3"/></figure>
+<lg><l id="Note1_1">Ingressus angelus ad</l>
+<lb n="19"/>
+<lb n="20"/>
+<lb n="21"/><l id="Note1_2"><supplied>m</supplied>ariam dixit aue maria gra</l>
+<lb n="22"/>
+<lb n="23"/>
+    <lb n="24"/><l id="Note1_3"><supplied>ti</supplied>a plena dominus te cum.</l></lg></div> <div type="psalmus"><head><hi rend="red">psalmus</hi></head><p>Magnificat.</p></div>
+<lb n="25"/><div type="oratio"><head><hi rend="red">oratio</hi></head><p><hi rend="red">D</hi>eus qui
+<lb n="26"/>de beate mari
+<lb n="27"/><supplied>a</supplied> uirginis utero uer
+<lb n="28"/><supplied>b</supplied>um tuum angelo nunciante car
+<lb n="29"/><supplied>n</supplied>em sucipere uoluisti, presta sup
+<lb n="30"/><supplied>p</supplied>licibus tuis: ut qui uere eam
+<lb n="31"/><supplied>de</supplied>i genitricem credimus, eius apud
+<lb n="32"/><supplied>te</supplied> intercessionibus adiuuemur.
+    <lb n="33"/><supplied>Per</supplied>eumdem.</p></div> <div type="rubric"><p><hi rend="red">memoria fiat de <sic corr="ieiunio"><supplied reason="letter scraped off">i</supplied>eunio</sic></hi>
+<lb n="34"/><gap/> ad uesperas et ad ma
+<lb n="35"/><supplied>tutinas</supplied> si infra <unclear>Pascam</unclear> eue
+        <lb n="36"/><supplied>ner</supplied>it.<note>The term memoria for the more common commemoratio also occurs in the Sarum ordinal, as well as the verb evenerit, cf. Frere, W.H: "The use of Sarum, II. The ordinal and tonal", Cambridge 1901, p. 186.</note></p></div> <div type="invitatorium"><head><hi rend="red"><sic corr="Invitatorium">Inuitiatorum.</sic></hi></head><figure url="../facsimiles/UBB MS 1549, 1b 1.jpg" id="Note2" rend="musical notation"><head>Ave maria</head><figDesc>Fourline notation</figDesc>
+<link targets="Note2_1 Note2_2 Note2_3"/></figure>
+<lg><l id="Note2_1">Aue maria</l>
+
+<cb n="B"/>
+<lb n="1"/>
+<lb n="2"/>
+<lb n="3"/><l id="Note2_2">gratia plena dominus te cum be</l>
+<lb n="4"/>
+<lb n="5"/>
+<lb n="6"/><l id="Note2_3">nedicta tu in mulieribus.</l></lg></div> <div type="psalmus"><head><hi rend="red">psalmus.</hi> </head><p>Venite.</p></div>
+<lb n="7"/><div type="hymnus"><p><hi rend="blue">Q</hi>uem terra
+    <lb n="8"/>pontus. <hi rend="red">hymnus.</hi></p></div>
+    <lb n="9"/><div type="rubric"><p><hi rend="red">In &middot; primo &middot; nocturno</hi></p></div> <div type="antiphona"><head><hi rend="red">antiphona</hi></head><figure url="../facsimiles/UBB MS 1549, 1b 2.jpg" id="Note3" rend="musical notation"><head>Prophete predicaverunt</head><figDesc>Fourline notation</figDesc>
+<link targets="Note3_1 Note3_2 Note3_3"/></figure>
+<lg><l id="Note3_1"><hi rend="blue">P</hi>rophete</l>
+<lb n="10"/>
+<lb n="11"/>
+<lb n="12"/><l id="Note3_2">predicauerunt nasti saluatorem de uir</l>
+<lb n="13"/>
+<lb n="14"/>
+    <lb n="15"/><l id="Note3_3">gine maria.</l></lg></div> <div type="psalmus"><head><hi rend="red">psalmus</hi></head> <p>Domine dom</p></div> <div type="antiphona"><head><hi rend="red">antiphona</hi></head><figure url="../facsimiles/UBB MS 1549, 1b 2.jpg" id="Note4" rend="musical notation"><head>Rorate celi</head><figDesc>Fourline notation</figDesc>
+<link targets="Note4_1 Note4_2 Note4_3 Note4_4"/></figure>
+<lg>
+<l id="Note4_1">Ro</l>
+<lb n="16"/>
+<lb n="17"/>
+<lb n="18"/><l id="Note4_2">rate celi desuper et nubes pluant</l>
+<lb n="19"/>
+<lb n="20"/>
+<lb n="21"/><l id="Note4_3">iustum aperiatur terra et germin<supplied>et</supplied></l>
+<lb n="22"/>
+<lb n="23"/>
+    <lb n="24"/><l id="Note4_4">saluatorem.</l></lg></div> <div type="psalmus"><head><hi rend="red">psalmus</hi></head> <p>Celi enarrant.</p></div> <div type="antiphona"><head><hi rend="red">antiphona</hi></head><figure url="../facsimiles/UBB MS 1549, 1b 2.jpg" id="Note5"  rend="musical notation"><head>Egredietur virga</head><figDesc>Fourline notation</figDesc>
+<link targets="Note5_1 Note5_2 Note5_3 Note5_4"/></figure>
+<lg><l id="Note5_1">Egredi<supplied>etur</supplied></l>
+<lb n="25"/>
+<lb n="26"/>
+<lb n="27"/><l id="Note5_2">uirga de radice Iesse et replebitur</l>
+<lb n="28"/>
+<lb n="29"/>
+<lb n="30"/><l id="Note5_3">omnis terra gloria domini et uide<supplied>bit</supplied></l>
+<lb n="31"/>
+<lb n="32"/>
+<lb n="33"/><l id="Note5_4">omnis terra salutare dei.</l></lg></div> <div type="psalmus"><head><hi rend="red">psalmus</hi></head> <p>Domini est<note><p>Merk "minustegn" for est</p></note></p></div>
+<lb n="34"/><div type="versus"><head><hi rend="red">uersus</hi></head> <p><sic corr="Ex Syon">Exyon</sic> <unclear>species</unclear> decoris</p></div>
+<div type="lectio1"><head><hi rend="red">lectio prima</hi></head><p><hi rend="red">I</hi>Ngressus autem
+<lb n="35"/>angelus ad mariam, <unclear>dixit</unclear>.
+<lb n="36"/>Aue gratia plena dominus <unclear>tecum</unclear>, benedict
+
+<pb n="1v"/>
+<cb n="A"/>
+<lb n="1"/><supplied>a tu in m</supplied>ulieribus. Que salutacio qua
+<lb n="2"/><supplied>ntum hum</supplied>ane consuetudini inau
+<lb n="3"/><supplied>dita, ta</supplied>ntum est beate marie dignitati
+<lb n="4"/><supplied>congru</supplied>a. Uer<unclear>e etenim</unclear> gratia plena e
+<lb n="5"/><supplied>rat, cui</supplied> diuino munere collatum
+<lb n="6"/><supplied>est, ut</supplied><unclear>prima</unclear> inter feminas glorio
+<lb n="7"/><supplied>sissimum</supplied> deo munus offerret. Unde iu
+<lb n="8"/><supplied>re ange</supplied>lico aspectu simul et affa
+<lb n="9"/><supplied>tu mer</supplied><unclear>uit</unclear>perfrui&punctelev; que angelicam ui
+<lb n="10"/>tam <sic>stu
+<lb n="11"/>diut</sic> i
+    <lb n="12"/>mitari.</p></div> <div type="responsorium"><head><hi rend="red">Responsorium</hi></head><figure url="../facsimiles/UBB MS 1549, 1b 2.jpg" id="Note6"  rend="musical notation"><head>Ingressus angelus</head><figDesc>Fourline notation</figDesc>
+<link targets="Note6_1 Note6_2 Note6_3 Note6_4 Note6_5"/></figure>
+<lg><l id="Note6_1"><supplied>Ingress</supplied>us angelus ad</l> 
+<lb n="13"/>
+<lb n="14"/>
+<lb n="15"/><l id="Note6_2"><supplied>mariam</supplied>ait aue<note><p>red line over ave</p></note> maria</l>
+<lb n="16"/>
+<lb n="17"/>
+<lb n="18"/><l id="Note6_3"><supplied>gratia</supplied> plena dominus te cum</l>
+<lb n="19"/>
+<lb n="20"/>
+<lb n="21"/><l id="Note6_4"><supplied>benedi</supplied>cta tu in mulieribus et bene</l>
+<lb n="22"/>
+<lb n="23"/>
+<lb n="24"/><l id="Note6_5"><supplied>dictus fr</supplied>uctus uentris tui&middot; aue.</l></lg></div>
+<lb n="25"/><div type="lectio2"><head><hi rend="red">lectio secunda</hi></head> <p><supplied>Uere</supplied> enim gratia erat ple 
+<lb n="26"/><supplied>na, cui </supplied><unclear>ipsum</unclear> per quem gratia et ue
+<lb n="27"/><supplied>ritas facta est</supplied>ihesum christum generare do
+<lb n="28"/><supplied>natum</supplied>est. Et ideo uere dominus cum
+<lb n="29"/><supplied>illa erat,</supplied> quam et prius nouo casti
+<lb n="30"/><supplied>tatis am</supplied>ore a terrenis ad celestia
+<lb n="31"/><supplied>desideranda</supplied>sustulit, et postmodum
+<lb n="32"/><supplied>mediant</supplied>e humana natura omni
+<lb n="33"/><supplied>plenitu</supplied>dine consecrauit.</p></div> <div type="responsorium"><head><hi rend="red">Responsorium</hi></head>
+<lb n="34"/> 
+<lb n="35"/>
+    <lb n="36"/><figure url="../facsimiles/UBB MS 1549, 1b 2.jpg" id="Note7" rend="musical notation"><head>Suscipe verbum</head><figDesc>Fourline notation</figDesc>
+<link targets="Note7_1 Note7_2 Note7_3 Note7_4 Note7_5 Note7_6 Note7_7 Note7_8 Note7_9"/></figure>
+<lg>
+<l id="Note7_1"><supplied>Suscipe</supplied> uerbum ui<add place="supralinear">r</add>go maria </l>
+
+<cb n="B"/>
+<lb n="1"/> 
+<lb n="2"/> 
+<lb n="3"/><l id="Note7_2">quod tibi a domino per a<supplied>nge</supplied></l>
+<lb n="4"/>
+<lb n="5"/>
+<lb n="6"/><l id="Note7_3">lum transmissum est concip<supplied>ies</supplied></l>
+<lb n="7"/>
+<lb n="8"/>
+<lb n="9"/><l id="Note7_4">per aurem deum paries et ho<supplied>mi</supplied></l>
+<lb n="10"/>
+<lb n="11"/>
+<lb n="12"/><l id="Note7_5">nem ut ben<note><p>red line over ut ben</p></note>edicta dicaris <supplied>in</supplied></l>
+<lb n="13"/>
+<lb n="14"/>
+<lb n="15"/><l id="Note7_6">ter omnes mulieres. <supplied><hi rend="red">Versus</hi></supplied></l>
+<lb n="16"/>
+<lb n="17"/>
+<lb n="18"/><l id="Note7_7">Paries quidem filium set <supplied>uir</supplied></l>
+<lb n="19"/> 
+<lb n="20"/>
+<lb n="21"/><l id="Note7_8">ginitatis non patieris detrimentum <supplied>ef</supplied></l>
+<lb n="22"/>
+<lb n="23"/>
+<lb n="24"/><l id="Note7_9">ficieris grauida et eris mater se<supplied>m</supplied>per intacta.</l></lg></div>
+<lb n="25"/><div type="lectio3"><head><hi rend="red">lectio tertia</hi></head><p><hi rend="red">U</hi>ere
+<lb n="26"/>benedicta
+<lb n="27"/>inter mulieres, que
+<lb n="28"/>sine exemplo mulieribus condi<supplied>tio</supplied>
+<lb n="29"/>nis cum decore uirginitatis gaui<supplied>sa</supplied>
+<lb n="30"/>est honore parentis, quodque uirgin<supplied>em</supplied>
+<lb n="31"/>matrem decebat dei <unclear>filium</unclear> procreaui<supplied>t.</supplied>
+<lb n="32"/>Quam postquam more humane frag<supplied>i</supplied>
+<lb n="33"/>litatis et uisione angelica et in<supplied>so</supplied>
+<lb n="34"/>lita est salutacione turbata&punctelev; m<supplied>ox</supplied>
+<lb n="35"/>idem angelus eam<note><p>ca one line of text missing</p></note> quasi bene cogn<supplied>i</supplied>
+<lb n="36"/>tam ac domesticam proprio nomine uocat</p></div>
+</body>
+</text>
+    </TEI.2>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+
+<TEI.2 lang="en">
+    <teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Description of UB Bergen MS 1549, 2</title>
+            <author>Åslaug Ommundsen</author>
+        </titleStmt>
+        <publicationStmt><publisher>Bergen University Library</publisher><address><addrLine>Nygårdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+        </publicationStmt>
+        <sourceDesc>
+        <msDescription>
+                    
+        <msIdentifier>
+        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+        <repository>Bergen University Library</repository>
+        <idno>MS 1549, 2</idno>
+            <altName type="old signature">MS 410, 2</altName>
+            <altName>Mi 51 (Gjerløw)</altName>
+        </msIdentifier>
+            <msHeading><title>The Good Friday Missal Fragment</title>
+                <note type="schlagzeile">Parchment, one leaf, 265 x 180 mm, England, mid 12th century.</note>
+            </msHeading>
+            
+                <msContents>
+                    
+<p>Contents:	
+The content is part of the Good Friday and Easter-eve liturgy. The text begins with the end of the big prayer of Good Friday (Orationes solemnes). Then follows the adoration of the cross with the usual Improberia (Christ's hypothetical reproaches), the seven penitential psalms and the two extraliturgical prayers for the same ritual, then Fortunat's hymn Pange lingua, and three final antiphons for the "burial af the cross" (Depositio crucis). Easter-eve begins with two prayers for the blessing of the new fire (after the lights have all been put out during matins of Maundy-Thursday and Good Friday) and of the incense. Then follows the blessing of the Easter candle, with Exultet.</p>
+		<p>The seven penitential psalms, the two extraliturgical prayers and the antiphons have their origin in the church ordinal Regularis Concordia from ca 970. After the conquest in 1066 this ordinal was replaced by the new archbishop Lanfranc's Decreta. No English known missal from the time after Lanfranc contain the Good Friday elements from Regularis Concordia (Gjerløw 1970, pp. 88-90).</p></msContents>
+        <physDesc><p>Parchment, one leaf, <dimensions>265 x 180 mm</dimensions></p>
+        <p>Lay-out:	Hardly visible dry point ruling. Two columns for each page, 200 x 65 mm, with 30 lines. Full written space is 200 x 140 cm.</p></physDesc>
+        <history><origin><p>England (Worcester or Winchester?), shortly after 1150.</p><p>Script:	Protogothic script. The nasal abbreviation is cup-shaped or wavy. The insular abbreviation-sign for est ÷ occurs. Rubricated. Some capital letters are marked with red shade. No musical notation, but the sung parts are written in a smaller script. 
+Initials:	Plain initials in an orange red over one or two lines. </p>
+          <p>History:
+Origin: 	England, possibly Worcester or Winchester see, shortly after 1150. The script is analysed and dated by N. R. Ker (see Gjerløw 1970, p. 88). The characteristic pointing towards Worcester or Winchester, however, is in the content. The prayer following the first Regularis Concordia-prayer has only been identified in the Portiforium of St. Wulstan, written in Worcester see ca 1070. This could point to Worcester, but seeing that the Worcester service books seems to stem from Winchester (where Wulstan was a cantor), Winchester could also be a likely origin.  
+Provenance: 	Possibly used in Bergen during the Middle Ages (Gjerløw 1970).
+Acquisition: 	The fragment was a gift from the bailiff Ole Vidsten (born 1787, bailiff in Søndhordland og Hardanger 1820-1854) to the Bergen Museum.</p><p><listBibl><head>Bibliography</head>
+<bibl>Gjerløw, Lilli (ed.) 1968: Ordo Nidrosiensis ecclesiae, Oslo, pp. 92-93.</bibl>
+<bibl>Gjerløw, Lilli 1970: "Missaler brukt i Bjørgvin bispedømme fra misjonstiden til Nidarosordinariet", Bjørgvin bispestol. Byen og bispedømmet, Bergen, pp. 73-115.</bibl>
+<bibl>Gjerløw, Lilli (ed.) 1979: Antiphonarium Nidrosiensis ecclesiae, Oslo, p. 15.</bibl></listBibl></p></origin></history></msDescription>
+            
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+    <langUsage><language id="en"></language></langUsage></profileDesc>
+    <revisionDesc>
+        <change>
+            <date>2004.11.01</date>
+            <respStmt><name>Tone Merete Bruvik</name></respStmt>
+            <item>Updated with references to facsimiles, added revisionDesc, language declaration etc.</item>
+        </change>
+        <change>
+            <date>2004.10.?</date>
+            <respStmt><name>Åslaug Ommundsen</name></respStmt>
+            <item>Made the original</item>
+        </change>
+    </revisionDesc>
+</teiHeader>
+    <text><body><div><head>Introduction</head><p>In 1964 the palaeographer N. R. Ker discovered this leaf from an English missal among the fragments of the Bergen University Library. The Good Friday Missal fragment is the earliest of three Norwegian 12th century missal fragments containing prayers from the old English ordinal Regularis Concordia (ca. 970). This ordinal was part of a restitution of the church under the Wessex kings, lead by Dunstan, archbishop of Canterbury, and Æthelwold, abbot of Abingdon and bishop of Winchester. After the conquest in 1066 the new Norman bishop Lanfranc replaced the old Regularis Concorida with a new ordinal. The Norwegian group of missal fragments is a mix between the pre- and post-conquest ordinals. In England no post-Lanfrancs missals are known to contain parts from the Regularis Concordia. Lilli Gjerløw suggests that this missal was probably used in the diocese of Bergen until the Nidaros ordinal was implemented, from the early 13th century (Gjerløw 1970).</p>
+        <figure url="../facsimiles/UB Bergen MS 1549 2 1 LOW.jpg" n="LOW"><p>Facsimile recto, low resolution</p></figure>
+        <figure url="../facsimiles/UB Bergen MS 1549 2 2 LOW.jpg" n="LOW"><p>Facsimile verso, low resolution</p></figure>
+    
+    </div></body></text>
+</TEI.2>

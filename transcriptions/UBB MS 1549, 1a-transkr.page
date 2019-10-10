@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://gandalf.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>
+]>
+<TEI.2>
+<teiHeader lang="en">
+<fileDesc>
+<titleStmt>
+    <title>The Botulph Breviary fragments</title>
+    <title level="s">Transcription of UBB MS 1549, 1a</title>
+<author>Unknown</author>
+<respStmt>
+<resp>Transcription: </resp>
+<name>&Aring;slaug Ommundsen, University of Bergen</name>
+</respStmt>
+    
+</titleStmt>
+<publicationStmt>
+<publisher>University Library of Bergen/Medieval Nordic Text Archive</publisher>
+<pubPlace>Bergen</pubPlace>
+<date>2004</date>
+<idno type="Menota">Ms. ?</idno>
+<availability status="restricted"><p>This text is available for purposes of academic research and teaching only. Re-distribution in any form without prior permission is prohibited. Short extracts may be cited with full acknowledgment of the source.</p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>The text is from the matins of Botulph (17 June), with nine proper lessons. The fragment was a gift to the Bergen museum by cand. theol. H. Daae in 1829. Missing or unclear text has been supplied by the transcriber from the Acta sanctorum Iunii III, Antverpi&aelig; 1701 (1969), p. 402-403.</p>
+    <p>Facsimiles available at <figure url="../facsimiles/UBB MS 1549, 1a 1.jpg"><p>UBB MS 1549, 1a, verso</p></figure> and <figure url="../facsimiles/UBB MS 1549, 1a 2.jpg"><p>UBB MS 1549, 1a, recto</p></figure></p>
+        
+<msDescription>
+<msIdentifier>
+<country reg="NO">Norway</country>
+<settlement>Bergen</settlement>
+<repository>University Library</repository>
+<idno>UBB MS 1549,1a</idno>
+</msIdentifier>
+<msHeading>
+<textLang langKey="lat">Latin</textLang>
+<title>The Botulph Breviary fragments</title>
+<title level="s">UBB MS 1549, 1a</title>
+<origPlace>England?</origPlace>
+<origDate notBefore="1220" notAfter="1300">late 13. century</origDate>
+</msHeading>
+<physDesc>
+<condition><p>The fragment is quite worn, especially on the verso-side. Unclear text is not marked as such when the letters are identifiable with use of a text source. Smaller holes in the parchment are not noted in the transcription.</p>
+</condition>
+</physDesc> 
+</msDescription>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+    <p>This text has been encoded according to the standard set out in <xref url="http://www.hit.uib.no/menota/guidelines">The Menota handbook</xref>, version 1.1.</p>
+</projectDesc>
+<editorialDecl>
+<correction status="medium"><p>This text was proofread by &Aring;slaug Ommundsen before internet release February 2005</p></correction>
+        <normalization>
+        <p>The orthography has not been normalized. Abbreviations are silently written out. Lessons or hymn verses are marked with their original number, not their random number on the fragment.</p>
+    </normalization>
+</editorialDecl>
+</encodingDesc>
+    <profileDesc>
+        <langUsage><language id="lat"/></langUsage>
+        <langUsage><language id="en"/></langUsage>
+        <listPerson>
+            <person id="transcriber"><persName>&Aring;slaug Ommundsen</persName></person>
+            <person id="author"><persName>Unknown</persName></person>
+        </listPerson> 
+        
+    </profileDesc>
+<revisionDesc>
+    <change>
+        <date>2005.03.04</date>
+        <respStmt><name>Tone Merete Bruvik</name></respStmt>
+        <item>Correction to the encoding and some proof reading corrections</item>
+    </change>
+    <change>
+        <date>2005.02.15</date>
+        <respStmt><name>Tone Merete Bruvik</name></respStmt>
+        <item>Some changes to make the file valid.</item>
+    </change>
+</revisionDesc>
+    
+</teiHeader>
+<text>
+    <body>
+        <div lang="lat">
+<pb n="1r"/>
+<cb n="A"/>
+<lb n="1"/><div type="lectio" n="5"><p><gap/>
+<lb n="2"/><gap/><unclear><supplied>in constru</supplied>endo monasterio ubicumque</unclear>
+<lb n="3"/><gap/><supplied reason="cropped parchment">illi gratia dei</supplied>ostenderet libere concessit disposicioni.</p></div>
+<lb n="4"/><div type="rubric"><p><hi rend="red">lectio sexta</hi></p></div><div type="lectio" n="6"><p><hi rend="red initial 2 lines high">C</hi>ircuit in
+<lb n="5"/>defessus uictor beatus pater bo-
+<lb n="6"/>tulphus uasta ab hominibus et
+<lb n="7"/>deserta&punctelev; et subtiliter circumquaque conside
+<lb n="8"/>ranti tandem in <add resp="transcriber">I</add><note resp ="transcriber">It looks like the I in Ikanho is missing</note>kanho conplacuit
+<lb n="9"/>ex dei de<unclear>nuncio, ut</unclear> constructis ini
+<lb n="10"/>bi competentibus edificiis religi-
+<lb n="11"/>o pararetur monastica. Erat au
+<lb n="12"/>tem eadem heremus ut a christicolis de-
+<lb n="13"/>relicta, sic a demonibus possessa, quo-
+<lb n="14"/>rum fantastica illusio per tanti mi-
+<lb n="15"/>litis christi aduentum inde erat fu-
+<lb n="16"/>ganda, et pia fidelium conuersatio in
+<lb n="17"/>ducenda, ut ubi superhabundauer
+<lb n="18"/><unclear>at</unclear> diaboli fallac<unclear>ia</unclear> superhabunda
+<lb n="19"/>ret benignissimi conditoris gratia.
+<lb n="20"/><hi rend="red">secundum lucam.</hi> <hi rend="blue">I</hi>N illo tempore Dixit ihesus 
+<lb n="21"/>discipulis suis. Nemo ascendit
+<lb n="22"/>lucernam et in abscondito ponit
+<lb n="23"/>neque sub modio, sed super candelabrum
+<lb n="24"/>ut qui ingrediuntur lumen uide
+<lb n="25"/>ant.</p></div><div type="prosa"><p>Et reliqua.</p><note resp="transcriber"><p>The rubric Lectio septima should probably be in the empty space, but is missing.</p></note> </div>
+<lb n="26"/><div type="lectio" n="7"><p><hi rend="red initial 2 lines high">A</hi>d ingressum ergo beati doctoris
+<lb n="27"/>nostri botulphi fumus exalat
+<lb n="28"/>teterimus, et cognoscens fugam suam
+<lb n="29"/>im<gap/>
+
+<cb n="B"/>
+<lb n="1"/>pulsione nostra. Cum <unclear>totis</unclear> orbis
+<lb n="2"/>tuis clarescat meritis, quid te
+<lb n="3"/>nebras nostras scrutaris? Inhuma
+<lb n="4"/>ne agis<note>is t corrected to an s?</note>, et omni neglecta pietate,
+<lb n="5"/>quod ab omni profugatos orbe ab hac
+<lb n="6"/>etiam miseros exturbas solitudine.</p></div>
+<lb n="7"/><div type="rubric"><p><hi rend="red">lectio octaua</hi> </p></div><div type="lectio" n="8"><p><hi rend="blue initial 2 lines high">B</hi>eatus uero botulphus
+<lb n="8"/>christi athleta eximius, oratione preli
+<lb n="9"/>bata constanter inanem compescit tur
+<lb n="10"/>bam, et edito signo crucis in obsce
+<lb n="11"/>nam uertit fugam, et potenti uerborum
+<lb n="12"/>uirtute interdicit illis regionem sibi
+<lb n="13"/>diuinitus concessam. Expulsis ergo scan
+<lb n="14"/>dalorum satellitibus in cruce christi prefigitur
+<lb n="15"/>signum celestis potentatus, etiam <sic>const<add resp="author" place="supralinear">u</add>
+<lb n="16"/>itur</sic> aula diuini incolatus. Bre
+<lb n="17"/>ui nec dum elapso tempore&punctelev; ad in-
+<lb n="18"/><unclear>st</unclear>ar monasteriorum ubi <supplied reason="hole in parchment">con</supplied>uer<supplied reason="hole in parchment">satus</supplied>
+<lb n="19"/>fuerat <sic corr="in partibus">inpercibus</sic> gallie ceptum opus
+<lb n="20"/>perficit cooperante sibi in omn<gap/><supplied reason="cropped parchment">ibus di</supplied>
+<lb n="21"/>uinitate. Congreg<unclear>at</unclear> de<supplied reason="cropped parchment">inde</supplied>
+<lb n="22"/>bonus pastor in septo <unclear>cele</unclear><supplied reason="cropped parchment">sti oues</supplied>
+<lb n="23"/>christi, eosque per salutifera <unclear>pas</unclear><supplied reason="cropped parchment">cua du</supplied>
+<lb n="24"/>cendo docet euitare <unclear>dis</unclear><supplied reason="cropped parchment">crimina</supplied>
+<lb n="25"/>inferni&punctelev; et properare ad gau<supplied reason="cropped parchment">dium e</supplied>
+<lb n="26"/>ternum florentis paradisi. I<supplied reason="cropped parchment">nstat opera</supplied>
+<lb n="27"/>riis fe<gap/>
+
+<pb n="1v"/>
+<cb n="A"/>
+<lb n="1"/><unclear>docet exempla, ne reprobaretur
+<lb n="2"/>a sua de</unclear><supplied reason="faded ink">uius doctrina quod
+<lb n="3"/>transmarinis partibus
+<lb n="4"/>districtiori uita et regulari
+<lb n="5"/>consuetudine memoriter repetendo
+<lb n="6"/>cotidianis inculcationibus subditos</supplied>
+<lb n="7"/>consuescit solita mansuetudine
+<lb n="8"/>ubi uero res petebat pastorali inui
+<lb n="9"/>tat et cogit auctoritate, pius uide
+<lb n="10"/>licet secundum apostolum in subditis&punctelev; asper
+<lb n="11"/>ior in laxioribus et neglicentibus precepta <supplied reason="faded ink">sa</supplied>lutis.</p></div>
+<lb n="12"/><div type="rubric"><p><hi rend="red">lectio nona. </hi></p></div><div type="lectio" n="9"><p><hi rend="red initial 2 lines high">S</hi>ecundum 
+<lb n="13"/>beati patris bened<supplied reason="faded ink">icti d</supplied>ocumen
+<lb n="14"/>ta uetera nouis, noua u<unclear>eteribus mis
+<lb n="15"/>cens nunc antiquorum instituta,
+<lb n="16"/>nunc per se intellecta discipulos docuit,
+<lb n="17"/>et in uiam omnem ueritatis et sanctitatis</unclear>
+<lb n="18"/><supplied reason="hole in parchment">informauit.</supplied><unclear>Diligebatur ab omnibus 
+<lb n="19"/>tam ab his qui eum noscere pote</unclear>
+<lb n="20"/><supplied reason="cropped parchment">rant tra</supplied>nsmarinis: quam a patrie sue
+<lb n="21"/><supplied reason="cropped parchment">uicinis</supplied> incolis, quia eis ore persona
+<lb n="22"/><supplied reason="cropped parchment">bat,</supplied><unclear>...</unclear> exemplis <unclear>probatis</unclear> ostende 
+<lb n="23"/><supplied reason="cropped parchment">bat. In</supplied> nullo arrogans <unclear>in nullo</unclear>
+<lb n="24"/><supplied reason="cropped parchment">tumidus,</supplied><unclear> quid improbum demonstrans</unclear>
+<lb n="25"/><supplied reason="cropped parchment">sed in omni</supplied><unclear>bus mitis et humilis dul</unclear>
+<lb n="26"/><supplied reason="cropped parchment">cis enituit et affabilis.</supplied> Relatum est
+<lb n="27"/><gap/>
+<lb n="28"/><gap/>
+
+<cb n="B"/><gap/>
+<lb n="1"/><gap/>
+<lb n="2"/><gap/>
+<lb n="3"/><gap/>
+<lb n="4"/><unclear>quando ab his uacans lingue uideretur
+<lb n="5"/>neglexisse organum. Talibus ergo ui
+<lb n="6"/>te argumentis et institutionibus
+<lb n="7"/>homo exegit euum, talibusque ad condig 
+<lb n="8"/>num pater angelicus peruenit ferium. 
+<lb n="9"/>Appropinqante uite sue termino
+<lb n="10"/>grauiorique inualescente mor 
+<lb n="11"/>bo pia tamen non defecit intentio, sed
+<lb n="12"/>caros quos christo diuinis dogmatibus
+<lb n="13"/>genuerat filios, uerbo commonet pro
+<lb n="14"/>cio, et de obseruandis regulis mona
+<lb n="15"/>steriorum, que peregrinus petierat, loqui et se
+<lb n="16"/>pius repetere dulce et delectabile du
+<lb n="17"/>cebat. Sed longis uirtutum studiis
+<lb n="18"/>adornatus <supplied reason="hole in parchment">m</supplied>iles christi indefessus
+<lb n="19"/>longa inter fratres inualitudine
+<lb n="20"/>commoratus senex gloriosus, tandem 
+<lb n="21"/>euocante deo, cum de carnis ergas 
+<lb n="22"/>tulo, exutus est homine terreno, di  
+<lb n="23"/>scipulis circumstantibus, et ingressum
+<lb n="24"/>eius celestibus exequiis et dulcibus
+<lb n="25"/>lamentis prosequentibus. Quorum gemi
+<lb n="26"/>tibus et lacrimosis suspiriis comitatus
+<lb n="27"/>post longos labores sue uite, ce
+<lb n="28"/>lo infertur coronandus&punctelev; ut illam
+<lb n="29"/><supplied reason="cropped parchment">domini sui u</supplied>ocem<gap/></unclear></p></div>
+    </div>
+        <div lang="en" type="translation">
+            <div><head>Lesson six</head><p>The victorious and blessed father Botulphus tirelessly walked the regions abandoned and deserted by men, carefully considering all the places around him. Finally he decided upon Ikanho with God’s guidance, to establish a monastic community there, after the suitable buildings had been erected. But this was a wasteland, and after it was left by the Christians it had been possessed by demons. Their deceiving ghosts had to be chased away by the arrival of the many soldiers of Christ, and the pious life of the faithful be introduced, so that this place formerly abounding in the devil’s deceit should abound in the grace of the merciful creator. </p></div>  
+            
+            <div><head>Lesson seven</head><p>Upon the arrival of our blessed teacher Botulphus, terrible fumes rose from the ground. <gap/><q>Since the whole world is illuminated by your miracles, why did you have to uncover our darkness? You act inhumanely and disregard all piety by driving us poor wretches away also from this deserted region, we who have been chased from all the rest of the world.</q></p>
+            </div>
+        </div>
+    </body>
+</text>
+    
+</TEI.2>

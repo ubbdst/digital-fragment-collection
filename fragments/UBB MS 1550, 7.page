@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+
+<TEI.2 lang="en">
+    <teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Description of UB Bergen MS 1550, 7</title>
+            <author>&Aring;slaug Ommundsen</author>
+        </titleStmt>
+        <publicationStmt><publisher>Bergen University Library</publisher><address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+            <date>2005</date>
+        </publicationStmt>
+        <sourceDesc>
+        <msDescription>
+                    
+        <msIdentifier>
+        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+        <repository>Bergen University Library</repository>
+        <idno>MS 1550, 7</idno>
+            <altName>Seqv 56a add (in Lilli Gjerløw’s list of additional sequence sources, available in the National Archives, Oslo)</altName>
+            
+        </msIdentifier>
+            <msHeading><title>St. Mary Antiphoner-Gradual</title>
+                <note type="schlagzeile">Parchment, one cropped bifolium, ca. 23 x 35,5 cm (leaf size ca. 23 x 20,7 cm), Germany, 14th century. 
+</note>
+            </msHeading>
+            
+                <msContents>
+                    <p>The contents of 1550, 7 are the eight tones for <emph rend="italic">Magnificat</emph>, and the sequence <emph rend="italic">Stirpe Maria regia</emph>. The fragment is listed as one of 63 Norwegian fragments containing sequences, and it is one of three sequence sources which have come to Norway after the reformation. At the fragment workshop in October 2005 the musicologist Susan Rankin pointed out that the contents relate both to the Offices (through the eight tones for the Magnificat) and to the Mass (through the sequence). This could mean two things: Either that the transmitted chants belonged to a feast for St. Mary in an Antiphoner-Gradual, or that the fragments come from a smaller book, a special book of Marian liturgy.</p>
+
+                </msContents>
+            <physDesc><p>Parchment, one cropped bifolium, <dimensions>ca. 23 x 35,5 cm</dimensions> (leaf size ca. 23 x 20,7 cm)</p>
+            <p>Lay-out: Writing space: 20,5 x 14/14,5 cm. One column. 8 lines. The ruling, which includes vertical lines on the sides of the writing space, is made in ink, with a thin pen. </p>
+            <p>Script: Gothic <emph rend="italic">textualis formata</emph>. The y’s are undotted, which is typical of German or Central-European Gothic script (see Derolez 2003, p. 95). There is an example of a round r after the letter a, which is not very common in the 14th century, and quite rare in the 15th century. Rubricated.</p>
+            <p>Musical notation: 	The notation is a German Gothic notation, resembling the Hufnagel. The musical notation is written on what appears to be basically four-line staves, with a yellow C-line and a red F-line. The top staves on the page have four lines, while the staves below appear to have five lines because of the ruling for the text. In one case, this text-line is turned into the c-line, and made a fifth line in the staff. In other cases, a red line seems to have been drawn as a partial fifth “helpline” in spite of the ruling for the text above it. The clefs are C and F, but there is also seems to be a G-clef. </p>
+            <p>Initials:	The higher level of initials are alternating red and blue. The lower level are black with red fillings. </p>
+            <p>
+                Condition:	The fragment is very dark on one side. Two small “flaps” have been fastened in the parchment on one side.  </p></physDesc>
+            <history><origin><p>Germany, 14th century (?). The dating is based on the script alone. </p>
+            </origin>
+                <acquisition>
+                    <p>Acquired with a book by Bernhard Vagetius, printed in Hamburg 1603, and later, probably during the 1960’s, removed from the binding. The information about Vagetius is noted by Lilli Gjerløw in her unpublished list of additional sequence sources. The library’s own notes on the fragments 1550, 6 and 1550, 7 are lost. The two fragments were kept together with the other manuscript fragments, but without being registered in the library’s manuscript catalogue. They received their current catalogue signatures in 2005.	</p>
+            </acquisition>
+                
+            </history><additional><listBibl><head>Bibliography</head>
+                <bibl>Vagetius, B. 1603: Der Erbaren Fry Rykes unde Seestede Lübeck, Bremen, Hamborch, Rostock, Stralsund, unde Lüneborch Christlick, unde Ernstlick Mandat wedder de Sacramentschender, Wedderdöper, und Gades Lesterer, Anno XXXV, in öffent liken Druck uthgegahn: ..., Hamburg.
+                </bibl>
+                </listBibl></additional></msDescription>
+            
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+    <langUsage><language id="en"></language></langUsage></profileDesc>
+    <revisionDesc>
+        <change>
+            <date>2005.03.07</date>
+            <respStmt><name>Tone Merete Bruvik</name></respStmt>
+            <item>Renecoded a bit to make the xml document valid</item>
+        </change>
+        <change>
+            <date>2004.10.?</date>
+            <respStmt><name>&Aring;slaug Ommundsen</name></respStmt>
+            <item>Made the original</item>
+        </change>
+    </revisionDesc>
+</teiHeader>
+    <text><body><div><head>Introduction</head><p>This fragment was used in the binding of a book printed in Hamburg in 1603, which is part of the University library’s holdings. The fragment was probably removed from the binding during the 1960’s. The secondary provenance suggests a connenction to Germany, and the musical notation also betrayes its German origin. The contents are both the melodies for the Magnificat (to be sung at Vespers) and a sequence (to be sung at Mass), which is a bit curious, since the liturgy for Office and Mass are most commonly found in separate books. Since both elements relate to a feast for St. Mary, this is either an Antiphoner-Gradual (i.e. with songs for both Office and Mass) or perhaps a smaller book with Marian liturgy. (Pointed out by musicologist Susan Rankin (Cambridge) at the fragment workshop in October 2005.) </p>
+         <list type="facsimiles"><head>Facsimiles and transcriptions</head>
+            <item>
+                <figure url="../facsimiles/UBB MS 1550, 7a.jpg" ><p>Facsimile recto</p></figure>
+                <figure url="../facsimiles/UBB MS 1550, 7b.jpg" ><p>Facsimile verso</p></figure>
+            </item>
+        </list>
+    </div></body></text>
+</TEI.2>

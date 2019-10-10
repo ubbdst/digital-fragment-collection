@@ -1,0 +1,471 @@
+/* 2005.08.01 TMB: bruker diplom CSS-stilarket for fragement ogsaa */
+/* 2004.11.16 TMB: CSS for diplom-prosjektet. */
+/* 2005-02-24, 2005-03-02 OR smaa endringer. */
+/* 2005-03-18 OR smaa endringer. */
+
+/* Fargekoder i bruk:
+   #EAD9C2 lys brun
+   #3C1800 moerk brun
+   #9E865A mellombrun
+   #E9EBE8 graa bakgrunn
+   ogsaa #35190D bakgrunn. hva er den?
+   ogsaa #DDCCBB. hva er den?
+   ogsaa white, black.
+   (i fragmentprosj brukes farge #E8E5E0. hva er den? passer den her?)
+   farger i transkripsjoner. tatt fra MPF:
+   (black)
+   #BEBEBE
+   #0000FF
+   #0076AE
+   #008080
+   #556B2F
+   #0076AE
+   #008000
+   */
+
+ 
+ 
+a:hover {
+  color: #9E865A;
+}
+
+
+/* body */
+
+body {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 10pt;
+  background-color: #E9EBE8; 
+  background-attachment: fixed;
+}
+
+.tabell {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 8pt;
+}
+
+table.master {
+  width: 80%;
+  margin-bottom: 30px;
+}
+
+tr.headRad {
+  font-style: italic;
+  border: 1px solid black;
+}
+
+tr.oddRad {
+  background-color: white; 
+}
+
+tr.jamnRad {
+}
+
+
+/* box */
+
+.box a {
+  border: 0px none white;  
+}
+
+
+a {
+  color: #3C1800; 
+  /* border-color: #3C1800; */
+  border-color: white;
+}
+
+h
+/* main */
+
+.main {
+  font-size: 8pt;
+  padding: 5px;
+  text-align:left;
+}  
+
+.main a {
+  border: 0px none white;  
+  font-weight: bold;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin-left: -5px;
+}
+
+.main a.active {
+}
+
+
+/* HEADBAR BOX */
+
+.headbar {
+  border: 0px solid #E9EBE8;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  background-color: #EAD9C2;
+}    
+
+/* mainmenu */
+
+.mainmenu {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 8pt;
+}
+
+.mainmenu a {
+  color: #3C1800;
+}
+
+.mainmenu a:hover {
+  color: #9E865A;
+}
+
+
+/* bar bottom */
+
+.barbottom a {
+  color: #35190D; 
+}
+
+.participants {
+  border: 0px solid #DDCCBB;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: x-small;
+  font-style: italic;
+}    
+
+
+.barbottom a:hover {
+  color: #9E865A;
+}
+
+.signatur {
+  border: 0px solid #DDCCBB;
+  background-color: #E9EBE8; 
+  text-align: left;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: x-small;
+}    
+
+
+/* faksimile */
+
+/* oystein endret navn fra faksemile til faksimile.
+   ogsaa satt mindre fontstorrelse */
+.faksimile {
+  background-color: #3C1800;
+  width: 200;
+  border-width: 0;
+  font-size: 8pt;
+  color: #EAD9C2;
+}
+
+
+/*  liste */
+
+.liste {
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size: 9pt; 
+  font-style: normal; 
+  font-weight: bold;
+  color: white;
+}
+
+
+/* mainheadline */
+
+.mainheadline {
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  vertical-aling: bottom; 
+  font-size: large; 
+  font-style: normal; 
+  font-weight: bold;
+}
+
+
+/* signatur */
+
+.signatur {
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  vertical-aling: bottom; 
+  font-size: x-small; 
+  font-style: italic;
+  padding: 5px;
+}
+
+
+/* finansiering mm */
+
+.signatur2 {
+  font-family: Verdana, Arial, Helvetica, sans-serif; 
+  vertical-aling: bottom; 
+  font-size: x-small; 
+  font-style: italic;
+  color: #3C1800;
+  padding: 5px;
+}
+
+
+/*****************************/
+
+
+/* test oystein class-er for visning av katalogpost */
+
+
+.title {
+  background-color: white;
+  border: 1px solid #9E865A;
+  padding: 2px;
+}
+
+.place {
+  background-color: #EAD9C2;
+  border: 1px solid #9E865A;
+  padding: 2px;
+}
+
+.desc {
+  background-color: #E9EBE8;
+  border: 1px solid #9E865A;
+  padding: 2px;
+}
+
+.group {
+  border: 1px solid #EAD9C2;
+  padding: 5px;
+}
+
+.prompt {
+  font-style: normal;
+  font-weight: bold;
+  color: #9E865A;
+}
+
+
+/*****************************/
+
+
+/* test oystein class-er for visning av feilmeldinger */
+
+
+.errortitle {
+  background-image: url(grafikk/footer.jpg);
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bold;
+  color: white;
+}
+
+.errormessage {
+  font-size: large;
+  font-style: normal;
+  color: #9E865A;
+}
+
+
+/* end */
+
+
+/*****************************/
+
+
+/* styles for showing transcriptions.
+   i stor grad knabbet fra MPF sin page.css */
+
+/* for en div som ligger rundt selve den transkriberte teksten.
+   trodde maatte ha margin-left her for aa faa linjenumrene (linecount)
+   til aa aligne seg riktig.
+   men det funket ikke uten line-height.
+   uten line-height trappet det seg.
+   og line-height maa vaere her. nytter ikke aa ha den i linecount.
+   apropos: line-height: 100%; gikk faktisk bra.
+   og margin-left saa ikke ut til aa ha noen effekt.
+   kuttet den.
+   lurte paa om den kunne hjelpe wrapping av linjer,
+   men fortsettelsen kommer ute til venstre ved linjenummeret
+   uansett om den er med eller ikke.
+   margin-left: 25px;
+   */
+.transcriptiontext {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  line-height: 150%;
+}
+
+.pagebreak {
+  font-size: 12pt;
+  font-weight: normal;
+  color: #BEBEBE;
+  vertical-align: middle;
+}
+
+.linecount {
+  font-size: 10pt;
+  font-weight: normal;
+  color: #BEBEBE;
+  padding-right: 5px;
+  float: left;
+  text-align: right;
+  width: 25px;
+}
+
+.head1 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: x-large;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.head2 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: large;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.head3 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: medium;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.head4 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: small;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.rubric {
+  /* Showing rubric headlines inside a transpribtion */
+  font-weight: normal;
+  font-size: 12pt;
+  text-align: left;
+  margin-bottom: 10px;
+}
+			
+.divwork {
+  font-size: 18pt;
+  font-weight: normal;
+  color: #0000FF;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-align: left
+}
+
+.divchapter {
+  font-size: 16pt;
+  font-weight: normal;
+  color: #0000FF;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.paragraph {
+  font-weight: normal;
+  color: black;
+  text-align: left;
+}
+
+.linegroup {
+  font-size: 10pt;
+  font-weight: normal;
+  color: black;
+  line-height: 120%;
+  margin-left: 25px;
+}
+
+.lglines {
+  font-size: 10pt;
+  font-weight: normal;
+  color: #BEBEBE;
+  padding-right: 5px;
+  text-align: right;
+  width: 25px;
+}
+
+.note {
+  font-weight: normal;
+  color: #0000FF;
+  text-decoration: none;
+  vertical-align: super;
+}
+
+.foot {
+  font-size: 10pt;
+  font-weight: normal;
+  color: #0000FF;
+  text-decoration: none;
+  width: 15px;
+  padding-right: 5px;
+  text-align: right;
+}
+
+.footnote {
+  font-size: 10pt;
+  font-weight: normal;
+  color: black;
+}
+
+.expan {
+  font-style: italic;
+  font-weight: normal;
+}
+
+.notecritical {
+  font-size: 80%;
+  color: #0076AE;
+}
+
+.noteplain {
+  font-size: 80%;
+  color: #008080;
+}
+
+.supplied {
+  font-size: 100%;
+  color: #556B2F;
+}
+
+.unclear {
+  color: #BEBEBE;
+}
+
+.gap {
+  font-size: 80%;
+  color: #0076AE;
+}
+
+.add {
+  color: #008000;
+}
+
+.emph {
+  color: #0000FF;
+}
+
+.sic {
+  color: purple;
+}
+
+
+.front {
+  font-size: 100%;
+}
+.back {
+  font-size: 80%;
+}
+
+/* END */
+
+
+
+

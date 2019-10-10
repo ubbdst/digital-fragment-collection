@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+
+<TEI.2 lang="en">
+    <teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Description of UB Bergen MS 1550, 5</title>
+            <author>&Aring;slaug Ommundsen</author>
+        </titleStmt>
+        <publicationStmt><publisher>Bergen University Library</publisher><address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+            <date>2005</date>
+        </publicationStmt>
+        <sourceDesc>
+        <msDescription>
+                    
+        <msIdentifier>
+        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+        <repository>Bergen University Library</repository>
+        <idno>MS 1550, 5</idno>
+            
+            <altName>Mi 71 (Gjerl&oslash;w)</altName>
+        </msIdentifier>
+            <msHeading><title>The Nordfjord missal fragment</title>
+                <note type="schlagzeile">Parchment, one leaf, ca. 30,5 x 17,5 cm, France, first half of the 12th century.
+</note>
+            </msHeading>
+            
+                <msContents>
+<p>
+The contents are the liturgy for the mass for third and fourth day of the Easter octave, as well as the prayers for the vespers of the third day of Easter. </p>
+
+                    <p><list><head>Third day of Easter: </head>
+<item>Gospel reading from Luke 24.</item>
+<item>Offertory: Intonuit de celo</item>
+<item>Secretam: Suscipe domine fidelium preces </item>
+<item>Communio: Si consurrexisti cum christo</item>
+<item>Postcommunio: Concede, quaesumus omnipotens deus, ut paschalis perceptio</item>
+
+<item>Prayer ad vesperas<note>The prayers ad vesperas and ad fontes are also present in a Missal from Chartres (Hiley 1992).</note></item>
+<item>Prayer ad fontes</item> 
+<item>Collect prayer</item>
+ </list></p>
+
+                    <p><list><head>Fourth day of Easter: </head>
+<item>Introitus: Venite benedicti patris</item>
+<item>Collect prayer: Deus qui nos resurrectionis domini</item>
+<item>Epistle reading: </item>
+<item>Gradual: Hec dies
+ </item></list></p>
+<p>For full text, see transcription.</p></msContents>
+        <physDesc><p>Parchment, one leaf,<dimensions>ca. 30,5 x 17,5 cm</dimensions></p>
+        <p>Lay-out: Relatively weak lead ruling. Full writing space is ca. 25 x 15 cm. Two columns for each page, ca 7 cm wide, with 31 lines. </p>
+            <p>Script: Protogothic script. The letters are slightly leaning backwards, a trait that appears from mid twelfth century. The nasal abbreviation is cup-shaped or wavy. In the text the d is straight, and the ampersand is used for "et". There are examples of e caudata. The insular U occurs as capital (Viri, l. 13 from the bottom, second column). There is one example of dotting of the "i"-s, in "brachii" 7 lines from the top, right column. In the chants the script is smaller, round d occurs (without fusion with o) and uncrossed tironian note is used for "et". Rubricated.</p>
+<p>Musical notation: The musical notation is striking: Neumes, not square notation, on four red lines, the neumes in darker ink. Neumes also appear in campo aperto for the two first words of the Gradual Hec dies. At the international fragment workshop in Bergen in 2005 Susan Rankin (Cambridge) pointed out that the text scribe knew to leave 2 text lines for every stave, but misjudged the amount of horisontal space needed for musical notation, and included abbreviations. The music scribe then wrote neumes on lines (neumes sur lignes), which is the first stage of putting music with lines. The shapes and angles suggest a French rather than an Anglo-Norman origin. The musical notation was not written later than c. 1150. Clefs: c and f. </p>
+            <p>Initials: Two-coloured initials in red and green. Red and green are alternating as basic colour and decorative filling. There is one example of a darker red C initial with a lighter red filling. The initials of the chants are plain, and smaller. The initials are not confined to the ruled space, but go into the margins.   
+                </p><p>
+                    Condition: The fragment is in good condition, although only one page of the Latin text is preserved. From the missal side, the parchment is cropped in the left margin, but only the initials are affected. Two long slices of parchment, apparently cut from the same manuscript, are fastened in the margin on the right side, for seals. There is a rather large brown spot blurring some of the text below the middle of the fragment.</p></physDesc>
+            <history><origin><p>France, first half of the 12th century. The written catalogue in the University Library suggests an English origin and a date between 1150 and 1175. The information about origin was adjusted at the international fragment workshop in Bergen in 2005. Michael Gullick pointed out that the hand looked French or Norman rather than English, first half of the 12th century. Susan Rankin looked at the notation, which indicated a French rather than Norman origin. The musical notation was not written later than 1150, and possibly quite a bit earlier.   </p>
+            </origin>
+                <acquisition>
+                    <p>Gift to Bergen Museum from Leutenant Colonel O. A. Holck at Alvern, cf. letter from F. K. Christie to Holck 3 April 1826 (Ms. 174, 23).</p>
+            </acquisition>
+                
+               </history><additional><listBibl><head>Bibliography</head>
+                  <bibl>Gjerl&oslash;w, Lilli 1970: "Missaler brukt i Bj&oslash;rgvin bisped&oslash;mme fra misjonstiden til Nidarosordinariet", Bj&oslash;rgvin bispestol. Byen og bisped&oslash;mmet, Bergen, pp. 73-115 (particularly pp. 102-104 and 111).
+                  </bibl><bibl>Hiley, David (ed.) 1992: Missale from Chartres, Monumenta monodica medii aevi IV, B�renreiter Kassel, Basel, London, New York, Prag.
+                  </bibl><bibl>Tveitane, Mattias 1968: "Et neumefragment", Sm&aring; godbiter fra samlingene, no. 34, Bergen.</bibl>
+                <bibl>Tveitane, Mattias et. al.: Bergen University Library Manuscript Catalogue [unpublished]</bibl></listBibl></additional></msDescription>
+            
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+    <langUsage><language id="en"></language></langUsage></profileDesc>
+    <revisionDesc>
+        <change>
+            <date>2005.03.07</date>
+            <respStmt><name>Tone Merete Bruvik</name></respStmt>
+            <item>Renecoded a bit to make the xml document valid</item>
+        </change>
+        <change>
+            <date>2004.10.?</date>
+            <respStmt><name>&Aring;slaug Ommundsen</name></respStmt>
+            <item>Made the original</item>
+        </change>
+    </revisionDesc>
+</teiHeader>
+    <text><body><div><head>Introduction</head><p>As for most of the Norwegian parchment fragments, this is an example of survival through re-use. A document from 1570 was written on the page of a 12th century liturgical manuscript, after the old ink had been scraped off. (The document is published in Diplomatarium Norvegicum as DN 10, 769.) The texts and chants on the remaining liturgical page are for Easter week. The peculiar notation is worth noticing: Neumes, not regular notes, are written out on four lines, in a darker ink. Neumes usually appear without lines, providing only relative information of the movement of the melodic line. Here they are elegantly combined with the four line notation system. This fragment, and the missal it belonged to, was probably used in the Bergen area in the middle ages (Gjerl&oslash;w 1970). At the international fragment workshop in Bergen in October 2005 a French origin was suggested, on the basis of both scribal features and notation. </p>
+         <list type="facsimiles"><head>Facsimiles and transcriptions</head>
+            <item>
+                <xref url="../transcriptions/UBB MS 1550, 5-transkr.page">Transcription of UBB MS 1550, 5</xref>
+                <figure url="../facsimiles/UBB MS 1550, 5a.jpg" ><p>Facsimile recto</p></figure>
+                <figure url="../facsimiles/UBB MS 1550, 5b.jpg" ><p>Facsimile verso</p></figure>
+            </item>
+        </list>
+    </div></body></text>
+</TEI.2>

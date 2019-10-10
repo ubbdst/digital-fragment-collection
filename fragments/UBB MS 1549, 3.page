@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+<TEI.2 lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Description of UB Bergen MS 1549, 3</title>
+                <author>&Aring;slaug Ommundsen</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bergen University Library</publisher>
+                <address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+                <date>2005</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+                        <repository>Bergen University Library</repository>
+                        <idno>MS 1549, 3</idno>
+                        <altName type="old signature">MS 410, 3</altName>
+                        <altName>Ant 51 (Gjerl&oslash;w)</altName>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>The St Mauritius Antiphoner fragment</title>
+                        <note type="schlagzeile">Parchment, one bifolium, fol. size ca <dimensions>37 x 27,5 cm</dimensions>,
+                            <placeName>Germany</placeName>, <date>15th century</date>.</note>
+                    </msHeading>
+                    <msContents>
+                        <p>Contents: The contents is the end of the first nocturn and the beginning
+                            of the second nocturne of the Matins, the night-office of St. Mauritius
+                            and socii (22 September). From the first nocturne we have the last
+                            responsory, describing how the Theban legions crossed the river
+                            Octodurum after hearing (and refusing) the cruel emperor's orders, and
+                            how they arrived in Agaunus. From the second nocturne we have the first
+                            three antiphons written out in full with their psalms indicated. The
+                            antiphons are now quoting the thoughts of the Theban legion, like the
+                            first antiphon: "We know how to fight against the unpious, but we are
+                            utterly incapable of slaughtering the pious and our fellow citicens."
+                            The second antiphon continues: "We hold our weapons and do not uprise,
+                            because we are prepared to die rather than kill." The third antiphon
+                            describes how the emperor's men, the "crudeles" draw their weapons on
+                            the legion. The first responsory introduces Mauritius, the primicerius,
+                            as well as two other officers, the signifer Exuperius and the senator
+                            Candidus, who make the men obey them out of love rather than fear. In
+                            the second responsory the emperor gives his horrible command, and then
+                            our fragment ends.</p>
+                        <p> Written with pen on the lower right of 420r: "410 3. /givet 1864 af
+                            Fr&oslash;ken Caroline K&yuml;hle, havde faaet dette Blad af en
+                            Boghandler i Kj&oslash;benhavn:/" (In primo nocturno) f. 419:
+                            (Resp.) Cognoscens Thebea (no CAO number). V. Ut octo milium. pro.
+                            Gloria patri. In secundo nocturno (rubric). (Ant.) Nos pugnare (CAO
+                            3959) Ps. Verba mea. (suprascript with a later hand: "fol: 2") (Ant.)
+                            Tenemus ecce arma. (CAO 5132) Ps. Domine dominus noster.(suprascript
+                            with a later hand: "fol: 4") Ant. Cumque missi. (CAO 2066) Ps. Do(mine),
+                            q(uis) h(abitavit). (suprascript with a later hand: "fol: 8") (Resp.)
+                            Erant in eadem legione (no CAO number). V. Viri in bello strenui. Resp.
+                            Post preceptum (no CAO number).</p>
+                        <p> The clue to a closer identification of the manuscript could be the
+                            chants not found in the Corpus Antiphonalium Officii or the Cantus
+                            on-line database: The responsories Cognoscens thebea, Erant in eadem
+                            legione and Post preceptum.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Parchment, one bifolium <dimensions>fol. size ca 37 x 27,5
+                            cm</dimensions></p>
+                        <p>Lay-out: The bifolium was the inner one of the quire, and the two folia
+                            are marked with 419 and 420. No visible ruling apart from the lines for
+                            the notation. Writing space ca 27 x 19 cm, one column, 8 lines per
+                            pages.</p>
+                        <p>The fragment is in good condition, and still relatively white, although a
+                            bit stained.</p>
+                        <p>Script: Gothic textualis. Rubricated. Musical notation: Gothic notation
+                            (Hufnagel) on five brown lines, marked with both c and f-keys. </p>
+                        <p>Initials: There are two categories of initials. The plain red or blue
+                            alternating initials seem to be higher in the hierarchy. Coloured
+                            initials are used for the first antiphon in the row of three, and the
+                            responsories. The small letters indicating the desired coloured initial
+                            are still visible. The secondary kind is a more complex gothic initial
+                            with red filling, though without decorative elements apart from the red
+                            stripe and the shape of the letter itself. </p>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p>The Antiphoner was probably written in <placeName>Germany</placeName> in the <date>15th century</date>.
+                                (Date supplied by <persName>prof. Ludwig Bieler</persName>, <placeName>Dublin</placeName>, in note from 6/7
+                                <date>1964</date>.) </p>
+                        </origin>
+                        <provenance>
+                            <p>The bifolium was according to the older catalogue bought in
+                                <placeName>Copenhagen</placeName>.</p>
+                        </provenance>
+                        <acquisition>
+                            <p>A gift to the <orgName>Bergen Museum</orgName> from ms. <persName>Caroline Kyhle</persName> in <date>1864</date>.</p>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <head>Bibliography</head>
+                            <bibl>Cantus, A Database for Latin Ecclesiastical Chant: <xref
+                                    url="http://publish.uwo.ca/~cantus/"
+                                    >http://publish.uwo.ca/~cantus/</xref></bibl>
+                            <bibl>Hesbert, R. J.: Corpus Antiphonalium Officii (CAO), Roma, Herder,
+                                    1963-1979.<xref
+                                    url="http://www.katolsk.no/biografi/mauritiu.htm"
+                                    >http://www.katolsk.no/biografi/mauritiu.htm</xref>
+                            </bibl>
+                            <bibl>Tveitane, Mattias et. al.: Bergen University Library Manuscript
+                                Catalogue [unpublished]</bibl>
+                        </listBibl>
+                    </additional>
+                </msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2006.02.16</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Updated the encoding of dates, places, names etc.</item>
+            </change>
+            <change>
+                <date>2005.11.24</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Updated</item>
+            </change>
+            <change>
+                <date>2005.08.17</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Recoded the content of the history element.</item>
+            </change>
+            <change>
+                <date>2004.11.01</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Updated with references to facsimiles, added revisionDesc, language
+                    declaration etc.</item>
+            </change>
+            <change>
+                <date>2004.10.?</date>
+                <respStmt>
+                    <name>&Aring;slaug Ommundsen</name>
+                </respStmt>
+                <item>Made the original</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Introduction</head>
+                <p>The St Mauritius Antiphoner fragment is a bifolium, a double leaf, containing
+                    parts of the Office for the St Mauritius et socii (22 september). The fragment
+                    was bought in Copenhagen, and given to Bergen museum in 1864. The gothic
+                    notation, also known as "Hufnagel", was mainly used in Germany and Eastern
+                    Europe, and it is likely that the Antiphoner has German origin. Mauritius is
+                    said to have been a soldier and the leader of the socalled Theban legion from
+                    Egypt. The legend says that he was killed along with 6 666 of his men, for
+                    refusing to slaughter christians under one of the Roman persecutions. According
+                    to the legend Mauritius and his legion was killed at Agaunus in Wallis (now
+                    Saint-Maurice-en-valais) in the Rhone valley ca 300. From the 8th century he was
+                    celebrated throughout the Christian world. St Mauritius is among other things
+                    the patron saint for soldiers, including the Swiss guard of the Vatican.</p>
+                <list type="facsimiles">
+                    <head>Facsimiles and transcriptions</head>
+                    <item>
+                        <figure url="../facsimiles/UBB MS 1549, 3a.jpg">
+                            <p>Facsimile 1549 3a</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 3b.jpg">
+                            <p>Facsimile 1549 3b</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 3c.jpg">
+                            <p>Facsimile 1549 3c</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 3d.jpg">
+                            <p>Facsimile 1549 3d</p>
+                        </figure>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI.2>

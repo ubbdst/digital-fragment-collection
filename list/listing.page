@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd" [
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]>
+<TEI.2 lang="en">
+    <teiHeader type="mainpage">
+        <fileDesc>
+            <titleStmt>
+                <title>Fragments</title>
+                <title>Detail listing</title>
+                <author>TMB, <name>The Department of Culture, Language and
+                        Information Technology (Aksis), UNIFOB AS</name></author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Published in the web at <xref url="http://gandalf.aksis.uib.no/mpf/">http://gandalf.aksis.uib.no/mpf/</xref>/</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born electronic</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en">English</language>
+                <language id="nb">Norwegian - BokmŒl</language>
+                <language id="nn">Norwegian - Nynorsk</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2006.02.15</date>
+                <respStmt>
+                    <name>TMB</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>Updated.</item>
+            </change><change>
+                <date>2006.02.13</date>
+                <respStmt>
+                    <name>TMB</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>Updated.</item>
+            </change><change>
+                <date>11 October, 2005</date>
+                <respStmt>
+                    <name>TMB</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>First draft</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body><head>Listing of the current fragments.</head>
+            <div>
+                <table>
+                    <row role="lable"><cell>Sign.</cell><cell>Name</cell><cell>Language</cell><cell>Fragments</cell><cell>Transcribed</cell><cell>Translation</cell><cell>Facsimiles</cell></row>
+                	<row><cell>
+                		<xref url="./fragments/UBB MS 791a.page">UB Bergen MS 791, a</xref></cell>
+                		<cell>A text of Civil law (?)</cell>
+                		<cell>Latin</cell>
+                		<cell>One cropped bifolium</cell>
+                		<cell>
+                		</cell>
+                		<cell></cell>
+                		<cell>
+                			<figure url="./facsimiles/UBB MS 791A-side1.jpg"><figDesc>1</figDesc></figure>, 
+                			<figure url="./facsimiles/UBB MS 791A-side2.jpg"><figDesc>2</figDesc></figure>, 
+                			<figure url="./facsimiles/UBB MS 791A-side3.jpg"><figDesc>3</figDesc></figure>, 
+                			<figure url="./facsimiles/UBB MS 791A-side4.jpg"><figDesc>4</figDesc></figure>
+                		</cell>
+                	</row>
+                	<row><cell>
+                		<xref url="./fragments/UBB MS 791b-e.page">UB Bergen MS 791, b-e</xref></cell>
+                		<cell>Justinian's Digest with glosses by Accurtius</cell>
+                		<cell>Latin</cell>
+                		<cell>Four bifolia</cell>
+                		<cell>
+                		</cell>
+                		<cell></cell>
+                		<cell>
+                			<figure url="./facsimiles/UBB MS 791B-side1.jpg" ><figDesc>b
+                				recto</figDesc></figure>, 
+                			<figure url="./facsimiles/UBB MS 791B-side2.jpg" ><figDesc>b verso</figDesc></figure>, 
+                			<figure url="./facsimiles/UBB MS 791C-side1.jpg" ><figDesc>c recto</figDesc></figure>, 
+                			<figure url="./facsimiles/UBB MS 791C-side2.jpg" ><figDesc>c verso</figDesc></figure>, 
+                			<figure url="./facsimiles/UBB MS 791D-side1.jpg" ><figDesc>d recto</figDesc></figure>, 
+                			<figure url="./facsimiles/UBB MS 791D-side2.jpg" ><figDesc>d verso</figDesc></figure>, 
+                			<figure url="./facsimiles/UBB MS 791E-side1.jpg" ><figDesc>e recto</figDesc></figure>, 
+                			<figure url="./facsimiles/UBB MS 791E-side2.jpg" ><figDesc>e
+                				verso</figDesc></figure>.
+                			
+                		</cell>
+                	</row>
+                	<row><cell>
+                        <xref url="./fragments/UBB MS 1549, 1a-d.page">UB Bergen MS 1549, 1, a - d</xref></cell>
+                        <cell>The Botulph Breviary fragments</cell>
+                        <cell>Latin</cell>
+                        <cell>4 fragments</cell>
+                        <cell>
+                            <xref url="./transcriptions/UBB MS 1549, 1a-transkr.page">1a</xref>, 
+                            <xref url="./transcriptions/UBB MS 1549, 1b-transkr.page">1b</xref>, 
+                            <xref url="./transcriptions/UBB MS 1549, 1c-transkr.page">1c</xref>, 
+                            <xref url="./transcriptions/UBB MS 1549, 1d-transkr.page">1d</xref>.
+                        </cell>
+                        <cell><xref url="./transcriptions/UBB MS 1549, 1a-transkr.page?translation">Only 1a</xref></cell>
+                        <cell>
+                            <figure url="./facsimiles/UBB MS 1549, 1a 1.jpg"><figDesc>1a recto</figDesc></figure>, 
+                            <figure url="./facsimiles/UBB MS 1549, 1a 2.jpg"><figDesc>1a verso</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1549, 1b 1.jpg"><figDesc>1b recto</figDesc></figure>, 
+                            <figure url="./facsimiles/UBB MS 1549, 1b 2.jpg"><figDesc>1b verso</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1549, 1c 2.jpg"><figDesc>1c recto</figDesc></figure>, 
+                            <figure url="./facsimiles/UBB MS 1549, 1c 1.jpg"><figDesc>1c verso</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1549, 1d 1.jpg"><figDesc>1d recto</figDesc></figure>, 
+                            <figure url="./facsimiles/UBB MS 1549, 1d 2.jpg"><figDesc>1d verso</figDesc></figure>.
+                        </cell>
+                    </row>
+                    <row><cell>
+                        <xref url="./fragments/UBB MS 1549, 1e.page">UB Bergen MS 1549, 1e</xref></cell>
+                        <cell>The St Mary Gradual fragment</cell>
+                        <cell>Latin</cell>
+                        <cell>1 fragments</cell>
+                        <cell>
+                            <xref url="./transcriptions/UBB MS 1549, 1e-transkr.page">1e</xref>
+                        </cell>
+                        <cell></cell>
+                        <cell>
+                            <figure url="./facsimiles/UBB MS 1549, 1e 1.jpg"><figDesc>1e recto</figDesc></figure>, 
+                            <figure url="./facsimiles/UBB MS 1549, 1e 2.jpg"><figDesc>1e verso</figDesc></figure>.
+                        </cell>
+                    </row>
+                    <row>
+                        <cell><xref url="./fragments/UBB MS 1549, 2.page">UB Bergen MS 1549 2</xref></cell>
+                        <cell>The Good Friday Missal Fragment</cell>
+                        <cell>Latin</cell>
+                        <cell>1 leaf</cell>
+                        <cell><xref url="./transcriptions/UBB MS 1549, 2-transkr.page">Transcription</xref></cell>
+                        <cell><xref url="./transcriptions/UBB MS 1549, 2-transkr.page?translation">Yes</xref></cell>
+                        <cell>
+                            <figure url="./facsimiles/UBB MS 1549, 2 1.jpg"><figDesc>Recto</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1549, 2 2.jpg"><figDesc>Verso</figDesc></figure></cell>
+                    </row>
+                    <row><cell>
+                        <xref url="./fragments/UBB MS 1549, 3.page">UB Bergen MS 1549, 3</xref></cell><cell>The St Mauritius Antiphoner fragment</cell>
+                        <cell>Latin</cell><cell>1 bifolium</cell><cell></cell><cell></cell>
+                        <cell>
+                            <figure url="./facsimiles/UBB MS 1549, 3a.jpg"><figDesc>3a</figDesc></figure>, 
+                            <figure url="./facsimiles/UBB MS 1549, 3b.jpg"><figDesc>3b</figDesc></figure>, 
+                            <figure url="./facsimiles/UBB MS 1549, 3c.jpg"><figDesc>3c</figDesc></figure>, 
+                            <figure url="./facsimiles/UBB MS 1549, 3d.jpg"><figDesc>3d</figDesc></figure>.
+                        </cell>
+                    </row>
+                    <row><cell>
+                        <xref url="./fragments/UBB MS 1549, 4.page">UB Bergen MS 1549, 4</xref></cell>
+                        <cell>A commentary in 75 Psalms</cell> 
+                        <cell>Latin</cell>
+                        <cell>2 cropped bifolia</cell>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell>
+                            <figure url="./facsimiles/UBB MS 1549, 4a 1.jpg"><figDesc>4a recto</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1549, 4a 2.jpg"><figDesc>4a verso</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1549, 4b 1.jpg"><figDesc>4b recto</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1549, 4b 2.jpg"><figDesc>4b verso</figDesc></figure>.</cell>
+                    </row>
+                    <row><cell>
+                        <xref url="./fragments/UBB MS 1549, 5.page">UB Bergen MS 1549, 5</xref></cell>
+                        <cell>The Bryggen Missal fragment</cell>
+                        <cell>Latin</cell>
+                        <cell>1</cell>
+                        <cell><xref url="./transcriptions/UBB MS 1549, 5-transkr.page">Transcription</xref></cell>
+                        <cell></cell>
+                        <cell>
+                            <figure url="./facsimiles/UBB MS 1549, 5a.jpg"><figDesc>5a</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1549, 5b.jpg"><figDesc>5b</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1549, 5c.jpg"><figDesc>5c</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1549, 5d.jpg"><figDesc>5d</figDesc></figure>.
+                        </cell>
+                    </row>
+                    <row><cell><xref url="./fragments/UBB MS 1549, 6.page">UB Bergen MS 1549, 6</xref></cell>
+                        <cell>Three small fragments</cell>
+                        <cell>Latin</cell>
+                        <cell>3 fragments</cell>
+                        <cell></cell><cell></cell>
+                    	<cell>
+                        <figure url="./facsimiles/UBB MS 1549, 6a 1.jpg"><figDesc>6a recto</figDesc></figure>, 
+                    		<figure url="./facsimiles/UBB MS 1549, 6a 2.jpg"><figDesc>6a verso</figDesc></figure>, 
+                    		<figure url="./facsimiles/UBB MS 1549, 6b 1.jpg"><figDesc>6b recto</figDesc></figure>, 
+                    		<figure url="./facsimiles/UBB MS 1549, 6b 2.jpg"><figDesc>6b verso.</figDesc></figure>, 
+                    		<figure url="./facsimiles/UBB MS 1549, 6c 1.jpg"><figDesc>6c recto</figDesc></figure>, 
+                    		<figure url="./facsimiles/UBB MS 1549, 6c 2.jpg"><figDesc>6c verso.</figDesc></figure>.
+                        </cell>
+                    </row>
+                    <row><cell><xref url="./fragments/UBB MS 1549, 7a.page">UB Bergen MS 1549, 7a</xref></cell>
+                        <cell>The Kaupanger Missal fragment</cell>
+                        <cell>Latin</cell>
+                        <cell>1 fragment</cell>
+                        <cell><xref url="./transcriptions/UBB MS 1549, 7a-transkr.page">Transcription</xref> </cell>
+                        <cell></cell>
+                        <cell>
+                        	<figure url="./facsimiles/UBB MS 1549, 7a 1.jpg"><figDesc>Verso</figDesc></figure>,          
+                        		<figure url="./facsimiles/UBB MS 1549, 7a 2.jpg"><figDesc>recto</figDesc></figure>
+                        </cell>
+                    </row>
+                    <row><cell><xref url="./fragments/UBB MS 1549, 7b.page">UB Bergen MS 1549, 7b</xref></cell>
+                        <cell>The Kaupanger Prayerbook fragment</cell>
+                        <cell>Latin</cell><cell>1 bifolium</cell>
+                        <cell><xref url="./transcriptions/UBB%20MS%201549,%207b-transkr.page">Transcription</xref></cell>
+                        <cell></cell>
+                        <cell>
+                        	<figure url="./facsimiles/UBB MS 1549, 7b.jpg"><figDesc>Recto</figDesc></figure>   </cell>
+                    </row>
+                    <row><cell><xref url="./fragments/UBB MS 1549, 7c.page">UB Bergen MS 1549, 7c</xref></cell>
+                        <cell>[]</cell>
+                        <cell>Old Norse</cell><cell>4 fragments</cell>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell>
+                        	<figure url="./facsimiles/UBB MS 1549, 7c.jpg"><figDesc>Recto</figDesc></figure>   </cell>
+                    </row>
+                    
+                    
+                    <row><cell><xref url="./fragments/UBB MS 1550, 1.page">UB Bergen MS 1550, 1</xref></cell>
+                        <cell>The Kyrie-Gloria Gradual fragment</cell>
+                        <cell>Latin</cell>
+                        <cell>1 leaf</cell>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell><figure url="./facsimiles/UBB MS 1550, 1a.jpg"><figDesc>Recto</figDesc></figure>,          
+                            <figure url="./facsimiles/UBB MS 1550, 1b.jpg"><figDesc>verso</figDesc></figure>.</cell>
+                    </row>
+                    <row><cell><xref url="./fragments/UBB MS 1550, 2.page">UB Bergen MS 1550, 2</xref></cell>
+                        <cell>The Canon missae fragment</cell>
+                        <cell>Latin</cell><cell>1 leaf</cell>
+                       <cell></cell>
+                        <cell></cell>
+                        <cell>
+                            <figure url="./facsimiles/UBB MS 1550, 2a.jpg"><figDesc>Recto</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1550, 3b.jpg"><figDesc>verso</figDesc></figure>.
+                        </cell>
+                    </row>
+                    <row>
+                        <cell><xref url="./fragments/UBB MS 1550, 3.page">UB Bergen MS 1550, 3</xref></cell>
+                        <cell>The reversed missal fragment</cell>
+                        <cell>Latin</cell><cell>Paper, 1 leaf</cell>
+                        <cell><xref url="./transcriptions/UBB MS 1550, 3-transkr.page">Transcription</xref></cell>
+                        <cell></cell>
+                        <cell>
+                            <figure url="./facsimiles/UBB MS 1550, 3.jpg"><figDesc>Recto</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1550, 3, flipped.jpg"><figDesc>recto flipped</figDesc></figure>.</cell>
+                    </row>
+                    
+                    <row><cell><xref url="./fragments/UBB MS 1550, 4.page">UB Bergen MS 1550, 4</xref></cell>
+                        <cell>The Calendar fragment</cell>
+                        <cell>Latin</cell>
+                        <cell>1 fragment (two pieces)</cell>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell>
+                            <figure url="./facsimiles/UBB MS 1550, 4a.jpg"><figDesc>Recto</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1550, 4b.jpg"><figDesc>verso</figDesc></figure>.
+                        </cell></row>
+                    <row><cell>
+                        <xref url="./fragments/UBB MS 1550, 5.page">UB Bergen MS 1550, 5</xref></cell>
+                        <cell>The Nordfjord missal fragment</cell>
+                        <cell>Latin</cell>
+                        <cell>1</cell>
+                        <cell><xref url="./transcriptions/UBB MS 1550, 5-transkr.page">Transcription</xref></cell>
+                        <cell></cell>
+                        <cell>
+                            <figure url="./facsimiles/UBB MS 1550, 5a.jpg"><figDesc>Recto</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1550, 5b.jpg"><figDesc>verso</figDesc></figure>.
+                        </cell>
+                    </row>
+                	<row>
+                		<cell>
+                		<xref url="./fragments/UBB MS 1550, 6.page">UB Bergen MS 1550, 6</xref></cell>
+                		<cell>Manuale, liber ritualis</cell>
+                			<cell>Latin</cell>
+                			<cell>One cropped bifolium</cell>
+                			<cell></cell>
+                			<cell></cell>
+                			<cell><figure url="./facsimiles/UBB MS 1550, 6a.jpg"><figDesc>Recto</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1550, 6b.jpg"><figDesc>verso</figDesc></figure>.
+                			</cell>
+                		</row>
+                	<row>
+                		<cell>
+                			<xref url="./fragments/UBB MS 1550, 7.page">UB Bergen MS 1550, 7</xref></cell>
+                		<cell>St. Mary Antiphoner-Gradual</cell>
+                		<cell>Latin</cell>
+                		<cell>One cropped bifolium</cell>
+                		<cell></cell>
+                		<cell></cell>
+                		<cell><figure url="./facsimiles/UBB MS 1550, 7a.jpg"><figDesc>Recto</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1550, 7b.jpg"><figDesc>verso</figDesc></figure>.
+                		</cell>
+                	</row>
+                    <row><cell>
+                        <xref url="./fragments/UBB MS 1836, 1.page">UB Bergen MS 1836, 1</xref></cell>
+                        <cell>Younger code of law of King Magnus the Law-Mender</cell>
+                        <cell>Old Norse</cell><cell>2 leaves</cell>
+                        <cell><!--<xref url="./transcriptions/UBB MS 1836, 1-transkr.page">Transcription</xref>--></cell>
+                        <cell></cell>
+                        <cell>
+                            <figure url="./facsimiles/UBB MS 1836, 1a 1.jpg"><figDesc>1a Recto</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1836, 1a 2.jpg"><figDesc>1a verso</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1836, 1b 1.jpg"><figDesc>1b recto</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1836, 1b 2.jpg"><figDesc>1b verso</figDesc></figure>.
+                        </cell>
+                    </row>
+                    <row>
+                        <cell>
+                        <xref url="./fragments/UBB MS 1836, 2.page">UB Bergen MS 1836, 2</xref></cell>
+                        <cell>Book of Sirach in Icelandic</cell>
+                        <cell>Old Norse</cell><cell>1 leaf</cell>
+                        <cell><!--<xref url="./transcriptions/UBB MS 1836, 2-transkr.page">Transcription</xref>--></cell>
+                        <cell></cell>
+                        <cell>
+                            <figure url="./facsimiles/UBB MS 1836, 2 1.jpg"><figDesc>1a Recto</figDesc></figure>,
+                            <figure url="./facsimiles/UBB MS 1836, 2 2.jpg"><figDesc>1b verso</figDesc></figure>.
+                        </cell>
+                    </row>
+                    <row>
+                    <cell><xref url="./fragments/SAB MS B 43, 1-3.page">SAB MS B 43, 1-3</xref></cell>
+                        <cell>The Antiphonary at State Archive of Bergen</cell>
+<cell>Latin</cell><cell>3 leaf</cell>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell><figure url="../facsimiles/SAB MS B 43, 01R.jpg">
+                            <figDesc>1 recto</figDesc>
+                        </figure>
+                        <figure url="../facsimiles/SAB MS B 43, 01V.jpg">
+                            <figDesc>1 verso</figDesc>
+                        </figure>
+                        <figure url="../facsimiles/SAB MS B 43, 02R.jpg">
+                            <figDesc>2 recto</figDesc>
+                        </figure>
+                        <figure url="../facsimiles/SAB MS B 43, 02V.jpg">
+                            <figDesc>2 verse</figDesc>
+                        </figure>
+                        <figure url="../facsimiles/SAB MS B 43, 03R.jpg">
+                            <figDesc>3 recto</figDesc>
+                        </figure>
+                        <figure url="../facsimiles/SAB MS B 43, 03V.jpg">
+                            <figDesc>3 verso</figDesc>
+                        </figure>
+                        </cell></row>
+                    <row><cell><xref url="./fragments/SAB MS B 43, 4.page">SAB MS B 43, 4</xref></cell>
+                        <cell>The Missal at State Archive of Bergen</cell>
+                        
+<cell>Latin</cell><cell>One cropped bifolium</cell>
+                        <cell></cell>
+                        <cell></cell>
+                        <cell>
+                        <figure url="../facsimiles/SAB MS B 43, 04V.jpg">
+                            <figDesc>4 verso</figDesc>
+                        </figure>
+                        <figure url="../facsimiles/SAB MS B 43, 04R.jpg">
+                            <figDesc>4 recto</figDesc>
+                        </figure>
+                        </cell></row>
+                </table>
+            </div>
+            
+            
+        </body>
+    </text>
+</TEI.2>

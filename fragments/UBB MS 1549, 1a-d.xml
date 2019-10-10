@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+<TEI.2 lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Description of UB Bergen MS 1549, 1, a-d</title>
+                <author>Åslaug Ommundsen</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bergen University Library</publisher>
+                <address><addrLine>Nygå̴rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+                <date>2005</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+                        <repository>Bergen University Library</repository>
+                        <idno>MS 1549, 1, a-d</idno>
+                        <altName type="old signature">MS 410, 1</altName>
+                        <altName>Br 4 (Gjerløw)</altName>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>The Botulph Breviary fragments</title>
+                        <note type="schlagzeile">Parchment, four fragments: a: ca 17x18 cm, b: ca
+                            25x14 cm, c and d: ca 12x3 cm, (original size: ca 25x18 cm), <placeName>England</placeName>,
+                            <date>late 13th century</date>.</note>
+                    </msHeading>
+                    <msContents>
+                        <p>a: St Botulph's day, 17 June: The fragment contains parts of paragraphs
+                            five to nine of the nocturnal readings of Matins on St Botulph's day, 17
+                            June. The readings correspond with St Botulph's Vita in Acta sanctorum,
+                            Junius IV, p. 402, which was issued by Folcard, abbot of Thorney, in
+                            1070. The divisions, however, do not correspond entirely with the Vita,
+                            because of steps taken to fit eleven chapters into nine readings. Our
+                            text begins with the last few lines of lesson five, with the king
+                            granting Botulph land for his monastery. Lesson six is the only complete
+                            lesson, not missing any parts due to the sorry state of the fragment. In
+                            the sixth lesson Botulph finds Ikanho (here spelled "kanho"), and
+                            decides to settle there, even though the deserted place is full of
+                            demons. In the seventh lesson, which for some reason is missing its
+                            rubric, Botulph exorcises the demons in spite of their pleas. Lesson
+                            eight begins with the flight of the demons, and goes on with the
+                            building of the monastery of Ikanho, "equal to those of France", and
+                            Botulph's gathering and teaching of the brothers. The ninth lesson
+                            describes Botulph's virtues, his last years among his followers, and,
+                            finally, his death, when God calls him from the prison of the flesh to
+                            his coronation in heaven, to the tears and lament of his fellow
+                            brothers. The shorter vita of the Schleswig breviary is entirely
+                            different from the one presented here. The Schleswig text clearly states
+                            that Botulph was Scottish, and from this we can probably interpret the
+                            sentence in lesson nine, that he was loved by everyone, "also the
+                            neighbouring inhabitants of his fatherland."</p>
+                        <p> b: the Annunciation, 25 March: On fragment b we have the end of the
+                            first Vesper and the beginning of the Matins for the Annunciation, 25
+                            March. The fragment begins with the second verse of the hymn Ave maris
+                            stella (CAO 8272). Next follows instruction for the verse Rorate celi,
+                            followed by the antiphon for the Magnificat, the Ingressus angelus (CAO
+                            3339), complete with musical notation. The prayer Deus, qui de beate
+                            marie virginis utero, ends the vesper. Then comes the invitatory of the
+                            Matins (curiously enough spelled "Inuitiatorum"), Ave maria gratia plena
+                            (CAO 1539), with instructions for the psalm Venite. The hymn Quem terra
+                            pontus is indicated, and then comes the rubric for the first Nocturn.
+                            The antiphons and psalms follow in this order: Ant. Prophete
+                            predicaverunt (CAO 4392). Ps. Domine dominus. Ant. Rorate celi (CAO
+                            4668). Ps. Celi enarrant. Ant. Egredietur virga (CAO 2613). Ps. Domini.
+                            V. Exyon (sic). Then comes the first lesson, followed by the responsory
+                            Ingressus angelus (CAO 6963). The second lesson is followed by the
+                            responsory [Suscipe] verbum (CAO 7744). The fragment ends with the third
+                            lesson.</p>
+                        <p> c. and d. St. Philip and St. Jacob, 1. May: The fragment c and d are
+                            taken from the same page, with c as the upper part and d as the lower.
+                            Fragment c beginning with "non bibit" contains a reading on St Jacob,
+                            referring to his chaste way of life: He never drank wine, ate animal
+                            flesh, cut his hair or bathed. Fragment d then goes on with an
+                            unidentified reading. The verso-side of c continues with a reading on St
+                            Philip, describing how he preached to the Scythians for twenty years and
+                            was later buried there, and how his virgin daughters were buried with
+                            him. This was the final reading, since it is followed by Te Deum, which
+                            finishes Matins. The verso-side of fragment d continues with an antiphon
+                            for Lauds of the same Saint's feast, followed by the psalm Dominus
+                            regnavit and the antiphon Ego sum via (CAO 2603)</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Parchment, four fragments, <dimensions>2a: ca 17x18 cm, b: ca 25x14 cm, c
+                                and d: ca 12x3 cm, (original size: ca 25x18 cm)</dimensions></p>
+                        <p>Lay-out: Ruled with a lead point. The top line frames the writing space,
+                            which has been ca 21 x 14,5 cm. Two columns, 6,5 cm wide. Originally 36
+                            lines to each column.</p>
+                        <p>Script: Gothic textualis, written with a pen with a thick nib. Short
+                            ascenders and descenders. This seems to be a product of a transitional
+                            phase, since two types of a occur; most a's are closed, but some are
+                            still open and with a rounder shape. The insular abbreviation-sign for
+                            est ÷ occurs (b verso, third line). Rubricated.</p>
+                        <p>Musical notation: Square notation on four red lines. Clefs: c, f and b.</p>
+                        <p>Initials: Fleuronné in blue, red and possibly green. The initials appear
+                            in a hierarchy, from the minor, plain alternating red and blue initials
+                            over one line in the verses of the hymn Ave maris stella to the large
+                            and flourished initial P (over six lines) of Prophete predicaverunt, the
+                            first antiphon of the first nocturne. The first letters of the prayers
+                            and readings are flourished or plain alternating red and blue initials
+                            over two lines.</p>
+                        <p>Condition: Fragment a is not in a very good condition. Particularly the
+                            verso side is quite worn and darkened, and parts of the text is
+                            difficult to read. Fragment b is the largest and best preserved fragment
+                            in this group, although it has a 2,5 cm fold on the left margin of the
+                            verso side, hiding the left part of the text in the column. For the top
+                            6 cm it is possible to peek underneath the fold, but later the fold
+                            sticks to the parchment underneath. The fragments a, b and c have holes
+                            in them from the binding.</p>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p><placeName>England</placeName>, possibly <placeName>Eastern England</placeName>, in the <date>late 13th century</date>. The nine
+                                lesson celebration of St. Botulph's day, the characteristic feature
+                                of this Breviary, is taken from the English Vita. In <placeName>Scandinavia</placeName> the
+                                Schleswig Breviary (1512) and Uppsala (1496) also have nine
+                                readings, but these are taken from another Vita, possibly of
+                                Scandinavian origin. Nidaros (1519) has six readings, while the
+                                English sees York and Hereford only have three, and the use of Sarum
+                                does not celebrate Botulph at all. The breviary may have originated
+                                in Eastern England, because of the strong Botulph's cult in that
+                                area.</p>
+                        </origin>
+                        <provenance>
+                            <p>Secondary provenance unknown.</p>
+                        </provenance>
+                        <acquisition>
+                            <p>MS 1549,1a-e was a gift to the <orgName>museum of Bergen</orgName> from <persName>cand. theol. H.
+                                Daae</persName> in <date>1829</date>. The H. Daae in question is probably <persName>Hans Daae
+                                (<dateRange>1808-65</dateRange>)</persName>, born in <placeName>Leikanger</placeName> as son of the minister there. He began
+                                his theology studies in <placeName>Christiania</placeName> in <date>1825</date>. In <date>1831</date> he was employed
+                                as a chaplain in <placeName>Korskirken (the Cross Church) in Bergen</placeName>, where he
+                                stayed until <date>1850</date>. The circumstances for the gift, or where Daae
+                                acquired the fragments, is not known.</p>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <head>Bibliography</head>
+                            <bibl>Acta sanctorum, Junius III, Paris &amp; Rome 1867, p. 402-403
+                                (for St Botulph).</bibl>
+                            <bibl>Acta sanctorum, Maii I, 1-5, Paris &amp; Rome 1867, p. 12A and
+                                p. 21F (for Sts Philip &amp; Jacob).</bibl>
+                            <bibl>Gjerløw, Lilli (ed.) 1968: Ordo Nidrosiensis ecclesiae, Oslo, n.
+                                p. 351.</bibl>
+                            <bibl>Toy, John 2003: "St. Botulph: An English saint in Scandinavia",
+                                The Cross goes North, York, pp. 565-570.</bibl>
+                            <bibl>Tveitane, Mattias et. al.: Bergen University Library Manuscript
+                                Catalogue [unpublished]</bibl>
+                        </listBibl>
+                    </additional>
+                </msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2006.02.16</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Added encoding of dates, persons etc.</item>
+            </change><change>
+                <date>2005.08.17</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Recoded the content of the history element.</item>
+            </change>
+            <change>
+                <date>2004.11.01</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Updated with references to facsimiles, added revisionDesc, language
+                    declaration etc.</item>
+            </change>
+            <change>
+                <date>2004.10.?</date>
+                <respStmt>
+                    <name>Åslaug Ommundsen</name>
+                </respStmt>
+                <item>Made the original</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Introduction</head>
+                <p>The so-called Botulph Breviary fragments is a group of four fragments from the
+                    same Breviary, written in England in the late thirteenth century. One of the
+                    fragments contains the readings six to nine for the Matins of St Botulph's day
+                    (17 June, in Scotland 25 June). Nine readings constitute the highest degree of a
+                    saint's feast. St Botulph was a popular saint in Eastern England and Scotland,
+                    and the Botulph breviary was therefore perhaps written in Eastern England. The
+                    lessons six to nine, more or less extant in our fragment a, describe Botulph's
+                    discovery of Ikanho (possibly the present Iken in Suffolk, east of Ipswich), the
+                    exorcism of the area's demons, the building of the monastery (in 654), and,
+                    finally, to the great lament of his fellow brothers, Botulph's death (in 680).
+                    Apart from the readings of St Botulph's day, the fragments contain parts of the
+                    liturgy of the feast days of the Annunciation (25 March) and of the Saints
+                    Philip and Jacob (1 May).</p>
+                <list type="facsimiles">
+                    <head>Facsimiles and transcriptions</head>
+                    <item>
+                        <xref url="../transcriptions/UBB MS 1549, 1a-transkr.page">Transcription of
+                            UBB MS 1549, 1a.</xref>
+                        <figure url="../facsimiles/UBB MS 1549, 1a 1.jpg">
+                            <figDesc>UBB MS 1549 1a, recto</figDesc>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 1a 2.jpg">
+                            <figDesc>UBB MS 1549 1a, verso.</figDesc>
+                        </figure>
+                    </item>
+                    <item>
+                        <xref url="../transcriptions/UBB MS 1549, 1b-transkr.page">Transcription of
+                            UBB MS 1549, 1b.</xref>
+                        <figure url="../facsimiles/UBB MS 1549, 1b 1.jpg">
+                            <figDesc>UBB MS 1549 1b, recto</figDesc>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 1b 2.jpg">
+                            <figDesc>UBB MS 1549 1b, verso.</figDesc>
+                        </figure>
+                    </item>
+                    <item>
+                        <xref url="../transcriptions/UBB MS 1549, 1c-transkr.page">Transcription of
+                            UBB MS 1549, 1c.</xref>
+                        <figure url="../facsimiles/UBB MS 1549, 1c 2.jpg">
+                            <figDesc>UBB MS 1549 1c, recto</figDesc>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 1c 1.jpg">
+                            <figDesc>UBB MS 1549 1c, verso.</figDesc>
+                        </figure>
+                    </item>
+                    <item>
+                        <xref url="../transcriptions/UBB MS 1549, 1d-transkr.page">Transcription of
+                            UBB MS 1549, 1d.</xref>
+                        <figure url="../facsimiles/UBB MS 1549, 1d 1.jpg">
+                            <figDesc>UBB MS 1549 1d, recto</figDesc>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 1d 2.jpg">
+                            <figDesc>UBB MS 1549 1d, verso.</figDesc>
+                        </figure>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI.2>

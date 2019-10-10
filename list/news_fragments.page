@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd" [
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]>
+<TEI.2 lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MPF</title>
+                <author>Tone Merete Bruvik, <name>Department of Culture, Language and Information Technology (Aksis), UNIFOB AS</name>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Published in the web at <xref url="http://breuer.intermedia.uib.no/mpf/">http://breuer.intermedia.uib.no/mpf/</xref>/</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born electronic</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en">English</language>
+                <language id="nb">Norwegian - Bokmål</language>
+                <language id="nn">Norwegian - Nynorsk</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>16 February, 2006</date>
+                <respStmt>
+                    <name>tmb</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>Updates</item>
+            </change>
+            <change>
+                <date>22 February, 2005</date>
+                <respStmt>
+                    <name>tmb</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>Updated</item>
+            </change>
+            <change>
+                <date>02. november, 2004</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>Updated</item>
+            </change>
+            <change>
+                <date>22. september, 2004</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>First draft.</item>
+            </change>
+
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div><head>News</head>
+<div><head>February 16, 2006: Fragments from the Bergen State archive are added</head><p>The description of these are limited at the time being.</p></div>
+<div><head>February 13, 2006: New fragments added</head><p>New fragments added from the University Labrary collection, and all the facsimiles of the fragments available are now in place.</p></div>
+<div><head>October 21, 2005: List added</head><p>New page with a table of all the fragments added. Most of the fragments are now available.</p></div>
+<div><head>August 8, 2005: New design</head><p>First draft of new design is implemented.</p></div>
+                <div><head>February 22, 2005: Transcriptions available</head><p>The first few transcriptions are now available. Take a look at <xref url="./transcriptions/UBB%20MS%201549,%202-transkr.page">this page</xref> for instance.</p></div>
+               <div><head>November 2, 2004: New stylesheets</head><p>New stylesheets are in use, and first example of frament description is available.</p></div>
+              <div><head> September 22, 2004: First list of fragments available</head><p></p></div>
+                <div><head>The project was stated in August 2004.</head><p>The project was started on August 1st, 2004.</p>
+<p>By October we have digitized the fragments as images, and doctoral fellow Åslaug Ommundsen have completed several new catalogue items which we are currently encoding using the MASTER XML dtd.</p>
+</div>
+            </div>
+        </body>
+    </text>
+</TEI.2>

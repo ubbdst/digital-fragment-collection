@@ -1,0 +1,235 @@
+﻿/*Placeholder CSS fil*/
+/*Overordnede elementer*/
+* { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;}
+body { margin: 0; padding: 0; background: url(../../grafikk/whitey.png) repeat; font-family: 'Sorts Mill Goudy', serif; min-width: 500px;}
+body > header { width:100%;
+padding: 0; background-color: white; margin: 0; height:60px;clear:both;}
+nav#topp:first-child ul {float:left; overflow:hidden; display:inline; width:100px;}
+footer { clear: both; font-size: 0.82em; display: block; padding: 20px 0 0 0; margin: 40px auto 15px; width: 500px; font-family: 'Times New Roman', serif; color: #888; text-shadow: 1px 1px 1px #eee; }
+a { text-decoration: none;} 
+nav#topp  {width:100%;}
+#topp ul  * { display: inline; overflow:hidden; } 
+#topp ul  { margin: 0; padding: 0 0 0 0; display:inline; overflow:hidden;}
+img.list_etc {width: 45px; height:45px; }
+#all {background-color: white;
+    border: 1px solid #CCCCCC;
+    box-shadow: 0 0 5px #BBBBBB;
+    margin: 10px;
+    padding: 2px 15px 5px;}
+nav#trans_nav {width:100%; background-color:gray; margin-left:0px; padding-bottom:2px;}
+
+#trans_nav ul {color:white; margin-top:0px; list-style-type:none; display:inline;}
+#trans_nav li {display:inline;}
+/*Header*/
+header img { margin: 0 10px 0 0; width: 85px; height:inherit;}
+body > header h1 { margin: 0;}
+body > header p { margin: 0;}
+
+/*Meny*/
+nav#topp { overflow:auto; position: relative: -moz-box-shadow: #222 0px 0px 3px; -webkit-box-shadow: #222 0px 0px 3px; box-shadow: #222 0px 0px 3px; font-family: 'Open Sans', sans-serif; font-weight: 300; width: 100%; background-color: black; padding: 4px 15px 6px 15px; overflow: auto;
+ }
+#navigator_top { position: relative: -moz-box-shadow: #222 0px 0px 3px; -webkit-box-shadow: #222 0px 0px 3px; box-shadow: #222 0px 0px 3px; font-family: 'Open Sans', sans-serif; font-weight: 300; width: 100%; background-color: black; padding: 4px 15px 6px 15px; }
+#navigator_top a, #topp a, #trans_nav a{ padding: 0px 5px 2px 5px; color: white; text-decoration: none; margin-right: 5px; font-style: normal; }
+#navigator_top span {color:white; font-style: normal; font-weight: bolder; font-size: 0.85em; }
+#navigator_top a:visited, #topp a:visited, #trans_nav a:visited {} 
+#navigator_top a:hover, #topp a:hover, #trans_nav a:hover { background-color: #ffb520; border-radius: 2px;  }
+
+li.selected  > a { background-color: red; border-radius: 2px; }
+#navigator_top .selected  > a { background-color: red; border-radius: 2px; }
+#navigator_top li  * #topp li { display: inline; float:right; overflow:hidden; } 
+#navigator_top ul #topp ul   { margin: 0; padding: 0 0 0 0; float:right; overflow:hidden; display:inline; width:100px;}
+ul#deltagere {font-weight:100;  list-style-type:none; float:right; overflow:hidden; display:inline; width:550px; }
+#m_Emne > a:after { content: ":"; color: white;}
+.letters { text-transform: lowercase !important;}
+
+/*Forrige/Neste*/
+.forrige_neste, .prev_next { display: block; width: 100%; clear: both; height: 35px; margin-top: 15px;}
+.forrige, .prev { float: left;} 
+.neste, .next { float: right;}
+.forrige a, .neste a, .prev a, .next a, a.transcription { -moz-box-shadow: #bbb 0px 0px 5px; -webkit-box-shadow: #bbb 0px 0px 5px; box-shadow: #bbb 0px 0px 5px; 
+border: 1px solid #ccc; border-radius: 5px; font-size: 0.9em; font-family: 'Open Sans', sans-serif; background-color: #eee; color: #999; padding: 4px 10px 3px 10px; text-decoration: none; text-transform: uppercase;}
+.forrige a:hover, .neste a:hover { color: black; -moz-box-shadow: #aaa 0px 0px 5px; -webkit-box-shadow: #aaa 0px 0px 5px; box-shadow: #aaa 0px 0px 5px; }
+
+#doku_nav { border: 1px solid #ccc; padding: 15px; width: 320px; position: fixed; top: 150px; left: 720px; -moz-box-shadow: inset 0 0 2px 2px #ccc;
+-webkit-box-shadow: inset 0 0 2px 2px #ccc;
+box-shadow: inset 0 0 2px 2px #ccc; background: url(../../grafikk/whitey.png) repeat; }
+#doku_nav  a { text-shadow: 1px 1px 1px white; text-decoration: none; display: list-item; list-style-type: none; color: black; font-family: 'Open Sans', sans-serif; font-weight: 300; margin-bottom: 5px;  }
+#doku_nav  a:hover { font-style: italic; }
+
+header img {
+    float: left;
+    margin: 0 10px 0 0;
+    width: 85px;
+}
+
+pre { border: 1px solid #cacaca;
+  line-height: 1.2em;
+  font: 12px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  padding: 10px;
+  overflow:auto;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  background-color: #FAFAFB;
+  color: #393939;
+  margin: 0px;
+ }
+/*Diplom*/
+#diplom, #ext_meta, #linkdesc, #topic, #translation, #meta { -moz-box-shadow: #bbb 0px 0px 5px; -webkit-box-shadow: #bbb 0px 0px 5px; box-shadow: #bbb 0px 0px 5px; background-color: white; border: 1px solid #ccc; padding: 2px 15px 5px 15px; margin: 10px;}
+
+/*hovedartikkel header-element og barn*/
+header { border-bottom: 1px solid #ccc; margin: 0 0 10px 0;}
+header h1 { font-family: 'Open Sans', sans-serif; font-weight: 700; margin: 5px 0;  text-shadow: 1px 1px 1px #aaa; }
+header h2 { font-family: 'Open Sans Condensed', sans-serif; font-weight: 300; font-size: 1.23em; margin: 2px 0;}
+
+
+/*Meny til eksterne objekter 0,1 <a href=""> evt bruke starts-with ...avs/ på href attributt
+Transkripsjon.xml <a  0:M bildelenker <a href..> <img/> </a> */
+#daogrp, #faximiles, .item{ border: 1px solid #ccc; padding: 15px 0 0 15px; width: auto; float: left; clear: right; margin: 0 0 25px 0; background-color: #232323;}
+#daogrp a, #faximiles a[href*="transcription"], .item a { font-family: 'Open Sans Condensed', sans-serif; font-weight: 700; -moz-border-radius: 3px; border: 1px solid #ddd; background-color: #eee; padding: 3px 5px 1px 5px; margin: 0 15px 15px 0;  color: #222; float: right; text-transform: uppercase;}
+#daogrp a img, #faximiles a img, .item a img { float: left; margin: 0 15px 15px 0; border: 1px solid #ccc;}
+.item {clear:left;}
+/*hovedartikkel kropp ingen div for selve content*/
+#sammendrag h3 { margin-top: 20px; -moz-column-span:all; -webkit-column-span:all; column-span:all;  }
+.doku h3, #diplom h3, #sammendrag h3, #ext_meta h3, #linkdesc h3, #topic h3 { clear: both; font-family: 'Open Sans', sans-serif; font-weight: 700; margin: 5px 0;}
+#diplom h3 { margin-bottom: 20px;}
+#diplom h3  a { text-decoration: none; border-bottom: 1px dotted #aaa; color: darkcyan; }
+#diplom h3  a:before { content: "Vis ";}
+#sammendrag, #translation,#meta { margin-bottom: 25px; font-family: 'Sorts Mill Goudy', serif;
+/*  -moz-column-count: 2;
+  -moz-column-gap: 1.7em;
+  -moz-column-rule: 1px dotted #ddd;
+  -webkit-column-count: 2;
+  -webkit-column-gap: 1.7em;
+  -webkit-column-rule: 1px dotted #ddd;
+  column-count: 2;
+  column-gap: 1.7em;
+  column-rule: 1px dotted #ddd;*/
+  line-height: 1.5em;
+  max-width: 65%;
+  min-width: 500px;
+  clear: both; }
+#sammendrag p { margin: 0 0 15px 0; }
+#doku_nav  + #diplom  div { max-width: 650px; }
+#diplom img { margin: 0 15px 15px 0; border: 1px solid #ccc; }
+
+#transkripsjon{ width:70%; -moz-border-radius: 6px; background: url(../../grafikk/redox_01.png) repeat; clear: both; border: 1px solid #aaa; width:50%; !important; margin: 15px 0 25px 0; padding: 0 15px 25px 40px; -moz-box-shadow: #bbb 0px 0px 5px; -webkit-box-shadow: #bbb 0px 0px 5px; box-shadow: #bbb 0px 0px 5px; }
+#transkripsjon div  { font-family: 'IM Fell DW Pica', serif !important; font-size: 1.1em !important; display: inline; word-spacing: 5px; line-height: 1.6; padding-left: 35px; } /*Barn av transkripsjon er allerede stylet*/
+#transkripsjon span[style*="float"] {clear: none; display: inline; position: relative; margin-left: -20px; width: auto !important; padding: 0 !important; }
+/*#transkripsjon a  { color: #bbb; -moz-box-shadow: #bbb 0px 0px 5px; -webkit-box-shadow: #bbb 0px 0px 5px; box-shadow: #bbb 0px 0px 5px; margin-top: 20px; display: block; position: relative; background-color: white; border: 1px solid #ccc; padding: 5px 5px 5px 40px; width: 230px; }
+*/
+
+/* #transkripsjon a:hover, .transcription:hover { color: #0cb5ed; border-top-color: red; border: 1px solid #ccc;}
+#transkripsjon a:hover:after, .transcription:hover:after { border-top-color: red;}
+#transkripsjon a:after, .transcription:after  { content: ' ';
+	height: 0;
+	position: absolute;
+	width: 0;
+	border: 10px solid transparent;
+	border-top-color: #ccc;
+	top: 11px;
+	left: 22px;
+	margin-left: -10px;}*/
+hr.avskrift {display: none;}
+
+/*article avsluttet før extended_diplom*/
+#extended_diplom { }/*oppgitt diplom*/
+#extended_diplom h2 {} /*Ligger i underdiv*/
+#extended_diplom h3 {}/*ditto*/
+
+/*Underdivs extended_diplom #topic inneholder h2 og også noe a,de andre kun h3 og p */
+#ext_meta, #linkdesc, #topic { width: 31.3%; float: left; padding: 0; margin: 15px 1%}
+#ext_meta, #linkdesc { }
+#ext_meta h3, #linkdesc h3, #topic h3 { margin: 0; padding: 10px 10px 3px 10px; border-bottom: solid 1px #ccc;}
+#topic h4 { margin: 0; padding: 10px 10px 3px 10px; font-style: italic; font-family: 'Open Sans', sans-serif; font-weight: 300; border-bottom: dotted 1px #ddd;}
+#ext_meta p, #linkdesc p, #topic p { padding: 0 10px; font-family: 'Sorts Mill Goudy', serif;}
+#ext_meta p a, #linkdesc p a, #topic p a { display: inline-block; -moz-border-radius: 3px; text-decoration: none; border: 1px solid #ddd; background-color: #eee; padding: 3px 5px 1px 5px; font-family: 'Sorts Mill Goudy', serif; margin: 0 5px 10px 0; text-align: justify; }
+#extended_diplom .add { margin-left: -10px !important; background-color: #eee !important; border-color: #ddd !important; -moz-box-shadow: rgba(0,0,0,0.2) -1px 0px 1px; -webkit-box-shadow: rgba(0,0,0,0.2) -1px 0px 1px; box-shadow: rgba(0,0,0,0.2) -1px 0px 1px; }
+
+/*Bildevisning*/
+#bildevisning img { margin: 15px; border: 1px solid #ccc; -moz-box-shadow: #999 0px 0px 5px; -webkit-box-shadow: #999 0px 0px 5px; box-shadow: #999 0px 0px 5px;
+}
+
+
+/*Lister*/
+#navigator_top  ~ h2 { margin: 30px 0 0 20px; font-family: 'Open Sans', sans-serif; font-weight:300; font-size: 1.8em; }
+
+/*
+Pretty Table Styling
+CSS Tricks also has a nice writeup: http://css-tricks.com/feature-table-design/
+*/
+table {
+	font-family: 'Sorts Mill Goudy', serif;
+    overflow:hidden;
+    border:1px solid #d3d3d3;
+    background:#fefefe;
+    width:85%;
+    margin:5px 15px 15px;
+    -moz-border-radius:5px; /* FF1+ */
+    -webkit-border-radius:5px; /* Saf3-4 */
+    border-radius:5px;
+    -moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+    -webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2);
+}
+th, td {padding:10px 28px 5px; text-align:left; }
+th {padding-top:10px; text-shadow: 1px 1px 1px #fff; background:#e8eaeb; text-align: center;}
+td {border-top:1px solid #e0e0e0; border-right:1px solid #e0e0e0;}
+td.title { padding: 0; padding-left: 15px; text-align: left;}
+td.title h3 { margin: 10px 0 0 0; font-family: 'Open Sans', sans-serif; font-weight: 300; font-style: italic;}
+tr.odd-row td {background:#f6f6f6;}
+td.first, th.first {text-align:left}
+td.last {border-right:none;}
+thead tr th {padding: 3px 0; color: #444;}
+thead tr th:first-child { width: 15%;}
+thead tr th:nth-child(2) { width: auto;}
+thead tr th:nth-child(3) { width: 14%;}
+thead tr th:last-child { width: 14%;}
+tr td:nth-child(2) { font-weight: bolder; }
+
+/*
+Background gradients are completely unnecessary but a neat effect.
+*/
+td {
+    background: -moz-linear-gradient(100% 25% 90deg, #fefefe, #f9f9f9);
+    background: -webkit-gradient(linear, 0% 0%, 0% 25%, from(#f9f9f9), to(#fefefe));
+}
+tr.odd-row td {
+    background: -moz-linear-gradient(100% 25% 90deg, #f6f6f6, #f1f1f1);
+    background: -webkit-gradient(linear, 0% 0%, 0% 25%, from(#f1f1f1), to(#f6f6f6));
+}
+th {
+    background: -moz-linear-gradient(100% 20% 90deg, #e8eaeb, #ededed);
+    background: -webkit-gradient(linear, 0% 0%, 0% 20%, from(#ededed), to(#e8eaeb));
+}
+/*
+I know this is annoying, but we need additional styling so webkit will recognize rounded corners on background elements.  Nice write up of this issue: http://www.onenaught.com/posts/266/css-inner-elements-breaking-border-radius
+And, since we've applied the background colors to td/th element because of IE, Gecko browsers also need it.
+*/
+tr:first-child th.first {
+    -moz-border-radius-topleft:5px;
+    -webkit-border-top-left-radius:5px; /* Saf3-4 */
+}
+tr:first-child th.last {
+    -moz-border-radius-topright:5px;
+    -webkit-border-top-right-radius:5px; /* Saf3-4 */
+}
+tr:last-child td.first {
+    -moz-border-radius-bottomleft:5px;
+    -webkit-border-bottom-left-radius:5px; /* Saf3-4 */
+}
+tr:last-child td.last {
+    -moz-border-radius-bottomright:5px;
+    -webkit-border-bottom-right-radius:5px; /* Saf3-4 */
+}
+
+/*Footer*/
+footer img { float: left; margin: 0 25px 40px 0; width: 70px; }
+footer h1 { font-weight: normal; font-size: 1.5em; padding: 0 0 0 0; margin: 0;}
+footer h2 { font-weight: normal; font-size: 1.2em; padding: 0 0 5px 0; margin: 0;}
+footer p { margin: 0;}
+footer p a { color: #777;}
+footer p a:hover { color: #444;}
+.transcription {clear:both; float:left;}

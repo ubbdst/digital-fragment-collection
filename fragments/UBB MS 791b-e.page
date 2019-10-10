@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+<TEI.2 lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Description of UB Bergen MS 791, b-e</title>
+                <author>&Aring;slaug Ommundsen</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bergen University Library</publisher>
+                <address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+                <date>2005</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+                        <repository>Bergen University Library</repository>
+                        <idno>MS 791, b-e</idno>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>Justinian's Digest with glosses by Accurtius</title>
+                        <note type="schlagzeile">Parchment, four bifolia, leaf size: ca. 42 x 27 cm,
+                            and two smaller fragments, ca. 6,5 x 9 cm, Italy (Bologna), 14th
+                            century.</note>
+                    </msHeading>
+                    <msContents>
+                        <p>MS 791, b-e are from a glossed version of Justinian’s digest, a law collection organized in 50 books. Among the fragments belonging to MS 791 are parts from the books 13, 14, 17, 18
+                            and 19. The glosses are by <persName>Franciscus Accurtius (<date>d. 1260</date>)</persName>, one of the most famous
+                            glossators in <placeName>Bologna</placeName>.</p>
+                        <p>The fragments are listed according to contents, not alphabetically:</p>
+                        <p>Fragm. d: <lb/> f. 186r: 13.5.5.9-13.5.16.4 (<foreign lang="lat">inc. vel tutori pupilli vel
+                            curatori – expl. quod constituit utrum ad</foreign>) <lb/> f. 193v:
+                            14.1.7-14.2.2.2 (<foreign lang="lat">inc. exercitoria teneretur – expl. et an etiam pro</foreign>)
+                            Catchword: <foreign lang="lat">liberis</foreign><lb/>
+                            <lb/> Fragm. e:<lb/> f. 236r: 17.2.63.5-17.2.65.4 (<foreign lang="lat">inc. iniquum sit ex
+                                eadem – expl. emere ideoque</foreign>) <lb/> f. 24?v: 18.2.15.1-18.3.4.3 (<foreign lang="lat">inc. si
+                                    minoris non sint – expl. a priore emptore</foreign>) Catchword: <foreign lang="lat">exigat</foreign><lb/>
+                            <lb/> Fragm. c:<lb/> f. 248r: 18.4.19-18.4.24 (<foreign lang="lat">inc. ...cione aliqua
+                            obligatio – expl. an legatario</foreign>) <lb/> f. ?v: 19.1.11.7-19.1.11.18 (<foreign lang="lat">inc.
+                                non esse praestare emptori – expl. quidem deberi re evicta</foreign>) <lb/>
+                                            <lb/> Fragm. b:<lb/> f. 259(?)v: 19.2.9.1-19.2.13.2 (<foreign lang="lat">inc. Idem querit si
+                                                sumptus – expl. sine gubernatione in flumen</foreign>)<lb/> f. 262r:
+                                                19.2.25.1-19.2.29 (<foreign lang="lat">inc. vendat curare debet – expl. ut redemptor non
+                                                    solum</foreign>)<lb/>
+                        </p>
+                    </msContents>
+                    <physDesc>
+                        <p>Parchment, four bifolia, leaf size: <dimensions>ca. 42 x 27
+                            cm</dimensions>, and two smaller fragments, <dimensions>ca. 6,5 x 9
+                            cm</dimensions>.</p>
+                        <p>Quires: There are bifolia from four different quires:</p>
+                        <p>Fragment d has the lowest folionumber, f. 186. This bifolium was the
+                            first one in its quire of four (a quaternion), starting with f. 186,
+                            ending with f. 193, i.e. the three quires going from 187-192 are
+                            missing. In the centre of the lower margin of f. 193v is a framed
+                            catchword, “liberis”. Next to it is a small roman numeral: lviiii. It
+                            seems that the flesh-side of the parchment originally faced outwards in
+                            the quire. (Note that the bifolium today is folded the opposite way.)</p>
+                        <p>The order of the next fragments are: Fragm. e – c – b. They seem to come
+                            from three different quires, going from f. 236-f. 262. Fragment e was
+                            the first bifolium in its quire, starting with f. 236. The last
+                            folionumber is unfortunately difficult to read. In the centre of the
+                            lower margin of the last folio of fragment c is a framed catchword,
+                            “exigat”. Next to it is a small roman numeral: xlviiii. It seems that
+                            the flesh-side of the parchment originally faced outwards in the quire.
+                            (Note that the bifolium today is folded the opposite way.) The fragments
+                            c and b seem not to have been the first or last bifolia in their quires.
+                            They have no catchwords, and the contents does not indicate that any of
+                            the folia are particularly close together. </p>
+                        <p>Lay-out: Two double, “onion-layered” columns: Complete writing space is
+                            ca 39 x 23,5 cm. The main text of Justinian, in larger script, appears
+                            in two columns of ca 25/26 x 6,5 cm, imbedded in two larger columns of
+                            smaller script. The outer column of the gloss-text is ca 39,5 x 12 cm,
+                            while the column of the gloss-text closer to the spine is only 10 cm
+                            wide. The main text has 48-50 lines, while the glosses have ca 70-90
+                            lines to the page. The ruling for the main text seems to be very thin
+                            lead ruling (the colour is grey, not the ink-colour). The ruling for the
+                            glosses is not visible. </p>
+                        <p> Fragment b is marked XIX on the top of the recto-pages, and L on the
+                            verso-pages, in roman red and blue numerals. The number 262 is written
+                            above the second recto.</p>
+                        <p> Fragment c is marked XIX on the first recto-page, and L on the first
+                            verso. The second recto is marked XVIII, with the later number 248 (?)
+                            written above it. The marking of the second verso is not visible.</p>
+                        <p> Fragment d is marked XIIII on the first recto-page, with the folionumber
+                            193 noted above, while the first verso is marked L. The second recto is
+                            marked XIII with 186 noted above. The marking of the second verso is not
+                            visible.</p>
+                        <p> Fragment e: The first recto is marked XVIII. The number above is not
+                            readable. The first verso is marked L. The second verso is marked XVII,
+                            with the number 236 written above it. </p>
+                        <p> The roman numerals on the recto-side refer to the books from Justinian’s
+                            digest, while the arabic numbers above them seem to mark the folia.
+                            There are rubrics marking the different chapters in the books. </p>
+                        <p>Script: A southern Gothic <emph rend="italic">textualis formata</emph>.</p>
+                        <p>Initials: Two multicoloured initials in very fine execution, with red,
+                            pink, light and dark blue, white and gold. In one instance the white
+                            plaster can be seen through the gold. The other initials are <emph
+                                rend="italic">fleuronnée</emph>, mainly blue with red flourishing.
+                            The first initial is a G (in Gaius), marking the transition from book
+                            14, 1 to 14, 2 (fragm. d, fol. 193v). The second initial is a U (in
+                            Ulpianus), marking the transition from book 18, 2 to 18, 3 (fragm. e).</p>
+                        <p> Condition: The leaves are cut to serve as book covers, and are quite
+                            damaged. The outer sides of the bifolia are very faded, and only very
+                            week remnants of script are left, along with some hints of red colour.
+                            Going from one side to another are four rectangular holes, ca. 6,5 x 1,5
+                            cm, marking the spine of the later covered book. There are also holes
+                            from worms or insects. Where the parchment would cover the later spine,
+                            fragment b is marked “Baldus”, probably referring to Baldus de Ubaldis.
+                            The number 45 is crossed over and below is written the number 15. </p>
+                        <p> Fragment c is marked “Paulus de Castro”, the number 21 (crossed over)
+                            and below, 18. </p>
+                        <p> One of two small fragments put together with c is marked “Jacobus Alva
+                            rottus super Feudis”, and the number 44 (crossed over).</p>
+                        <p> Fragment d is marked “Pars Pauli de Castro”, and the number 26. (crossed
+                            over), and below, 15, along the spine of the later binding.</p>
+                        <p> For the names referring to the covered books, see secondary provenance.
+                            The numbers marking the codices are ca 3,5 cm tall. </p>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p>Fragment b-e: <placeName>Bologna</placeName>, <placeName>Italy</placeName>, <date>14th century</date>. Information from David
+                                Ganz.</p>
+                        </origin>
+                        <provenance>
+                            <p>Four of the fragments have the titles of the books they were used to
+                                bind, on the back, all related to the study of law, like “Baldus”
+                                [de Ubaldus] who was the teacher of “Paulus de Castro” (see for
+                                instance <xref url="http://faculty.cua.edu/pennington/BALDBIO.html"
+                                    >http://faculty.cua.edu/pennington/BALDBIO.html</xref>). The
+                                third name is “Jacobus Alvarottus”, whose work is also specified;
+                                “super Feudis”. The numbers marking the spines of the covered books,
+                                are in the handwritten catalogue presumed to be 18th century. Later
+                                the fragments became part of Prof. Hannaas’s collections, which is
+                                presumably <persName>Professor Torleiv Hannaas</persName> at the <orgName>Nordic Institute, the
+                                University of Bergen</orgName>. His lecture in <date>1918</date> marks the beginning of the
+                                Nordic institute, see <xref
+                                    url="http://www.hf.uib.no/Institutter/Nordisk/nymappe/forsking/Hannaas.htm"
+                                    >http://www.hf.uib.no/Institutter/Nordisk/nymappe/forsking/Hannaas.htm</xref>.
+                                The library bought 10 000 books from his collection in <date>1932</date>, see
+                                    <xref
+                                    url="http://www.ub.uib.no/fag/hf-fag/nordisk/nordisk-bok.htm"
+                                    >http://www.ub.uib.no/fag/hf-fag/nordisk/nordisk-bok.htm</xref></p>
+                        </provenance>
+                        <acquisition>
+                            <p>The handwritten catalogue records that the five fragments came to the
+                                University Library from Prof. Hannaas’s collections in 1934.</p>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <head>Bibliography</head>
+                            <bibl><xref url="http://www.1911encyclopedia.org/R/RO/ROMANOS.htm"
+                                    >http://www.1911encyclopedia.org/R/RO/ROMANOS.htm</xref> (brief
+                                on Accurtius)</bibl>
+                            <bibl>
+                                <xref url="http://faculty.cua.edu/pennington/BALDBIO.html"
+                                    >http://faculty.cua.edu/pennington/BALDBIO.html</xref>
+                            </bibl>
+                            <bibl><xref
+                                    url="http://www.gmu.edu/departments/fld/CLASSICS/justinian.html"
+                                    >http://www.gmu.edu/departments/fld/CLASSICS/justinian.html</xref>
+                                (For full text online)</bibl>
+                            <bibl>
+                                <xref
+                                    url="http://www.hf.uib.no/Institutter/Nordisk/nymappe/forsking/Hannaas.htm"
+                                    >http://www.hf.uib.no/Institutter/Nordisk/nymappe/forsking/Hannaas.htm</xref>
+                            </bibl>
+                            <bibl>
+                                <xref url="http://www.ub.uib.no/fag/hf-fag/nordisk/nordisk-bok.htm"
+                                    >http://www.ub.uib.no/fag/hf-fag/nordisk/nordisk-bok.htm</xref>
+                            </bibl>
+                            <bibl>Tveitane, Mattias et. al.: Bergen University Library Manuscript
+                                Catalogue [unpublished]</bibl>
+                        </listBibl>
+                    </additional>
+                </msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en"/>
+                <language id="lat"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2006.02.16</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Added some encoding of names, title, foreign etc.</item>
+            </change><change>
+                <date>2005.03.07</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Renecoded a bit to make the xml document valid</item>
+            </change>
+            <change>
+                <date>2004.10.?</date>
+                <respStmt>
+                    <name>&Aring;slaug Ommundsen</name>
+                </respStmt>
+                <item>Made the original</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Introduction</head>
+                <p>MS 791, b-e are from a glossed version of Justinian’s Digest, which was one of
+                    the pillars of the <emph rend="italic">Corpus iuris civilis</emph>, a collection
+                    of laws put together by the emperor Justinian for the Eastern Roman empire
+                    during the years 529-534 AD. The digests were extracts from former writings on
+                    Roman law. About 2000 books from 39 different authors were used as sources, and
+                    the selected items were organized in 50 books. Among the fragments belonging to MS
+                    791 we have parts from the books 13 and 14 (fragment d), 17 (e), 18 (c) and 19 (b). </p>
+                <p>Not much else was known about these fragments until a workshop on manuscript
+                    fragments was held in Bergen, in late October 2005. Here the fragments were
+                    dated to the 14th century, and identified as a product of the Italian town of
+                    Bologna, which in the Middle ages was known for its university and excellence in
+                    law-studies. The fragments in the University Library of Bergen most probably
+                    came from a manuscript produced by one of the teams working in connection with
+                    the University. The name “dominus Accurtius” is mentioned in one of the lower
+                    margins of fragment c, referring to Franciscus Accurtius (d. 1260), one of the
+                    most famous glossators in Bologna. He compiled his work between 1220 and 1240,
+                    and his glosses became standard for the Corpus Iuris Civiles for centuries. We
+                    are grateful to David Ganz (London) for the information about the origin of these
+                    fragments. </p>
+                <list type="facsimiles">
+                    <head>Facsimiles and transcriptions</head>
+                    <item>
+                        <figure url="../facsimiles/UBB MS 791B-side1.jpg">
+                            <p>791b Facsimile recto</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 791B-side2.jpg">
+                            <p>791b Facsimile verso</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 791C-side1.jpg">
+                            <p>791c Facsimile recto</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 791C-side2.jpg">
+                            <p>791c Facsimile verso</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 791D-side1.jpg">
+                            <p>791d Facsimile recto</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 791D-side2.jpg">
+                            <p>791d Facsimile verso</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 791E-side1.jpg">
+                            <p>791e Facsimile recto</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 791E-side2.jpg">
+                            <p>791e Facsimile verso</p>
+                        </figure>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI.2>

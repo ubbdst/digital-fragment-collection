@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://gandalf.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>
+]>
+
+<TEI.2>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Missal</title>
+    <title level="s">Transcription of UBB MS 1550, 5</title>
+    <author>Unknown</author>
+<respStmt>
+<resp>Transcription</resp>
+<name>&Aring;slaug Ommundsen, University of Bergen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>First Menota draft, <date>2004-06</date>.</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University Library of Bergen/Medieval Nordic Text Archive</publisher>
+<pubPlace>Bergen</pubPlace>
+<date>2004</date>
+<idno type="Menota">Ms. ?</idno>
+<availability status="restricted"><p>This text is available for purposes of academic research and teaching only. Re-distribution in any form without prior permission is prohibited. Short extracts may be cited with full acknowledgment of the source.</p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>The fragment was a gift to Bergen museum by Leutenant Colonel O.E. Holck. One page is a document from 1570 written on erasure, while the other page is from a missal. Unclear text has been supplied by the transcriber from Liber usualis missae et officii pro dominicis et festis i. vel ii. classis cum cantu gregoriano, ex editione vaticana adamusiim exerpto, et rhytmicis signis in subsidium cantorum, a solesmensibus monachis, diligenter ornato, Parisiis, Tornaci, Romae, p. 702-703.</p>
+    <p>Facsimiles available at <figure url="../facsimiles/UBB MS 1550, 5a.jpg"><p>UBB MS 1550, 5, verso</p></figure> and <figure url="../facsimiles/UBB MS 1550, 5b.jpg"><p>UBB MS 1550, b, recto</p></figure></p>
+<msDescription>
+<msIdentifier>
+<country reg="NO">Norway</country>
+<settlement>Bergen</settlement>
+<repository>University Library</repository>
+<idno>UBB MS 1550,5</idno>
+</msIdentifier>
+<msHeading>
+<textLang langKey="lat">Latin</textLang>
+<title>Missal</title>
+<origPlace>Norway or England</origPlace>
+<origDate notBefore="1150" notAfter="1200">late 12th century</origDate>
+</msHeading>
+<physDesc>
+<condition><p>The fragment is one whole folio in good condition. One side is a palimpsest, the other is a well preserved page from a missal</p>
+</condition>
+</physDesc> 
+</msDescription>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>This text has been encoded according to the standard set out in <xref url="http://www.hit.uib.no/menota/guidelines">The Menota handbook</xref>, version 1.1.</p>
+</projectDesc>
+<editorialDecl>
+<correction status="medium"><p>This text was proofread by &Aring;slaug Ommundsen before internet release september 2005</p></correction> <normalization>
+    <p>The orthography has not been normalized. Abbreviations are silently written out. The e caudata is marked with ogonek. Abbreviations for classical ae are spelled with an e</p>
+</normalization> 
+</editorialDecl>
+</encodingDesc>
+    <profileDesc>
+        <langUsage><language id="lat"/></langUsage>
+        <langUsage><language id="en"/></langUsage>
+        <listPerson>
+            <person id="transcriber"><persName>&Aring;slaug Ommundsen</persName></person>
+            <person id="author"><persName>Unknown</persName></person>
+        </listPerson> 
+        
+    </profileDesc>
+</teiHeader>
+
+<text>
+<body>
+<pb n="1r"/>
+<cb n="A"/>
+<lb n="1"/><div type="evangelium"><note><p>evangelium secundum Lucam 24</p></note><p>des. Adhuc autem illis non credentibus et mi
+<lb n="2"/>rantibus pre gaudio, dixit: abetis hic ali
+<lb n="3"/>quid quod manducetur? At illi obtulerunt
+<lb n="4"/>ei partem piscis assi&punctelev; et fauum mellis. Et cum
+<lb n="5"/>manducasset coram eis&punctelev; sumens reliquias, dedit
+<lb n="6"/>eis. Et dixit ad eos. H&eogon;c sunt uerba que locutus 
+<lb n="7"/>sum ad uos&punctelev; cum adhuc essem uobiscum. Quoniam
+<lb n="8"/>necesse est impleri omnia que scripta sunt
+<lb n="9"/>in lege moysi&punctelev; et prophetis et salmis de me, 
+<lb n="10"/>tunc aperuit illis sensum, ut intelligerent 
+<lb n="11"/>scripturas. Et dixit eis, Quoniam sic scriptum est
+<lb n="12"/>et sic oportebat christum pati et resur
+<lb n="13"/>gere a mortuis die tertia. Et praedica
+<lb n="14"/>ri in nomine eius penitenciam et remissio
+<lb n="15"/>nem peccatorum in omnes gentes.</p></div><div type="rubric"><p><hi rend="red">offertorium</hi></p></div>
+<lb n="16"/><div type="offertorium"><p>Intonuit de celo dominus et altissimus dedit uocem
+<lb n="17"/>suam et apparuerunt fontes aquarum, alleluia.</p></div><div type="rubric"><p><hi rend="red">secreta.</hi></p></div>
+<lb n="18"/><div type="secreta"><p><hi rend="red">S</hi>uscipe, domine, fidelium preces cum obla
+<lb n="19"/>tionibus hostiarum: ut per h&eogon;c pie de
+<lb n="20"/>uotionis officia, ad c&eogon;lestem gloriam tran
+<lb n="21"/> seamus. Per.</p></div>
+<lb n="22"/><div type="rubric"><p><hi rend="red">communio</hi></p></div> <div type="communio"><p>Si consurrexistis cum christo que sursum sunt querite<note><p>the e is suprascript and the ogonek is attached to the q!</p></note>
+<lb n="23"/>alleluia ubi christus est in dextera dei sedens que sursum sunt sapite alleluia.</p></div>
+<lb n="24"/><div type="rubric"><p><hi rend="red">postcommunio</hi></p></div> <div type="postcommunio"><p><hi rend="red">C</hi>oncede quesumus omnipotens deus,
+<lb n="25"/>ut paschalis perceptio sacramenti
+<lb n="26"/>continua in nostris mentibus perseueret. Per.</p></div>
+<lb n="27"/><div type="rubric"><p><hi rend="red">ad uesperas</hi></p></div><div type="oratio"><p><hi rend="green">C</hi>oncede quesumus omnipotens deus,
+<lb n="28"/>ut qui paschalis festiuitatis sol
+
+<cb n="B"/>
+<lb n="1"/>lempnia colimus, in tua semper sanctificatione ui
+<lb n="2"/>uamus. Per. </p></div><div type="rubric"><p><hi rend="red">ad fontes.</hi></p></div><div type="oratio"><p><hi rend="red">P</hi>resta quesumus omnipotens deus,
+<lb n="3"/>ut per h&eogon;c pascalia colimus, festaque
+<lb n="4"/> deuoti in tua semper laude uiuamus. Per.</p></div>
+<lb n="5"/><div type="rubric"><p><hi rend="red">collecta</hi></p></div><div type="oratio"><p><hi rend="green">D</hi>eus qui conspicis familiam tuam omni
+<lb n="6"/>humana uirtute destitui, pascali 
+<lb n="7"/>interueniente festiuitate tui eam brachii
+<lb n="8"/> protectione custodi. Per.</p></div><div type="rubric"><p><hi rend="red">FERIA .IIII.</hi></p></div>
+<lb n="9"/><div type="introitus"><p><hi rend="red">V</hi>enite benedicti patris mei percipite regnum alleluia quod uobis 
+<lb n="10"/>paratum est ab origine mundi, alleluia, alleluia, alleluia.</p></div> <div type="psalmus"><p>C<supplied reason="smudged ink">antate domino</supplied></p></div>
+<lb n="11"/><div type="rubric"><p><hi rend="red">collecta</hi></p></div><div type="oratio"><p><hi rend="red">D</hi>eus qui nos resurrectionis
+<lb n="12"/>dominice <supplied reason="black smudge">a</supplied>nnua sollempnitate le
+<lb n="13"/>titias concede propitius&punctelev; ut per temporalia
+<lb n="14"/>festique agimus, peruenire ad gaudia &eogon;terna 
+<lb n="15"/>mereamur. Per.</p></div><div type="rubric"><p><hi rend="red">lectio</hi></p></div>
+<lb n="16"/><div type="epistola"><p><hi rend="green">I</hi>n diebus illis&punctelev; Aperiens petrus os suum,
+<lb n="17"/>dixit. Viri israelite, et qui timetis deum 
+<lb n="18"/>audite.<note><p>=Acts of the Apostles 13,16</p></note> Deus abraham et deus ysaac et deus
+<lb n="19"/>iacob deus patrum nostrorum glorificauit
+<lb n="20"/>filium suum ihesum quem uos quidem tradidistis
+<lb n="21"/>et negastis ante faciem pilati iudicante
+<lb n="22"/><unclear>illo</unclear> dimitti. Vos autem sanctum et iustum ne
+<lb n="23"/><unclear>gastis et petistis</unclear>uirum homicidam dona
+<lb n="24"/><unclear>ri uobis. Auctorem</unclear> uero uite interfecistis&punctelev;
+<lb n="25"/>quem deus suscitauit a mortuis cuius nos
+<lb n="26"/>testes sumus.<note><p>=Acts of the Apostles 3, 13-15</p></note> Et nunc fratres scio quia per ignoran
+<lb n="27"/>tiam fecistis sicut et principes uestri. Deus autem qui
+<lb n="28"/>prenunciauit per os omnium ?<note><p>I cannot decipher this sign. The words "prophetarum pati Christum suum impleuit sic paenitemini igitur et" are missing.</p></note> conuertimini
+<lb n="29"/>ut deleantur nostra peccata.<note><p>=Acts of the Apostles 3, 17</p></note></p></div> <div type="rubric"><p><hi rend="red">Graduale</hi></p></div> <div type="graduale"><p>Hec dies <gap/></p></div>
+</body>
+</text>
+    </TEI.2>
+ 

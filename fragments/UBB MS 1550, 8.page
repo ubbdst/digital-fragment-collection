@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+<TEI.2 lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Description of UB Bergen, MS 1550, 8</title>
+                <author>Rune Kyrkjeb&oslash;</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bergen University Library</publisher>
+                <address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+                <date>2012</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <settlement>Bergen</settlement>
+                        <repository>University Library</repository>
+                        <idno>MS 1550, 8</idno>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>Maria stabat ad monumentum</title>
+                    </msHeading>
+                    <msContents>
+                        <p>The contents are from the liturgy for "feria V post pashcam".  </p>
+                    </msContents>
+                    <physDesc>
+                        <p>
+                            <note>To be supplied</note>
+                        </p>
+                        <p>Lay-out: <note>To be supplied</note></p>
+                        <p>Script: <note>To be supplied</note></p>
+                        <p>Initials: <note>To be supplied</note></p>
+                        <p> Condition: <note>To be supplied</note></p>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p>South Germany or Austria, first half of 12th century.</p>
+                        </origin>
+                        <provenance>
+                            <p><note>Collection of Heinrich Hinterberger (1892-1970), Wienna.</note></p>
+                        </provenance>
+                        <acquisition>
+                            <p><note>Bought by a private person and donated to the library.</note></p>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <head>Bibliography</head>
+                            <bibl><note>To be supplied</note></bibl>
+                        </listBibl>
+                    </additional>
+                </msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2006.02.15</date>
+                <respStmt>
+                    <name>Rune Kyrkjebøk</name>
+                </respStmt>
+                <item>Wrote this record after consulting Åslaug Ommundsen</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Introduction</head>
+                <p>The fragment is one manuscript leaf. </p>
+                <list type="facsimiles">
+                    <head>Facsimiles and transcriptions</head>
+                    <item>
+                        <figure url="../facsimiles/SAB MS B 43, 01R.jpg">
+                            <p>MS B 43, 1 recto</p>
+                        </figure>
+                        <figure url="../facsimiles/SAB MS B 43, 01V.jpg">
+                            <p>MS B 43, 1 verso</p>
+                        </figure>
+                        <figure url="../facsimiles/SAB MS B 43, 02R.jpg">
+                            <p>MS B 43, 2 recto</p>
+                        </figure>
+                        <figure url="../facsimiles/SAB MS B 43, 02V.jpg">
+                            <p>MS B 43, 2 verse</p>
+                        </figure>
+                        <figure url="../facsimiles/SAB MS B 43, 03R.jpg">
+                            <p>MS B 43, 3 recto</p>
+                        </figure>
+                        <figure url="../facsimiles/SAB MS B 43, 03V.jpg">
+                            <p>MS B 43, 3 verso</p>
+                        </figure>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI.2>

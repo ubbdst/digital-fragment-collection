@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://gandalf.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>
+]>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>The Kaupanger Missal fragment</title>
+    <title level="s">Transcription of UBB MS 1549, 7a</title>
+    <title level="s">UNDER CONSTRUCTION</title>
+<author>Unknown</author>
+<respStmt>
+<resp>Transcription</resp>
+<name>&Aring;slaug Ommundsen, University of Bergen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>First Menota draft, <date>2004-06</date>.</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University Library of Bergen/Medieval Nordic Text Archive</publisher>
+<pubPlace>Bergen</pubPlace>
+<date>2004</date>
+<idno type="Menota">Ms. ?</idno>
+<availability status="restricted"><p>This text is available for purposes of academic research and teaching only. Re-distribution in any form without prior permission is prohibited. Short extracts may be cited with full acknowledgment of the source.</p></availability>
+</publicationStmt>
+<sourceDesc>
+    <p>
+        <figure url="../facsimiles/1549, 7a 1.jpg"><p>Facsimile verso</p></figure>           
+        <figure url="../facsimiles/1549, 7a 2.jpg"><p>Facsimile recto</p></figure>           </p>
+    
+<msDescription>
+<msIdentifier>
+<country reg="NO">Norway</country>
+<settlement>Bergen</settlement>
+<repository>University Library</repository>
+<idno>UBB MS 1549,7a</idno>
+</msIdentifier>
+<msHeading>
+<textLang langKey="lat">Latin</textLang>
+    <title>Missal</title>
+    <title level="s">UBB MS 1549, 7a</title>
+    <origPlace>Unknown.</origPlace>
+    <origDate notBefore="1250" notAfter="1300">Second half of the 12th century, based on the script.</origDate>
+</msHeading>
+<physDesc>
+    <condition><p>The fragment is not in a very good condition.</p>
+</condition>
+</physDesc> 
+</msDescription>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+    <p>This text has been encoded according to the standard set out in <xref url="http://www.hit.uib.no/menota/guidelines">The Menota handbook</xref>, version 1.1.</p>
+</projectDesc>
+
+<editorialDecl>
+<correction status="medium"><p>This text was proofread by &Aring;slaug Ommundsen before internet release October 2005</p></correction>
+    <normalization>
+    <p>The orthography has not been normalized. Abbreviations are silently written out.</p>
+</normalization>
+</editorialDecl>
+</encodingDesc>
+    <profileDesc>
+        <langUsage>
+            <language id="lat"/>
+        </langUsage>
+        <handList>
+            <hand id="scribe"/>
+        </handList>
+    </profileDesc>
+</teiHeader>
+
+<text>
+<body><div>
+<pb n="1r"/><p>
+<lb n="1"/><supplied>FERIA V. post Dom. IV. Quadragesimae. Lectio (4. Reg. 4, 25-38). At ille reversus, deambulat in domo semel huc atque illuc:</supplied> 
+    <lb n="2"/>et ascendit et incurva<supplied>vit se super eum: et oscitavit puer septies, aperuitque oculos suos. At</supplied> ille vocavit giezi et d<supplied>ixit ei: Voca Sunamit (id)em hanc. Quae vocata, ingressa est</supplied> 
+<lb n="3"/>ad eum. Qui ait: Toll<supplied>e filium tuum. Venit autem illa, et corruit ad pedes eius,</supplied> 
+    <lb n="4"/>et adoravit super terram. <supplied>Tulitque filium suum, et egressa est. Heliseus vero re</supplied>
+    <lb n="5"/>versus est in galgala <supplied>Grad. Respice Domine in testamentum</supplied> 
+    <lb n="6"/>tuum: et animas pauperum <supplied>tuorum ne obliviscaris in finem.</supplied> 
+    <lb n="7"/><hi rend="red">V.</hi> Exsurge domine <supplied>iudica causam tuam me</supplied>
+    <lb n="8"/>mor esto obprobrii <supplied>servorum tuorum. (Evangelium) Secundum Joannem. (Joh, 5, 17-29).</supplied>
+    <lb n="9"/><hi rend="red">I</hi>n illo tempore: Dixit <supplied>Iesus turbis iudaeorum: Pater meus usquemodo operatur</supplied>
+    <lb n="10"/>et ego operor. Propter<supplied>ea ergo magis quaerebant eum iudaei interficere quia</supplied>
+    <lb n="11"/>non solum solvebat sabb<supplied>atum sed et patrem suum dicebat Deum equalem se fa</supplied>
+    <lb n="12"/>ciens deo. Respondit <supplied>itaque Iesus et dixit eis amen amen dico vobis non</supplied>
+    <lb n="13"/>potest filius a se face<supplied>re quicquam nisi quod viderit patrem facientem</supplied>
+    <lb n="14"/>Quecumque enim, illo fece<supplied>rit hec et filius similiter facit, pater enim di</supplied> 
+    <lb n="15"/>ligit filium, et omni... 
+    
+    
+    <pb n="1v"/><note>The recognisable words on the verso-side correspond well with the assumed contents, although the ink is hardly visible. The rubric for the reading from the book of kings (REGUM) is visible in the lower right corner of the fragment.</note>
+    <lb n="1"/><supplied>Secreta. Purifica nos misericors Deus ut ecclesiae tuae preces, quae tibi gratiae sunt pia munera deferentes fiant expiatis men</supplied>tibus gratiores. Per 
+    <lb n="2"/><supplied>Dominum nostrum. Com. Domine memorabor</supplied> iustitiae tuae solius: 
+    <lb n="3"/>    <lb n="1"/><supplied>docuisti me a iuventute mea, et usque in senectutem et senium Deus, ne</supplied> derelinquas me. <supplied>Complenda. Caelestia dona capientibus quesumus, domine: non ad iudicium provenire patiaris, que fideli</supplied>bus tuis ad remedium 
+    <lb n="4"/><supplied>providisti. Per Dominum nostrum. Super populum. Oremus. Inclinate. opuli tui deus institutor et rector, peccata</supplied> quibus impugnatur, 
+    <lb n="5"/><supplied>expelle: ut semper tibi placitus et tuo munimin</supplied>e sit securus. P
+    <lb n="6"/><supplied>er dominum. Feria VI. post Dom. IV. Quadragesimae. Officium: Meditatio cordis</supplied> mei in conspectu     
+    <lb n="7"/><supplied>semper Domine adiutor meus et redemptor meus. Ps. Caeli enarrant gloriam dei et opera manuum eius annunciat firmamentum. Oremus Flectamus genua. Collecta. Deus qui in effabilibus mundum renovas sacramentis: presta quesumus, ut ecclesia tua proficiat institutis, et temporalibus non destituatur auxiliis. Levate. Per Dominum. Lectio libri</supplied> REGUM 
+    <lb n="8"/><supplied>(3. Reg. 17-24). In diebus illis. Egretavit filius mulieris</supplied> matris-familias, et 
+    <lb n="9"/><supplied>erit languor fortissimus, ita ut non remaneret in eo alitus. Dixit ergo ad Heliam: Quid mihi et tibi vis dei? Ingressus es a</supplied> me, ut rememor...
+    
+</p>
+
+
+</div>
+
+    <div type="translation"><p>English translation is not available.</p></div>
+</body>
+</text>
+    </TEI.2>
+

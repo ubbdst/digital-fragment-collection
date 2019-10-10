@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+
+<TEI.2 lang="en">
+    <teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Description of UB Bergen MS 1550, 3</title>
+            <author>&Aring;slaug Ommundsen</author>
+        </titleStmt>
+        <publicationStmt><publisher>Bergen University Library</publisher><address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+            <date>2005</date>
+        </publicationStmt>
+        <sourceDesc>
+        <msDescription>
+            
+            <msIdentifier>
+                <settlement>Bergen University Library, Art and Humanities Library</settlement>
+                <repository>Bergen University Library</repository>
+                <idno>MS 1550, 3</idno>
+           
+            </msIdentifier>
+            <msHeading><title>The reversed missal fragment</title>
+                <note type="schlagzeile">Paper, one leaf, ca 38, 5 x 25 cm, unknown origin (Austria, Germany or the Netherlands?), 15th century. 
+                </note>
+            </msHeading>
+            
+            <msContents>
+                <p>The variable prayers of the mass (the <hi rend="italic">collecta</hi>, the <hi rend="italic">secreta</hi> and <hi rend="italic">postcommunio</hi>, here called <hi rend="italic">complenda</hi>) for St. Severinus, bishop of Cologne (23 Oct), St. Crispinus and Crispinianus (25 Oct), St. Amandus (26 Oct) (of Strasbourg or Worms) and the apostles St. Simon and Jude (28 Oct). For Simon and Jude is also entered the incipit for the introit, i.e. the first antiphon of the Mass, as well as the epistle-reading.</p>
+                <p>For full text, see transcription.</p></msContents>
+            <physDesc><p>Paper, one leaf,<dimensions>ca 38,5 x 25 cm</dimensions></p>
+                <p>Lay-out: There are signs of what appears to be lead ruling, including vertical lines on both sides of the columns. Full writing space is 25 x 19. There are two columns, ca 25 x 8,8 cm.</p>
+                <p>Script: Gothic script, a <hi rend="italic">textualis formata</hi>. One noticeable trait is the use of a vertical zigzag-line for m at the end of a word (cf. <q>ueniam</q>, line 2 or actionem, line 3). The same zigzag-line is used in the abbreviation of <q>cordibus</q> in line 11. Scribes in German-speaking and Scandinavian countries would use this sign for m and abbreviations in the fourteenth and fifteenth century (Derolez 2003, p. 91). This should at least point away from France/England as the place of origin. The g has a very straight back. In the chant incipit the script is smaller. Rubricated.</p>
+                <p>Initials: Red and blue initials of various sizes. The first initial for each saint covers two lines, the others cover one line.    
+                </p><p>
+                    Condition: The fragment is in poor condition, and is reversed (!). The paper is ripped, and pieces of the text are missing. The text remaining is faded and difficult to read.</p></physDesc>
+            <history><origin><p>The origin is unknown. Referring to the fragment behind the reflection: Traits in the script may point to a German-speaking or Scandinavian country<note>Scribes in German-speaking and Scandinavian countries would use a zigzag-line for m and abbreviations in the fourteenth and fifteenth century (Derolez 2003, p. 91).</note>,  but the contents point away from a Norwegian origin, at least, since St. Amandus was not celebrated in Norway. St. Amandus, bishop of Strasbourg (4. century) was celebrated in France, and St. Amandus, bishop of Worms (7. century) in Germany and Austria. His relics are in Salzburg. The Netherlands is also a possible place of origin, since the Utrecht calendar (1420-1520) contains all our four saints, including St. Amandus. </p>
+            </origin>
+                <provenance>
+                    <p>Used in the book cover of an unknown book. The fragment was kept in the Diploma collection of Bergen Museum (Bergen University Library), in a box marked (Diplom) “Uden Aar” (“Undated”), in an envelope marked “Blade af en latinsk Bønnebog, No D.” (“Leaves from a Latin prayer book, No. D”). It is marked “Bergen Museum” in the margin between the columns.</p>
+                </provenance>
+                
+                <acquisition>
+                    <p>Unknown.	</p>
+                </acquisition>
+                
+            </history><additional><listBibl><head>Bibliography</head>
+                <bibl>Derolez, Albert 2003: The Palaeography of Gothic Manuscript Books From the Twelfth to the Early Sixteenth Century, Cambridge.
+                </bibl><bibl>Patrologia latina online (Gregorius I: Liber sacramentorum). Used for the transcription.
+                </bibl>
+                <bibl>Tveitane, Mattias et. al.: Bergen University Library Manuscript Catalogue [unpublished]</bibl>
+            </listBibl></additional></msDescription>
+        </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+    <langUsage><language id="en"></language></langUsage></profileDesc>
+    <revisionDesc>
+        <change>
+            <date>2005.10.12</date>
+            <respStmt><name>Tone Merete Bruvik</name></respStmt>
+            <item>Added description by &Aring;slaug Ommundsen</item>
+        </change>
+        <change>
+            <date>2005.10.07</date>
+            <respStmt><name>Tone Merete Bruvik</name></respStmt>
+            <item>Made a dummy of this as we have a transcription of it, but the description and the fascimiles are not avaiable at the moment.</item>
+        </change>
+    </revisionDesc>
+    </teiHeader>
+    <text><body><div><head>Introduction</head><p>This bizarre fragment from a book binding is the reflection of a manuscript page onto a sheet of paper. The paper was apparently glued onto a parchment pastedown in a book binding. When the paper was later removed, a mirrored offprint of the manuscript page remained on the back. Most of the contents are the variable prayers of the mass. The saints celebrated are St. Severinus, bishop of Cologne (23 Oct), St. Crispinus and Crispinianus (25 Oct), St. Amandus of Strasbourg, or of Worms (26 Oct) and the apostles St. Simon and Judas (28 Oct). St. Amandus was not venerated in Nidaros, and the fragment is probably not Norwegian. The script may point towards the German-speaking parts of Europe, somewhere from Austria to the Netherlands. This of course refers to the fragment behind the fragment, since we in this case have a more recent sheet of paper revealing the contents of a parchment manuscript page which we don’t have.</p>
+         <list type="facsimiles"><head>Facsimiles and transcriptions</head>
+             <item><xref url="../transcriptions/UBB MS 1550, 3-transkr.page">Transcription of UBB MS 1550, 3</xref>
+                 <figure url="../facsimiles/UBB MS 1550, 3.jpg"><p>Facsimile</p></figure>
+                 <figure url="../facsimiles/UBB MS 1550, 3, flipped.jpg" ><p>Facsimile (flipped vertically). <note>This image is a mirror image of the fragment.</note></p></figure>
+                
+            </item>
+        </list>
+    </div></body></text>
+</TEI.2>

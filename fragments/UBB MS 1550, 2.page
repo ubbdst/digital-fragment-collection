@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+
+<TEI.2 lang="en">
+    <teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Description of UB Bergen MS 1550, 2</title>
+            <author>&Aring;slaug Ommundsen</author>
+        </titleStmt>
+        <publicationStmt><publisher>Bergen University Library</publisher><address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+            <date>2005</date>
+        </publicationStmt>
+        <sourceDesc>
+        <msDescription>
+                    
+        <msIdentifier>
+        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+        <repository>Bergen University Library</repository>
+        <idno>MS 1550, 2</idno>
+        </msIdentifier>
+            <msHeading><title>The Canon missae fragment</title>
+                <note type="schlagzeile">Parchment, one leaf from an incunable, 38 x 23 cm, Unknown origin, second half of the 15th century. </note>
+            </msHeading>
+            
+                <msContents>
+                    <p>The contents are the first part of the <hi rend="italic">Canon missae</hi>, the prayer read by the priest between the <hi rend="italic">prefatio</hi> and the <hi rend="italic">Pater noster</hi> in the preparation for the communion in mass. The prayer is subdivided into twelve parts, and we have the first three: 1) Te igitur, “accept our gifts, merciful father”, 2) Memento domine, “remember your servants”. In this book the Memento prayer does not stand out in the lay-out, but is linked to the end of the Te igitur. 3) Communicantes, “joining, and honouring the memory of...”. The names to be remembered are the virgin Mary, Christ, twelve apostles and twelve martyrs; Peter, Paul, Andreas, Iacob, Iohannes, Thomas, Iacob, Philip, Bartholomeus, Mattheus, Simon and Thatheus (often spelled Thadeus), then the five popes Linus, Cletus, Clemens, Sixtus, Ciprianus, and seven other martyrs, Laurentius, Crisogonus, Iohannes and Paulus, Cosmis and Damianus.</p>
+
+                </msContents>
+            <physDesc><p>The size of the fragment is <dimensions>38 x 23 cm</dimensions>, while the full writing space is <dimensions>28 x 17,5 cm</dimensions>. One column, 19 lines.</p>
+                <p>Lay-out: </p>
+                <p>Script: Since this is a printed book and not a manuscript, we should rather be talking about print than script. The letters are rounder than the formal <hi rend="italic">gothic textualis</hi> of most of the printed German books, and we should maybe look outside of Germany for the origin. Rubricated. No musical notation. The N where actual names are to be read, have the shape of an H, a trait common in English manuscripts.</p>
+                <p>Initials: There is one large blue T over 6 lines (8,5 cm) on the recto side, written into a green rectangular frame. The background is light pink with a dynamic acanthus leaf pattern, which is also mirrored in the letter itself. There are traces of gold around the red areas above and below the letter.  On both sides lines from the T are exceeding the boundaries of the green frame. On the verso side there is a red, plain C over two lines, which is the initial of the third part of the Canon prayer, Communicantes. </p>
+                <p>Condition: The fragment is in relatively good condition. It is a little bit ripped in the upper right corner (vertically) and there is a 7 cm horisontal rip over the tenth line from the left side, following edges where the fragment has been folded when used as a book cover. There are traces from the back of the book (ca 3 cm thick) going horizontally across the fragment, and “Im Herbst” is written on what would have been the top of the back cover, now the left margin of the fragment. There is a 1 cm fold around the edges, with what seems to be the remains of pastedowns. The recto side is a bit stained and worn, and the verso side is quite yellow, possibly from glue, but otherwise in good condition. </p></physDesc>
+            <history><origin><p>Origin unknown, second half of the 15th century.</p>
+            </origin><provenance>
+                <p>Used as a book cover. In the inner margin is written vertically “Im herbst”, pointing towards Germany, or possibly the German community in Bergen? The folio was part of the book collection of Christian Henrichsen (1825-1898), who was the principal of Bergen Cathedral school 1875-1897. (On the connection between Henrichsen and Bergen Museum, see Bergen museums Aarsberetning 1898, p. 36-37). From October 1899 the fragment was kept in the diploma collection of Bergen Museum (Bergen University Library), in a box marked (Diplom) “Uden Aar” (“Undated”), in an envelope marked “Blade af en latinsk Bønnebog, No B.” (“Leaves from a Latin prayer book, No. B”).</p>
+            </provenance>
+                
+                <acquisition>
+                    <p>According to a pencil note on the lower margin of the recto page the folio was acquired from the principal Henrichsen’s book collection October 1899 (Okt 1899 Fra rektor Henrichsen bogsamlg)</p>
+                </acquisition>
+                
+            </history>
+            <additional><listBibl><head>Bibliography</head>
+                <bibl>Kulturhistorisk Leksikon for Nordisk Middelalder (VIII: Kanon p. 209, Kanonbild p. 212), Oslo 1963.</bibl>
+                <bibl>Bergen Museums Aarsberetning 1898, p. 36-37.</bibl>
+                <bibl>Online examples of other mss. with the Canon missae/Te igitur:
+                    <xref url= "http://vitrine.library.uu.nl/wwwroot/images/hs402_179v180r.jpg">http://vitrine.library.uu.nl/wwwroot/images/hs402_179v180r.jpg</xref> 
+                    <xref url="http://www.nb.no/baser/schoyen/5/5.2/ms195.jpg">www.nb.no/baser/schoyen/5/5.2/ms195.jpg</xref>
+                    <xref url="http://www.ceec.uni-koeln.de">www.ceec.uni-koeln.de</xref> Look up Codex 151, f. 11r
+                </bibl>
+                <bibl>Tveitane, Mattias et. al.: Bergen University Library Manuscript Catalogue [unpublished]</bibl>
+            </listBibl></additional></msDescription>
+            
+        </sourceDesc>
+    </fileDesc>
+        <profileDesc>
+            <langUsage><language id="en"></language></langUsage></profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2005.10.18</date>
+                <respStmt><name>Tone Merete Bruvik</name></respStmt>
+            <item>Renecoded a bit to make the xml document valid</item>
+        </change>
+        <change>
+            <date>2005.10.17</date>
+            <respStmt><name>&Aring;slaug Ommundsen</name></respStmt>
+            <item>Made the original</item>
+        </change>
+    </revisionDesc>
+    </teiHeader>
+    <text><body><div><head>Introduction</head><p>What we have called “the Canon missae fragment” does not come from a manuscript, but from an early printed book, a so called incunable. The large initial T on the recto side was probably painted manually, and the book is printed on parchment, not paper. The contents are the initial parts of the <hi rend="italic">Canon missae</hi>, i.e. the prayer after the <hi rend="italic">prefatio</hi> in the mass, before <hi rend="italic">Pater noster</hi>. While the priest read the Canon prayer (quietly), the bread and wine of the communion was believed to be transformed into the flesh and blood of Christ. The importance of this particular prayer was emphasized in the manuscripts with a large and decorated initial T in the first part of the prayer, “Te igitur”. This letter grew in size during the centuries, and the shape invited to a decoration in form of a crucifixion scene. Eventually it became customary to use a whole page on the crucifixion, and have a simpler, but still large, decorated initial T. In a missal as late as ours, the “Te igitur” was probably originally facing such a crucifixion scene, now lost.</p>
+         <list type="facsimiles"><head>Facsimiles and transcriptions</head>
+             <item><!--<xref url="../transcriptions/UBB MS 1550, 2-transkr.page">Transcription of UBB MS 1550, 2.</xref>-->
+                 <figure url="../facsimiles/UBB MS 1550, 2a.jpg"><figDesc>UBB MS 1550, 2, recto</figDesc></figure>
+                 <figure url="../facsimiles/UBB MS 1550, 2b.jpg"><figDesc>UBB MS 1550, 2, verso.</figDesc></figure>
+             </item>
+        </list>
+    </div></body></text>
+</TEI.2>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+<TEI.2 lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Description of UB Bergen MS 1549, 5</title>
+                <author>&Aring;slaug Ommundsen</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bergen University Library</publisher>
+                <address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+                <date>2005</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+                        <repository>Bergen University Library</repository>
+                        <idno>MS 1549, 5</idno>
+                        <altName type="old signature">MS 410, 5</altName>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>The Bryggen Missal fragment</title>
+                        <note type="schlagzeile">Parchment, a bifolium, <dimensions>fol. size ca 32 x 19,5 cm</dimensions>,
+                            <placeName>England</placeName>, <date>early 12th century</date>.</note>
+                    </msHeading>
+                    <msContents>
+                        <p>The contents has been studied by <persName>Lilli Gjerl&oslash;w</persName> (Missaler 1970,
+                            pp. 83-85). The bifolium contains the liturgy for Wednesday (feria
+                            quarta) after first Sunday of Lent and, after a lacuna, the liturgy for
+                            Saturday of that same week, and for the second Sunday of Lent. At the
+                            end of Saturday mass, the fragment also gives the prayers super populum
+                            and ad vesperas. The super populum prayer only seems to occur in French
+                            and English sources, and the prayer for Vesper is also rare, occurring
+                            in an early French and two early English Missals (Gjerl&oslash;w 1970
+                            p. 84).</p>
+                        <!--<p>f.(1) [FERIA QUARTA POST DOMINICAM PRIMAM QUADRAGESIME...]
+<lb/>Lectio libri exodi (24, 12-18): In diebus illis. Dixit dominus ad moysen. Ascende ad me in montem...
+    <lb/>Gr. Tribulationes cordis... V. Vide humilitatem...
+    <lb/>Lectio libri regum (3 Reg 19, 3-8): In diebus illis. Venit helias in bersabee iuda...
+    <lb/>Tr. De necessitatibus meis eripe me domine...
+    <lb/>Secundum matheum (12, 38-50): In illo tempore. Accesserunt ad ihesum scribe et pharisei...et soror et mater est.
+    <lb/>Secr. Hostias tibi domine placationis...
+    <lb/>Pref. VD aeterne deus. Qui in alimentum. (lac.)
+    <lb/>[SABBATO...
+    <lb/>Ep. Rogamus uos corripite inquietos...] ...in die aduentu domini nostri ihesu christi seruetur (1 Thess 5, 14-23).
+    <lb/>Secundum Matheum (17, 1-9): In illo tempore. Assumpsit ihesus petrum et iacobum et iohannem fratrem eius...
+    <lb/>Offert. Domine deus salutis mee in die clamaui et nocte...
+    <lb/>Secr. Presentibus sacrificiis domine ieiunia nostra sanctifica...
+    <lb/>Com. Domine deus meus in te speraui...
+    <lb/>Postcom. Sanctificationibus tuis.../
+    <lb/>Super populum. Ab omnibus nos quesumus domine peccatis propitiatus absolue, ut percepta uenia peccatorum, liberis tibi mentibus seruiamus. per.
+    <lb/>Or. (ad vesperas). Deus qui nos gloriosis remediis in terris adhuc positis iam celestium rerum facis esse consortes, tu quesumus in ista qua uiuimus nos uita guberna, ut ad illam in qua ipse es lucem perducas. per.
+    <lb/>DOMINICA .II. QUADRAGESIME
+    <lb/>[Off.] Reminiscere miserationum tuarum... Ps. Ad te domine leuaui. Gloria seculorum. Amen.
+    <lb/>Or. Deus qui conspicis omni nos uirtute destitui...
+    <lb/>Lectio beati pauli ad thessalonicenses (1 Thess. 4, 1-7). Fratres. Rogamus et obsecramus...
+    <lb/>Gr. Tribulationes cordis... V. Vide humilitatem...
+    <lb/>Tr. De necessitatibus meis... V. Ad te domine leuaui... V. Etenim/</p><p>
+Contents from Gjerl&oslash;w 1970, pp. 83-85.</p>-->
+                    </msContents>
+                    <physDesc>
+                        <p>Parchment, a bifolium <dimensions>fol. size ca 32 x 19,5 cm</dimensions></p>
+                        <p>Lay-out: A bifolium, probably the leaves 2/7 in a quire. The writing
+                            space is 25 x 14,5 cm, with 31 lines. Pricking for ruling is visible in
+                            the margin. Dry point ruling.</p>
+                        <p>Protogothic script. Two hands are represented; the first one on f.(1)r
+                            and first part of f.(1)v , the second one on the last part of f.(1)v and
+                            f. (2). According to Lilli Gjerl&oslash;w the first hand is a
+                            conservative one, while the second hand uses the "new", more angular
+                            hand from the time after 1100 (Gjerl&oslash;w 1970 p. 83). At the international fragment workshop in October 2005 it was suggested by Michael Gullick that the second hand might be that of a Norman scribe influenced by the first scribe, who is certainly English.
+                            Rubricated. No musical notation, but the sung texts are written in smaller
+                            letters. At the before-mentioned workshop Susan Rankin (Cambridge) pointed out that the text in this missal has been horisontally spaced for musical notation, and that therefore the exemplar used by the scribe had notation. The reason why music was never added in this case is probably because of the date: between the mid 11th century and the mid 12th century, English music scribes changed from notating music in campo aperto to notating music on lines (staves). The exemplar used by this scribe was older and had neumatic notation. Anyone wanting to add musical notation on staves would not have been able to do so, because it calls for a different ruling system (since more than the equivalent of one text line is needed).</p>
+                        <p>Initials: The initials are plain, alternating blue and red.</p>
+                        <p>Condition: The fragment, being an uncropped bifolium, is generally in
+                            good condition, although the front and back are quite stained and
+                        worn.</p>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p><placeName>England</placeName>, <dateRange>late 11th or early 12th century</dateRange>. (Dated by prof. Ludwig Bieler,
+                                Dublin, to <date>11th century</date> in note from 6/7 1964.) A date very early in the 12th century rather than late 11th has been suggested by Michael Gullick.</p>
+                        </origin>
+                        <provenance>
+                            <p><persName>Lilli Gjerl&oslash;w</persName> assumes that the Missal has been used in
+                                <placeName>Bj&oslash;rgvin</placeName> see from before the time of the Nidaros ordinal
+                                (ca 1200) (Gjerl&oslash;w 1970). The fragment has later been
+                                used as a cover for a protocol from <placeName>Bryggen</placeName>: <title>Dat Gartenrecht in den
+                                Jacobsfjorden unndt Bellgarden (MS 213 in Bergen University
+                                Library)</title>.</p>
+                        </provenance>
+                        <acquisition>
+                            <p>See MS 213. The fragment was in <date>1911</date> removed from MS 213 by <persName>Aagot
+                                Daae</persName> and catalogued separately. In <date>1967</date> it was moved again by
+                                <persName>Mattias Tveitane</persName> to a larger collection of Latin fragments.</p>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <head>Bibliography</head>
+                            <bibl>Gjerl&oslash;w, Lilli 1970: "Missaler brukt i
+                                Bj&oslash;rgvin bisped&oslash;mme fra misjonstiden til
+                                Nidarosordinariet, Bj&oslash;rgvin bispestol. Byen og
+                                bisped&oslash;mmet, Bergen, pp. 73-115.</bibl>
+                            <bibl>Krohn, W. D. og Bendixen, B. E 1894/95: "Dat Gartenrecht in den
+                                Jacobsfjorden unndt Bellgarden", Bergens Museums Aarbog 1894/95 nr.
+                                7, samt Bergens historiske forening, Skrift nr. 1.</bibl>
+                            <bibl>Tveitane, Mattias et. al.: Bergen University Library Manuscript
+                                Catalogue [unpublished]</bibl>
+                        </listBibl>
+                    </additional>
+                </msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2006.02.16</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Updated the encoding of dates, places, names etc.</item>
+            </change>
+            <change>
+                <date>2005.08.17</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Recoded the content of the history element.</item>
+            </change>
+            <change>
+                <date>2004.11.01</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Updated with references to facsimiles, added revisionDesc, language
+                    declaration etc.</item>
+            </change>
+            <change>
+                <date>2004.10.?</date>
+                <respStmt>
+                    <name>&Aring;slaug Ommundsen</name>
+                </respStmt>
+                <item>Made the original</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Introduction</head>
+                <p>This fragment was used as a cover on a protocol from Bryggen (Dat Gartenrecht in
+                    den Jacobsfjorden unndt Bellgarden, MS 213), but removed and catalogued
+                    separately in 1911. From Bryggen we would perhaps expect a fragment of German
+                    origin, but this fragment comes from a missal written in England in the early 12th century. Lilli Gjerl&oslash;w assumes that the
+                    fragment (and the missal it once belonged to) was somewhere in
+                    Bj&oslash;rgvin see in the middle ages, and was used here from an early date
+                    (Gjerl&oslash;w 1970). The contents of the bifolium is from the liturgy for
+                    Lent.</p>
+                <list type="facsimiles">
+                    <head>Facsimiles and transcriptions</head>
+                    <item>
+                        <xref url="../transcriptions/UBB MS 1549, 5-transkr.page">Transcription of
+                            UBB MS 1549, 5.</xref>
+                        <figure url="../facsimiles/UBB MS 1549, 5a.jpg">
+                            <p>Facsimile 1549 5a</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 5b.jpg">
+                            <p>Facsimile 1549 5b</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 5c.jpg">
+                            <p>Facsimile 1549 5c</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 5d.jpg">
+                            <p>Facsimile 1549 5d</p>
+                        </figure>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI.2>

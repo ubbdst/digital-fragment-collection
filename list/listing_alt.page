@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd" [
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]>
+<TEI.2 lang="en">
+    <teiHeader type="mainpage">
+        <fileDesc>
+            <titleStmt>
+                <title>Fragments</title>
+                <title>Detail listing</title>
+                <author>TMB, <name>The Department of Culture, Language and
+                        Information Technology (Aksis), UNIFOB AS</name></author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Published in the web at <xref url="http://gandalf.aksis.uib.no/mpf/">http://gandalf.aksis.uib.no/mpf/</xref>/</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born electronic</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en">English</language>
+                <language id="nb">Norwegian - Bokmål</language>
+                <language id="nn">Norwegian - Nynorsk</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>11 October, 2005</date>
+                <respStmt>
+                    <name>TMB</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>First draft</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body><head>Listing of the current fragments. [Under development]</head>
+            <div>
+            	
+                <list type="fragmentliste">
+                    <item>
+                        <xref url="./fragments/UBB%20MS%201549,%201a-d.page">UB Bergen MS 1549, 1, a - d</xref>
+                    </item>
+                    <item><xref url="./fragments/UBB%20MS%201549,%202.page">UB Bergen MS 1549 2</xref>
+                	</item>
+                    <item><xref url="./fragments/UBB%20MS%201549,%203.page">UB Bergen MS 1549, 3</xref>
+                	</item>
+                    <item><xref url="./fragments/UBB %20MS%201549,%204.page">UB Bergen MS 1549, 4</xref>
+                	</item>
+                    <item><xref url="./fragments/UBB%20MS%201549,%205.page">UB Bergen MS 1549, 5</xref>
+                	</item>
+                    <item><xref url="./fragments/UBB%20MS%201549,%206.page">UB Bergen MS 1549, 6</xref>
+                	</item>
+                    <item><xref url="./fragments/UBB%20MS%201549,%207a.page">UB Bergen MS 1549, 7a</xref>
+                	</item>
+                    <item><xref url="./fragments/UBB%20MS%201549,%207b.page">UB Bergen MS 1549, 7b</xref>
+                	</item>
+                    
+                    
+                    <item><xref url="./fragments/UBB%20MS%201550,%201.page">UB Bergen MS 1550, 1</xref>
+                	</item>
+                    <item><xref url="./fragments/UBB%20MS%201550,%202.page">UB Bergen MS 1550, 2</xref>
+                	</item>
+                    <item><xref url="./fragments/UBB%20MS%201550,%203.page">UB Bergen MS 1550, 3</xref>
+                	</item>
+                    
+                    <item><xref url="./fragments/UBB%20MS%201550,%204.page">UB Bergen MS 1550, 4</xref>
+                	</item>
+                    <item><xref url="./fragments/UBB%20MS%201550,%205.page">UB Bergen MS 1550, 5</xref>
+                	</item>
+                    
+                    <item><xref url="./fragments/UBB%20MS%201836,%201.page">UB Bergen MS 1836, 1</xref>
+                	</item>
+                    <item><xref url="./fragments/UBB%20MS%201836,%202.page">UB Bergen MS 1836, 2</xref>
+                	</item>
+                    
+                </list>
+            </div>
+            
+            
+        </body>
+    </text>
+</TEI.2>

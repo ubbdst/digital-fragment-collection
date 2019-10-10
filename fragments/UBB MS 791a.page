@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+<TEI.2 lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Description of UB Bergen MS 791, a</title>
+                <author>&Aring;slaug Ommundsen</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bergen University Library</publisher>
+                <address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+                <date>2005</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+                        <repository>Bergen University Library</repository>
+                        <idno>MS 791, a</idno>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>A text of Civil law?</title>
+                        <note type="schlagzeile">Parchment, one cropped bifolium, leaf size: ca. 40,
+                            5 x 25,5 cm, Italy, 14th century (?).</note>
+                    </msHeading>
+                    <msContents>
+                        <p>The contents of 791 a seems to be connected with law, but which text is
+                            unknown. This leaf came to the library along with four other leaves (MS
+                            791, b-e), which are from a glossed version of Justinian’s digest. </p>
+                    </msContents>
+                    <physDesc>
+                        <p>Parchment, one cropped bifolium, <dimensions>ca. 40, 5 x 25,5
+                            cm</dimensions></p>
+                        <p>Lay-out: Writing space, 32,5 x 19, 5. Two columns 32,5 x 8, 5 cm. 78
+                            lines. The ruling is not visible.</p>
+                        <p>Script: A smaller southern Gothic textualis currens. There are paragraphs
+                            in alternately red and blue. The marginal notes are in a cursive script,
+                            and there is also the drawing of a face.</p>
+                        <p>Initials: On the outer side of the bifolium are the remains of the red
+                            flourishing from two initials, now missing.</p>
+                        <p> Condition: The fragment has been cut to serve as a book cover. In
+                            addition it is torn, so that the half of one of the leaves is missing.
+                            On the outer side of the bifolium the ink has turned a pale green,
+                            except a zone in the middle of the fragment, following the spine of the
+                            book it covered. Along the same zone, from one side to another, are four
+                            rectangular holes from the binding, ca 5,5 x 1,5 cm. Here the fragment
+                            is marked with the number 14., ca. 3,5 cm high. Some small leather
+                            “flaps” are still in place, inserted in the parchment. </p>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p><placeName>Italy</placeName>, <date>14th century</date> (?).</p>
+                        </origin>
+                        <provenance>
+                            <p>The fragment 791 a was apparently used as a bookcover. The fragments
+                                791 b-e were used in similar covers, and the backs of the books, now
+                                the outer sides of the bifolia, were marked with numbers, and in
+                                some instances, with titles. Fragment 791 a. was marked with the
+                                number 14, but no title.</p>
+                        </provenance>
+                        <acquisition>
+                            <p>All the five fragments labelled MS 791 came to the University Library
+                                from Prof. Hannaas’s collections in <date>1934</date>. </p>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <head>Bibliography</head>
+                            <bibl>Tveitane, Mattias et. al.: Bergen University Library Manuscript
+                                Catalogue [unpublished]</bibl>
+                        </listBibl>
+                    </additional>
+                </msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2005.03.07</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Renecoded a bit to make the xml document valid</item>
+            </change>
+            <change>
+                <date>2004.10.?</date>
+                <respStmt>
+                    <name>&Aring;slaug Ommundsen</name>
+                </respStmt>
+                <item>Made the original</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Introduction</head>
+                <p>This bifolium is one in a group of five, of which the four others are from a
+                    glossed version of <title>Justinian’s digest</title> (see MS 791, b-e). The contents in this
+                    fragment also seem to be from a law manuscript, but which one is still unknown.</p>
+                <list type="facsimiles">
+                    <head>Facsimiles and transcriptions</head>
+                    <item>
+                        <figure url="../facsimiles/UBB MS 791A-side1.jpg">
+                            <p>Facsimile page 1</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 791A-side2.jpg">
+                            <p>Facsimile page 2</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 791A-side3.jpg">
+                            <p>Facsimile page 3</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 791A-side4.jpg">
+                            <p>Facsimile page 4</p>
+                        </figure>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI.2>

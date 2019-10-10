@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://gandalf.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]><TEI.2>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>The Botulph Breviary fragments</title>
+    <title level="s">Transcription of UBB MS 1549, 1c</title>
+    <author>Unknown</author>
+<respStmt>
+<resp>Transcription</resp>
+<name>&Aring;slaug Ommundsen, University of Bergen</name>
+</respStmt>
+</titleStmt>
+<editionStmt>
+<edition>First Menota draft, <date>2004-06</date>.</edition>
+</editionStmt>
+<publicationStmt>
+<publisher>University Library of Bergen/Medieval Nordic Text
+Archive</publisher>
+<pubPlace>Bergen</pubPlace>
+<date>2004</date>
+<idno type="Menota">Ms. ?</idno>
+<availability status="restricted"><p>This text is available for
+purposes of academic research and teaching only. Re-distribution in
+any form without prior permission is prohibited. Short extracts may
+be cited with full acknowledgment of the source.</p></availability>
+</publicationStmt>
+<sourceDesc>
+<p>The text is from the matins of Philip and Jacob (1 May). The
+fragment was a gift to the Bergen museum by cand. theol. H. Daae in
+1829. Missing or unclear text has been supplied by the transcriber
+from Acta Sanctorum Maii I, Antverpi� 1680 (1969), pp. 11-12 or 21,
+unless other sources is noted. Text is supplied due to cropped
+parchement unless other reason is noted.</p>
+    <p>Facsimiles available at <figure url="../facsimiles/UBB MS 1549, 1c 2.jpg"><p>UBB MS 1549, 1c, recto</p></figure> and <figure url="../facsimiles/UBB MS 1549, 1c 1.jpg"><p>UBB MS 1549, 1c, verso</p></figure></p>
+<msDescription>
+<msIdentifier>
+<country reg="NO">Norway</country>
+<settlement>Bergen</settlement>
+<repository>University Library</repository>
+<idno>UBB MS 1549,1c</idno>
+</msIdentifier>
+<msHeading>
+<textLang langKey="lat">Latin</textLang>
+<title>Breviary</title>
+<origPlace>England?</origPlace>
+<origDate notBefore="1220" notAfter="1300">late 13. century</origDate>
+</msHeading>
+</msDescription>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+    <p>This text has been encoded according to the standard set out in <xref url="http://www.hit.uib.no/menota/guidelines">The Menota handbook, version 1.1</xref>.</p>
+</projectDesc>
+<editorialDecl>
+    <normalization>
+        <p>The orthography has not been
+normalized. Abbreviations are silently written out.</p>
+    </normalization>
+    
+<correction status="medium"><p>This text was proofread by
+&Aring;slaug Ommundsen before internet release september
+2004</p></correction>
+
+</editorialDecl>
+</encodingDesc>
+     <profileDesc>
+        <langUsage><language id="lat"/></langUsage>        
+    </profileDesc>
+</teiHeader>
+
+<text>
+<body>
+<pb n="1r"/>
+<lb n="1"/><div type="lectio" n="1?"><p><supplied>siceram</supplied> non
+bibit, ne<supplied>c animal
+<lb n="2"/>manducav</supplied>it. Ferrum in ca<supplied>put eius non
+<lb n="3"/>ascend</supplied>dit, oleo non est <supplied>peruncta
+<lb n="4"/>balneo non</supplied> est usus. Access<gap/>
+<lb n="5"/><gap/>pharisei: et di<gap/>
+<lb n="6"/><gap/>te ut suadeas <gap/>
+<lb n="7"/><gap/>e&punctelev; ne errexit de<gap/>
+<lb n="8"/><gap/><unclear>filium</unclear> dei. Tunc ia<gap/>
+<lb n="9"/><gap/>ione, uoce ma<gap/>
+<lb n="10"/><gap/>omnem populum. V<gap/>
+<lb n="11"/><gap/> sublime ago<gap/>
+<lb n="12"/><gap/>e ihesu filio uirg<supplied>inis</supplied>
+<lb n="13"/><gap/>
+<lb n="14"/><gap/>tes quod esset mag<gap/>
+<lb n="15"/><gap/> est enim terc<gap/>
+<lb n="16"/><gap/>a mortuis&punctelev; et d<gap/>
+<lb n="17"/><gap/>s suis potesta<gap/>
+<lb n="18"/><gap/>ecos illumina<gap/>
+<lb n="19"/><gap/>re. et mortuos fu</p></div><gap/>
+
+<pb n="1v"/>
+<lb n="1"/><div type="unknown"><p>mplum.</p></div><div
+type="responsorium"><head
+type="rubric"><hi rend="red">Resp.</hi></head><p>Isti s<supplied source="Ordo Nidrosiensis
+ecclesiae, Oslo 1968, p. 279.">unt</supplied></p></div>
+<lb n="2"/><div type="lectio" n="3?"><p><supplied>San</supplied>ctus
+uero philippus<gap/>
+<lb n="3"/><supplied>apostolu</supplied>s domini nostri
+ihesu<supplied>christi, post
+<lb n="4"/>ascensionem</supplied> saluatoris per a<supplied>nnos viginti
+<lb n="5"/>instan</supplied>ter predicavit ge<supplied>ntibus per Scythiam
+<lb n="6"/>eva</supplied>ngelium. Ubi enim <supplied>tentus esset
+<lb n="7"/>et du</supplied>ctus ad statuam<supplied>martis, in qua
+<lb n="8"/>staba</supplied>t draco ingens et <supplied>percussit filium
+<lb n="9"/>pon</supplied>tificis qui min<supplied>istrabat ignem
+<lb n="10"/>sacri</supplied>ficii: percussit et<supplied>duos
+<lb n="11"/>tribuno</supplied>s uero illos qui n<supplied>omine(?)</supplied>
+<lb n="12"/><gap/>ihesu christi suscit<supplied>avit.
+<lb n="13"/>Hec et his si</supplied>milia predican<supplied>s apostolus domini
+<lb n="14"/>annorum octogi</supplied>nta septem habe<gap/>
+<lb n="15"/><gap/>et in eadem civita<supplied>te positum est
+<lb n="16"/>sanctu</supplied>m corpus eius, et po<supplied>st aliquantos
+<lb n="17"/>annos</supplied> due sacrate u<supplied>irgines filie
+<lb n="18"/>eius d</supplied>extra levaque eius sep<supplied>ulte
+sunt.</supplied></p></div>
+<lb n="19"/><div type="unknown"><p><gap/>didi.</p></div><div
+type="antiphona"><head
+type="rubric"><hi rend="red">Antiphona</hi></head><p>Te deum.</p></div><gap/>
+
+</body>
+</text>
+</TEI.2>

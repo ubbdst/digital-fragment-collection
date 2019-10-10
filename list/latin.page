@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd" [
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]>
+<TEI.2 lang="en">
+    <teiHeader type="mainpage">
+        <fileDesc>
+            <titleStmt>
+                <title>Latin fragments at Bergen University Library</title>
+                <author>TMB, <name>The Department of Culture, Language and
+                        Information Technology (Aksis), UNIFOB AS</name></author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Published in the web at <xref url="http://gandalf.aksis.uib.no/mpf/">http://gandalf.aksis.uib.no/mpf/</xref>/</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born electronic</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en">English</language>
+                <language id="nb">Norwegian - Bokmål</language>
+                <language id="nn">Norwegian - Nynorsk</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2005.02.13</date>
+                <respStmt>
+                    <name>TMB</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>New fragements added.</item>
+            </change>
+            <change>
+                <date>8 December, 2005</date>
+                <respStmt>
+                    <name>TMB</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>New fragements added.</item>
+            </change><change>
+                <date>17 November, 2005</date>
+                <respStmt>
+                    <name>TMB</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>New front page.</item>
+            </change>
+            <change>
+                <date>7 October, 2005</date>
+                <respStmt>
+                    <name>TMB</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>Added some new Latin fragments</item>
+            </change><change>
+                <date>15 August, 2005</date>
+                <respStmt>
+                    <name>TMB</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>Added the first old norse items</item>
+            </change>
+            <change>
+                <date>3 August, 2005</date>
+                <respStmt>
+                    <name>TMB</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>Updates</item>
+            </change>
+            <change>
+                <date>1 April, 2005</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>Updates</item>
+                </change>
+                <change>
+                <date>28 October, 2004</date>
+                <respStmt>
+                    <name>Rune Kyrkjebø</name>
+                    <resp>editor</resp>
+                </respStmt>
+                    <item>Some changes to the text</item>
+                </change>
+            <change>
+                <date>22. september, 2004</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>First draft.</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body><head></head>
+            <div><p><xref url="./fragments/UBB MS 1550, 4.page"><figure rend="tumbnail" url="./grafikk/UBB MS 1550, 4a utsnitt.jpg"/></xref></p>
+                <table>
+                    <row role="lable"><cell>Signature</cell><cell>Name</cell><cell>Place</cell></row>
+                    <row><cell><xref url="./fragments/UBB MS 791a.page">UB Bergen MS 791, a</xref></cell><cell>A text of Civil law (?)</cell><cell>Italy, 14th century.</cell></row>
+                    <row><cell><xref url="./fragments/UBB MS 791b-e.page">UB Bergen MS 791, b-e</xref></cell><cell>Justinian's Digest with glosses by Accurtius</cell><cell>Italy (Bologna), 14th century.</cell></row>
+                    <row><cell><xref url="./fragments/UBB MS 1549, 1a-d.page">UB Bergen MS 1549, 1, a - d</xref></cell><cell>The Botulph Breviary fragments</cell><cell>England, late 13th century.</cell></row>
+                    <row><cell><xref url="./fragments/UBB MS 1549, 1e.page">UB Bergen MS 1549, 1e</xref></cell><cell>The St Mary Gradual fragment</cell><cell>France (?), 14th century (?).</cell></row>
+                    <row><cell><xref url="./fragments/UBB MS 1549, 2.page">UB Bergen MS 1549, 2</xref></cell><cell>The Good Friday Missal fragment</cell><cell>England or Norway (?), mid 12th century.</cell></row>
+                    <row><cell><xref url="./fragments/UBB MS 1549, 3.page">UB Bergen MS 1549, 3</xref></cell><cell>The St Mauritius Antiphoner fragment</cell><cell>Germany, 15th century.</cell></row>
+                    <row><cell><xref url="./fragments/UBB MS 1549, 4.page">UB Bergen MS 1549, 4</xref></cell><cell>A commentary in 75 Psalms</cell><cell>Northern France/the Low Countries, mid 12th century.</cell></row>
+                    <row><cell><xref url="./fragments/UBB MS 1549, 5.page">UB Bergen MS 1549, 5</xref></cell><cell>The Bryggen Missal fragment</cell><cell>England, early 12th century.</cell></row>
+                    <row><cell><xref url="./fragments/UBB MS 1549, 6.page">UB Bergen MS 1549, 6</xref></cell><cell>Three small fragments</cell><cell>unknown origin, 13th century (?).</cell></row>
+                    <row><cell><xref url="./fragments/UBB MS 1549, 7a.page">UB Bergen MS 1549, 7a</xref></cell><cell>The Kaupanger Missal fragment</cell><cell>unknown origin, second half of the 12th century.</cell></row>
+                    <row><cell><xref url="./fragments/UBB MS 1549, 7b.page">UB Bergen MS 1549, 7b</xref></cell><cell>The Kaupanger Prayerbook fragment</cell><cell>unknown origin, 15th century (?).</cell></row>
+                    <row><cell><xref url="./fragments/UBB MS 1550, 1.page">UB Bergen MS 1550, 1</xref></cell><cell>The Kyrie-Gloria Gradual fragment</cell><cell>Germany, 15th century.</cell></row>
+                    <row><cell><xref url="./fragments/UBB MS 1550, 2.page">UB Bergen MS 1550, 2</xref></cell><cell>The Canon Missae fragment</cell><cell>unknown origin, second half of the 15th century. </cell></row>
+                    <row><cell><xref url="./fragments/UBB MS 1550, 3.page">UB Bergen MS 1550, 3</xref></cell><cell>The Reversed Missal fragment</cell><cell>unknown origin (Austria, Germany or the Netherlands?), 15th century.</cell></row>
+                    <row><cell><xref url="./fragments/UBB MS 1550, 4.page">UB Bergen MS 1550, 4</xref></cell><cell>The Calendar fragment</cell><cell>England (London area?), late 12th century.</cell></row>
+                    <row><cell><xref url="./fragments/UBB MS 1550, 5.page">UB Bergen MS 1550, 5</xref></cell><cell>The Nordfjord Missal fragment</cell><cell>France, first half of the 12th century. </cell></row>
+                    
+                    <row><cell><xref url="./fragments/UBB MS 1550, 6.page">UB Bergen MS 1550, 6</xref></cell><cell>Manuale, liber ritualis</cell><cell>England, 14th century. </cell></row>
+                    <row><cell><xref url="./fragments/UBB MS 1550, 7.page">UB Bergen MS 1550, 7</xref></cell><cell>St. Mary Antiphoner-Gradual</cell><cell>Germany, 14th century. </cell></row>
+                </table>
+                <!-- 
+                <list>
+                    <item><xref url="./fragments/UBB MS 791a.page">UB Bergen MS 791, a</xref> A text of Civil law (?), Italy, 14th century.</item>
+                    <item><xref url="./fragments/UBB MS 791b-e.page">UB Bergen MS 791, b-e</xref> Justinian's Digest with glosses by Accurtius, Italy (Bologna), 14th century.</item>
+                    <item><xref url="./fragments/UBB MS 1549, 1a-d.page">UB Bergen MS 1549, 1, a - d</xref> The Botulph Breviary fragments, England, late 13th century.</item>
+                    <item><xref url="./fragments/UBB MS 1549, 2.page">UB Bergen MS 1549 2</xref> The Good Friday Missal fragment, England or Norway (?), mid 12th century.</item>
+                    <item><xref url="./fragments/UBB MS 1549, 3.page">UB Bergen MS 1549, 3</xref> The St Mauritius Antiphoner fragment, Germany, 15th century.</item>
+                    <item><xref url="./fragments/UBB MS 1549, 4.page">UB Bergen MS 1549, 4</xref> A commentary in 75 Psalms, Northern France/the Low Countries, mid 12th century.</item>
+                    <item><xref url="./fragments/UBB MS 1549, 5.page">UB Bergen MS 1549, 5</xref> The Bryggen Missal fragment, England, early 12th century.</item>
+                    <item><xref url="./fragments/UBB MS 1549, 6.page">UB Bergen MS 1549, 6</xref> Three small fragments, unknown origin, 13th century (?).</item>
+                    <item><xref url="./fragments/UBB MS 1549, 7a.page">UB Bergen MS 1549, 7a</xref> The Kaupanger Missal fragment, unknown origin, second half of the 12th century.</item>
+                    <item><xref url="./fragments/UBB MS 1549, 7b.page">UB Bergen MS 1549, 7b</xref> The Kaupanger Prayerbook fragment, unknown origin, 15th century (?).</item>
+                    <item><xref url="./fragments/UBB MS 1550, 1.page">UB Bergen MS 1550, 1</xref> The Kyrie-Gloria Gradual fragment, unknown origin, 15th century (?).</item>
+                    <item><xref url="./fragments/UBB MS 1550, 2.page">UB Bergen MS 1550, 2</xref> The Canon Missae fragment, unknown origin, second half of the 15th century. </item>
+                    <item><xref url="./fragments/UBB MS 1550, 3.page">UB Bergen MS 1550, 3</xref> The Reversed Missal fragment, unknown origin (Austria, Germany or the Netherlands?), 15th century.</item>
+                    <item><xref url="./fragments/UBB MS 1550, 4.page">UB Bergen MS 1550, 4</xref> The Calendar fragment, England (London area?), late 12th century.</item>
+                    <item><xref url="./fragments/UBB MS 1550, 5.page">UB Bergen MS 1550, 5</xref> The Nordfjord Missal fragment, France, first half of 12th century. </item>
+                    <item><xref url="./fragments/UBB MS 1550, 6.page">UB Bergen MS 1550, 6</xref> Manuale, liber ritualis, England, 14th century.</item>
+                    <item><xref url="./fragments/UBB MS 1550, 7.page">UB Bergen MS 1550, 7</xref> St. Mary Antiphoner-Gradual, Germany, 14th century.</item>
+                    </list>- -->
+            </div>
+            
+            
+        </body>
+    </text>
+</TEI.2>

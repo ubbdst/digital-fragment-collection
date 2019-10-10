@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE TEI.2 SYSTEM "teixlite.dtd" [
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]>
+<TEI.2 lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>MPF</title>
+                <author>Tone Merete Bruvik, <name>Department of Culture, Language and Information Technology (Aksis), UNIFOB AS</name>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <p>Published in the web at <xref url="http://breuer.intermedia.uib.no/mpf/">http://breuer.intermedia.uib.no/mpf/</xref>/</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Born electronic</p>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en">English</language>
+                <language id="nb">Norwegian - Bokmål</language>
+                <language id="nn">Norwegian - Nynorsk</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>22. september, 2004</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                    <resp>editor</resp>
+                </respStmt>
+                <item>First draft.</item>
+            </change>
+
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+<div>
+                <head>Contact persons</head>
+              <div>
+                  <list>
+                  <item>Rune Kyrkjebø - Senior Academic Librarian, UBB, project leader. (+47) 555 82515 <xref url="mailto:rune.kyrkjebo@ub.uib.no">rune.kyrkjebo@ub.uib.no</xref></item>
+                  <item>Åslaug Ommundsen - Doctoral Fellow, CMS,  (+47) 555 88089 <xref url="mailto:aslaug.ommundsen@cms.uib.no">aslaug.ommundsen@cms.uib.no</xref></item>
+<item>Lars Boje Mortensen - Professor, CMS (+47) 555 88086 <xref url="mailto:Lars.Mortensen@cms.uib.no">Lars.Mortensen@cms.uib.no</xref></item>
+                  <item>Odd Einar Haugen - Professor, MENOTA. (+47) 555 89793 <xref url="mailto:odd.haugen@nor.uib.no">odd.haugen@nor.uib.no</xref></item>
+                  <item>Tone Merete Bruvik - Senior Computing Officer, AKSIS. (+47) 555 84222 <xref url="mailto:tone.bruvik@aksis.uib.no">tone.bruvik@aksis.uib.no</xref></item>
+                  <item>Anne Lindebjerg - Senior Computing Officer, AKSIS. (+47) 555 89464 <xref url="mailto:anne.lindebjerg@aksis.uib.no">anne.lindebjerg@aksis.uib.no</xref></item></list>
+              </div>  
+            
+         
+          </div>
+        </body>
+    </text>
+</TEI.2>

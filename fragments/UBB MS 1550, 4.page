@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://helmer.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+
+<TEI.2 lang="en">
+    <teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Description of UB Bergen MS 1550, 4</title>
+            <author>&Aring;slaug Ommundsen</author>
+        </titleStmt>
+        <publicationStmt><publisher>Bergen University Library</publisher><address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+            <date>2005</date>
+        </publicationStmt>
+        <sourceDesc>
+        <msDescription>
+                    
+        <msIdentifier>
+        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+        <repository>Bergen University Library</repository>
+        <idno>MS 1550, 4</idno>
+            <altName>Gjerløw: Kal 12</altName>
+        </msIdentifier>
+            <msHeading><title>The Calendar fragment</title>
+                <note type="schlagzeile">Parchment, a fragment in two pieces, ca. 17 x 22 cm, England (London area?), late 12th century. </note>
+            </msHeading>
+            
+                <msContents>
+                    <p>The contents are two pages from a calendar, showing 1-17 May (recto) and 1-17 June (verso). 
+                        In the column to the left are the 19 so called golden numbers (<hi rend="italic">numeri aurei</hi>), reflecting the lunar cycle of 19 years. While the solar year is 365 days, the lunar year (with twelve lunar cycles) is 354 days, causing an 11 day “delay” for the new moon from one year to the next. Keeping track of the position of the moon was important for the calculation of Easter Sunday, which is a movable feast, placed on the first Sunday after the first full moon after the Vernal Equinox (21 March). The golden numbers marked the new moon as it positioned itself in the course of the 19 years of the cycle. (To calculate which was the golden number for a specific year you would take the year+1 divided with 19, making the rest the golden number: For instance 1206+1:19=63 with a rest of 10, making 10 the golden number for 1206.) In the left column you would find the golden number marking every new moon for this year with a 30 day interval, since the lunar cycle is 30 days (or 29,5, actually, making it necessary to make some intervals 29 days). If we continue with our example of 1206, we would be looking for the number 10. The golden number 10 falls on 12 May (see the calendar), placing the new moon on this date, and the next one 29 days after, on 10 June. The golden number for the year after, 1207, would be 11. Because of the yearly 11 day delay of the lunar cycle, the new moon in May for the years with the golden number 11 falls 11 days before 12 May, namely on 1 May (see the calendar). </p>
+                            
+                            <p>The second column shows the Domincal Letters ((<hi rend="italic">litterae dominicales</hi>), going week for week from A-G. The third column shows the dates according to the Julian calender, with the Kalendae (1.), Nonae (5., or 7. in March, May, July and October) and Idus (13., or 15. in the four months just mentioned). Finally, the column with the saints and their feast days, with the degree of the feast indicated to the right, with “three lessons” ((<hi rend="italic">tres lectiones</hi>) for the lower degree, referring to the number of nocturnal readings in the Matins (three, six or nine), or (<hi rend="italic">Evangelium</hi> for the higher (probably marking the celebration of a proper mass on the feast). In addition to this there was also information about the zodiac throughout the year, in our calendar fragment the Gemini and the Cancer. </p>
+                            
+                            <p>The saints and feasts in the calendar fragment are celebrated all over the Christian world, with the exception of the entry on 7 May, the octave of S. Erchenwald, who was bishop in London 675-693. His feast day was 30 April, making 7 May the octave for his celebration. For this saint the Octave would probably only be celebrated in the London area.  </p>
+                 <p>   <table>
+                        <row><cell>Tertius</cell><cell></cell><cell></cell><cell></cell><cell>occidit et septimus ora relidit.</cell></row>
+                        <row><cell>11</cell><cell>B</cell><cell></cell><cell>KL</cell><cell>MAII Apostolorum philippi et iacobi Eug.</cell></row>
+                        <row><cell></cell><cell>C</cell><cell>6</cell><cell>N</cell><cell>                                            Comm.</cell></row>
+                        <row><cell>19</cell><cell>D</cell><cell>5</cell><cell>N</cell><cell>Inventio s. crucis et s. Alexandri Eug. D.</cell></row>
+                        <row><cell>8</cell><cell>E</cell><cell>4</cell><cell>N</cell><cell></cell></row>
+                        <row><cell></cell><cell>F</cell><cell>3</cell><cell>N</cell><cell></cell></row>
+                        <row><cell>16</cell><cell>G</cell><cell>2</cell><cell>N</cell><cell>Sci Iohannis ante portam latinam Eug.</cell></row>
+                        <row><cell>5</cell><cell>A</cell><cell>NON</cell><cell></cell><cell>Oct. s. Erch s. Iohannis ep. de beuer. Eug.</cell></row>
+                        <row><cell></cell><cell>B</cell><cell>8</cell><cell>ID</cell><cell>                                            Comm.</cell></row>
+                        <row><cell>13</cell><cell>C</cell><cell>7</cell><cell>ID</cell><cell>Translatio s. Andree apostoli et s. Nicolai Eug.</cell></row>
+                        <row><cell>2</cell><cell>D</cell><cell>6</cell><cell>ID</cell><cell>Sanctorum Gordiani et epimachi martyrum. iii lc.</cell></row>
+                        <row><cell></cell><cell>E</cell><cell>5</cell><cell>ID</cell><cell>Sanctorum Nerei achillei atque pancratii (deleted with a red line)</cell></row>
+                        <row><cell>10</cell><cell>F</cell><cell>4</cell><cell>ID</cell><cell>Sanctorum Nerei et achillei atque pancratii Eug.</cell></row>
+                        <row><cell></cell><cell>G</cell><cell>3</cell><cell>ID</cell><cell></cell></row>
+                        <row><cell>18</cell><cell>A</cell><cell>2</cell><cell></cell><cell></cell></row>
+                        <row><cell>7</cell><cell>B</cell><cell>IDUS</cell><cell></cell><cell></cell></row>
+                        <row><cell></cell><cell>C</cell><cell></cell><cell>KL</cell><cell>IUNII</cell></row>
+                        <row><cell>15</cell><cell>D</cell><cell></cell><cell></cell><cell>                                                       Sol in gemini:</cell></row>
+                        <row><cell></cell></row></table>
+                    <table><row><cell>Denus</cell><cell></cell><cell></cell><cell></cell><cell>pallescit, quindenus fine tabescit.</cell></row>
+                        <row><cell></cell><cell>E</cell><cell></cell><cell>KL</cell><cell>IUNII Sci Nichomedis martyris iii lc</cell></row>
+                        <row><cell>19</cell><cell>F</cell><cell>4</cell><cell>N</cell><cell>Sanctorum Marcellini et petri martyrum iii lc</cell></row>
+                        <row><cell>8</cell><cell>G</cell><cell>3</cell><cell>N</cell><cell>Sancti herasmi episcopi et martyris iii lc</cell></row>
+                        <row><cell>16</cell><cell>A</cell><cell>2</cell><cell>N</cell><cell></cell></row>
+                        <row><cell>5</cell><cell>B</cell><cell>NON</cell><cell></cell><cell>Sancti Bonifacii martyris cum sociis suis iii lc</cell></row>
+                        <row><cell></cell><cell>C</cell><cell>8</cell><cell>ID</cell><cell></cell></row>
+                        <row><cell>13</cell><cell>D</cell><cell>7</cell><cell>ID</cell><cell></cell></row>
+                        <row><cell>2</cell><cell>E</cell><cell>6</cell><cell>ID</cell><cell>Sanctorum Medardi et Gildardi conf. Eug.</cell></row>
+                        <row><cell></cell><cell>F</cell><cell>5</cell><cell>ID</cell><cell>Sanctorum Primi et feliciani iii lc</cell></row>
+                        <row><cell>10</cell><cell>G</cell><cell>4</cell><cell>ID</cell><cell></cell></row>
+                        <row><cell></cell><cell>A</cell><cell>3</cell><cell>ID</cell><cell>Sancti Barnabe apostoli  Eug.</cell></row>
+                        <row><cell>18</cell><cell>B</cell><cell>2</cell><cell>ID</cell><cell>Sanctorum Basilidis cirini et naboris iii lc</cell></row>
+                        <row><cell>7</cell><cell>C</cell><cell>IDUS</cell><cell></cell><cell></cell></row>
+                        <row><cell></cell><cell>D</cell><cell>18</cell><cell>KL</cell><cell>IULII Sci Basilii episcopi et conf. iii lc.</cell></row>
+                        <row><cell>15</cell><cell>E</cell><cell>17</cell><cell>KL</cell><cell>Sanctorum Uiti et modesti martyrum iii lc.</cell></row>
+                        <row><cell>4</cell><cell>F</cell><cell>16</cell><cell>KL</cell><cell>Sanctorum syrici et Julite matris eius iii lc. D;</cell></row>
+                        <row><cell></cell><cell>G</cell><cell>15</cell><cell>KL</cell><cell>Sci Botulfi abbatis.  Sol in cancro.  Eug.</cell></row>
+                        </table>
+</p>
+                </msContents>
+            <physDesc><p>Parchment, a fragment in two pieces, <dimensions>ca. 17 x 22 cm</dimensions></p>
+                <p>Lay-out: Fine lead ruling, with the pricking still visible. 18 lines remaining. The page of the calendar is confined within the space of a double lined frame, and the dates are put within a framework of double lines. The frame for the initial letters of the saint’s names is filled with brown colour with a fine pattern, while the letters are alternately red and white. For the Kalendae days of July (=last days of June) the filling switches to a blue colour. The width of the leaf is ca 22 cm, while the width of the calendar frame is 15 cm. A framed medalion in the lower right corner of the recto side shows two figures; the Gemini (22 May-21 June). Their faces are wonderfully detailed, and they have brown hair, green and white clothes, red socks and brown shoes, standing in a circle with a red background and a blue frame, embedded in a square with brown background and a green frame. On the verso side is the upper corner of the medalion for the Cancer, with a white circle in a blue square with a green frame.  </p>
+                <p>Script: Late protogothic script. The scribe lets the minims finish flat to the line, instead of pulling the pen upwards to the right side. This finish of the minims is called a textus praescissus. Otherwise the script seems to be in a transitional phase, moving towards the gothic textualis. The tironian note is crossed, the round d is used, both in juncture and separately, along with the straight d. Only double i’s are marked with a stroke. Because the text consists mainly of holy names, there is a wide use of small capitals, or uncial letterforms, for r, m, d, and a. The decoratice lines in the cross stroke of the capital N is a relatively late feature. The script is very much like the kind found in fragments 1-3 in Statsarkivet in Stavanger (=Gjerløw: Mi 35), from a missal of a bigger format. </p>
+                <p>Initials: The Kalendas of May and June are decorated. May is relatively simple, with KL in blue on a red background, framed by a green stripe. There are traces of gold and an organic pattern between the letters, and white stars on the sides. The KL for June is in gold on a red and blue background. The space between the letters is red, and decorated with stems and leaves in blue and pink with white decorative lines. The blue to the left and right of the letters is decorated with small white stars. </p>
+                <p>Condition: The fragment is split in two, and there are clear traces of the back of a book where the two fragments meet. The book was an octave, ca 3,5 cm thick. Across the (former) back of the book are four lines of holes from the seem. The recto side is stained and worn, evidently facing out, while the verso side is in better condition. On the left of the leaf there is a 12 cm vertical cut, ca 4 cm from the edge.</p></physDesc>
+            <history><origin><p>England (London-area?), late 12th century. </p>
+            </origin><provenance>
+                <p>The fragment was probably used in the binding of a book. The fragment was kept in the diploma collection of Bergen Museum (Bergen University Library), in a box marked (Diplom) “Uden Aar” (“Undated”). No other information is known.  </p>
+            </provenance>
+                
+                <acquisition>
+                    <p>Unknown.</p>
+                </acquisition>
+                
+            </history>
+            <additional><listBibl><head>Bibliography</head>
+                <bibl>Dybdahl, Audun 1999: Helgener i tiden, Senter for middelalderstudier, Skrifter nr. 10, Trondheim, p. 113-118. (Includes a passage about the medieval calendar system.)</bibl>
+                <bibl>Kulturhistorisk Leksikon for Nordisk Middelalder (II: Computus ecclesiasticus, p. 585-591), Oslo 1957.</bibl>
+                <bibl>KLNM (VIII: Kalendarium I, p. 89-93), Oslo 1963.</bibl>
+                <bibl>Tveitane, Mattias 1981: ”Bøker og litteratur i Bergen i middelalder og reformasjonstid”, Nordisk tidskrift för bok- och biblioteksväsen 68, p. 99-113.</bibl>
+                <bibl>Tveitane, Mattias 1975: “Et kalenderfragment”, Godbiter fra samlingene: Særtrykk av Bergens tidende 21. april 1974-26. april 1975, p. 16. (26. april 1975)</bibl>
+                <bibl>Wormald, Francis 1939-46: English Benedictine calendars after A.D. 1100, London.
+                </bibl>
+                <bibl>Fascinated by medieval calendars? For computus-info online, see for instance: 
+                    <xref url="http://www.friesian.com/easter.htm">http://www.friesian.com/easter.htm (English)</xref>
+                    <xref url="http://www.computus.de/menton/missale.htm">http://www.computus.de/menton/missale.htm (German)</xref></bibl>
+                <bibl>Tveitane, Mattias et. al.: Bergen University Library Manuscript Catalogue [unpublished]</bibl>
+            </listBibl>
+            
+            </additional>
+            
+                    
+                    
+                    </msDescription>
+            
+        </sourceDesc>
+    </fileDesc>
+        <profileDesc>
+            <langUsage><language id="en"></language></langUsage></profileDesc>
+        <revisionDesc>
+            <change>
+           <date>2006.05.12</date>
+           <respStmt><name>&Aring;slaug Ommundsen</name></respStmt>
+         <item>Corrected spelling to Erchenwald and altered text slightly after feedback from Aidan Conti</item>
+         </change>
+            <change>
+                <date>2005.10.18</date>
+                <respStmt><name>Tone Merete Bruvik</name></respStmt>
+            <item>Renecoded a bit to make the xml document valid</item>
+        </change>
+        <change>
+            <date>2005.10.17</date>
+            <respStmt><name>&Aring;slaug Ommundsen</name></respStmt>
+            <item>Made the original</item>
+        </change>
+   </revisionDesc>
+    </teiHeader>
+    <text><body><div><head>Introduction</head><p>A medieval calendar displayed the months one by one in the first part of liturgical books. It supplied information on which saints to venerate when, and the degree of the feast. Most of the church and saint’s feasts are celebrated all over medieval Christianity, but often the calendars also contain rare and local feasts which can be used to determine where a manuscript or fragment is from. This is such a case. We have the top half of a leaf from a late 12th century calendar, representing May and June. For 7 May there is an unusual entry: S. Erch, i.e. the English local saint St. Erchenwald, who was bishop in London from 675. He died in 693, on 30 April, which then became his feast day, making 7 May the octave for his celebration (as pointed out by Lilli Gjerløw in a letter of 1 February 1967). Gjerløw also states that while St. Erchenwald’s day is noted in many English calendars, the celebration of his octave is only found in Chertsey abbey, Surrey, according to Wormald’s benedictine calendar (Wormald V. I, p. 81-93). However, it is possible that Erchenwald’s octave was also celebrated outside the London area. As far as we know St. Erchenwald was never celebrated in Norway, and a manuscript containing this calendar has at some point been brought to these shores from England. The script is of high quality, and so are the multicoloured illuminations and the medalion with the Gemini (May 21-June 20). This was once a magnificent manuscript.</p>
+         <list type="facsimiles"><head>Facsimiles and transcriptions</head>
+             <item><!--<xref url="../transcriptions/UBB MS 1550, 4-transkr.page">Transcription of UBB MS 1550, 4.</xref>-->
+                 <figure url="../facsimiles/UBB MS 1550, 4a.jpg"><figDesc>UBB MS 1550, 4, recto</figDesc></figure>
+                 <figure url="../facsimiles/UBB MS 1550, 4b.jpg"><figDesc>UBB MS 1550, 4, verso.</figDesc></figure>
+             </item>
+        </list>
+    </div></body></text>
+</TEI.2>

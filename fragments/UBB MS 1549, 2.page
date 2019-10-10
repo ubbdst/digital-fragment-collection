@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI.2 SYSTEM "http://gandalf.aksis.uib.no/menota/guidelines/tools/dtd/norron.dtd"
+[
+<!ATTLIST figure url CDATA #IMPLIED>
+<!ATTLIST xref url CDATA #IMPLIED>
+<!ATTLIST xptr url CDATA #IMPLIED>]
+>
+<TEI.2 lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Description of UB Bergen MS 1549, 2</title>
+                <author>&Aring;slaug Ommundsen</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bergen University Library</publisher>
+                <address><addrLine>Nyg&aring;rdsgaten 5, NO-5005 Bergen</addrLine><addrLine>http://www.ub.uib.no</addrLine></address>
+                <date>2005</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDescription>
+                    <msIdentifier>
+                        <settlement>Bergen University Library, Art and Humanities Library</settlement>
+                        <repository>Bergen University Library</repository>
+                        <idno>MS 1549, 2</idno>
+                        <altName type="old signature">MS 410, 2</altName>
+                        <altName>Mi 51 (Gjerl&oslash;w)</altName>
+                    </msIdentifier>
+                    <msHeading>
+                        <title>The Good Friday Missal Fragment</title>
+                        <note type="schlagzeile">Parchment, one leaf, 265 x 180 mm,
+                                <placeName>England</placeName> or <placeName>Norway</placeName>(?), <date>mid 12th
+                        century</date>.</note>
+                    </msHeading>
+                    <msContents>
+                        <p>The contents of the Missal fragment has been thoroughly described by
+                            <persName>Lilli Gjerl&oslash;w</persName> (1970), and is part of the Good Friday and
+                            Easter-eve liturgy. The text begins with the end of the big prayer of
+                            Good Friday (Orationes solemnes). Then follows the Adoration of the
+                            cross with the usual Improberia (Christ's hypothetical reproaches), the
+                            seven penitential psalms and the two extraliturgical prayers for the
+                            same ritual, then Fortunats hymn Pange lingua, and three final antiphons
+                            for the "Burial of the cross" (Depositio crucis). Easter-eve begins with
+                            two prayers for the blessing of the new fire (after the lights have all
+                            been put out during Matins of Maundy-Thursday and Good Friday) and of
+                            the incense. Then follows the blessing of the Easter candle, with
+                            Exultet.</p>
+                        <p>The seven penitential psalms, the two extraliturgical prayers and the
+                            antiphons have their origin in the church ordinal Regularis Concordia
+                            from ca <date>970</date>. No known English post-conquest missal contain the Good
+                            Friday elements from Regularis Concordia (Gjerl&oslash;w 1970, pp.
+                            88-90).</p>
+                        <p>Pasted to the recto side of the fragment is a white piece of paper,
+                            reading: 410.2. Foged Vidsten. recto.</p>
+                        <p>For a detailed reproduction of contents, see transcription.</p>
+                    </msContents>
+                    <physDesc>
+                        <p>Parchment, one leaf, <dimensions>265 x 180 mm</dimensions></p>
+                        <p>Lay-out: Hardly visible dry point ruling. Full writing space is 20 x 14
+                            cm. Two columns for each page, 6,5 cm wide, with 30 lines.</p>
+                        <p>Script: Informal protogothic script. The nasal abbreviation is
+                                cup-shaped or wavy. The insular abbreviation-sign for est (resembling a minus sign)
+                               occurs. The ampersand is used for "et". There is fusion
+                                of pp. Rubricated. Some capital letters are marked with red shade.
+                                No musical notation, but the sung parts are written in smaller
+                                letters. The script is analysed and dated by N. R. Ker to shortly after 1150
+                                (see Gjerl&oslash;w 1970, p. 88). At the fragment workshop in October 2005 Michael Gullick also suggested that the missal was not written earlier than the middle of the 12th century.</p>
+                             <p>Initials: Plain initials in an orange red over one or two
+                                lines.</p>
+                             <p>Condition: The fragment is somewhat stained and darkened, but
+                                the text is easily readable. The leaf is uncropped and without
+                                holes. The parchment is quite soft.</p>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <p><placeName>England</placeName> (<placeName>Worcester</placeName> or <placeName>Winchester</placeName>?) or <placeName>Norway</placeName>(?), <date>shortly after 1150</date>.</p>
+                             <p>There are characteristics in the contents pointing towards <placeName>Worcester</placeName>
+                                or <placeName>Winchester</placeName>; the prayer following the first
+                                Regularis Concordia-prayer has only been identified in the
+                                Portiforium of St. Wulstan, written in Worcester see ca 1070 (Gjerl&oslash;w 1970), and possibly connected to Winchester (Gjerl&oslash;w 1979, p. 15). However, when this fragment was discussed at the international fragment workshop in October 2005, it was pointed out by Michael Gullick that some German features in the writing and the pale orange hue of the red ink would be untypical for English manuscripts. The numerous mistakes in the Latin text (see transcription) would also normally not occur in a manuscript made at a larger ecclesiastical centre in England at this time. The assigning of this fragment to England is therefore uncertain. The combination of German and English influences along with the spelling-mistakes may suggest a Norwegian origin.</p>
+                        </origin>
+                        <provenance>
+                            <p>Possibly used in <placeName>Bergen</placeName> during the <date>Middle Ages</date> (Gjerl&oslash;w
+                                1970).</p>
+                        </provenance>
+                        <acquisition>
+                            <p>The fragment was a gift from the <persName>bailiff Ole Vidsten</persName> (<date>born 1787</date>,
+                                bailiff in Sundhordland og Hardanger <dateRange>1820-1854</dateRange>) to the <orgName>Bergen
+                                Museum</orgName>.</p>
+                        </acquisition>
+                    </history>
+                    <additional>
+                        <listBibl>
+                            <head>Bibliography</head>
+                            <bibl>Gjerl&oslash;w, Lilli (ed.) 1961: Adoratio crucis, Oslo.</bibl>
+                            <bibl>Gjerl&oslash;w, Lilli (ed.) 1968: Ordo Nidrosiensis ecclesiae,
+                                Oslo, pp. 92-93.</bibl>
+                            <bibl>Gjerl&oslash;w, Lilli 1970: "Missaler brukt i
+                                Bj&oslash;rgvin bisped&oslash;mme fra misjonstiden til
+                                Nidarosordinariet", Bj&oslash;rgvin bispestol. Byen og
+                                bisped&oslash;mmet, Bergen, pp. 73-115.</bibl>
+                            <bibl>Gjerl&oslash;w, Lilli (ed.) 1979: Antiphonarium Nidrosiensis
+                                ecclesiae, Oslo, p. 15.</bibl>
+                            <bibl>Tveitane, Mattias et. al.: Bergen University Library Manuscript
+                                Catalogue [unpublished]</bibl>
+                        </listBibl>
+                    </additional>
+                </msDescription>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language id="en"/>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date>2006.02.16</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Updated the encoding of dates, places, names etc.</item>
+            </change>
+            <change>
+                <date>2005.08.17</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Recoded the content of the history element.</item>
+            </change>
+            <change>
+                <date>2005.02.16</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Updated with references to facsimiles.</item>
+            </change>
+            <change>
+                <date>2004.11.01</date>
+                <respStmt>
+                    <name>Tone Merete Bruvik</name>
+                </respStmt>
+                <item>Updated with references to facsimiles, added revisionDesc, language
+                    declaration etc.</item>
+            </change>
+            <change>
+                <date>2004.10.?</date>
+                <respStmt>
+                    <name>&Aring;slaug Ommundsen</name>
+                </respStmt>
+                <item>Made the original</item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <head>Introduction</head>
+                <p>In 1964 the palaeographer N. R. Ker discovered this leaf from a 12th century missal
+                    among the fragments of Bergen University Library. The script is informal, and
+                    the initials are plain in a fading orange red colour. It has been assumed that the missal was written in England around the middle of the 12th century, although recently this origin has been contested (see Origin below). This is the earliest of three 12th century missal fragments in Norway containing prayers from the old
+                    English ordinal Regularis Concordia (ca. 970). In England no post-conquest
+                    missals are known to contain parts from the Regularis Concordia. Lilli
+                    Gjerl&oslash;w suggests that this missal was used in the diocese of Bergen
+                    in the middle ages (Gjerl&oslash;w 1970).</p>
+                <list type="facsimiles">
+                    <head>Facsimiles and transcriptions</head>
+                    <item>
+                        <xref url="../transcriptions/UBB MS 1549, 2-transkr.page">Transcription of
+                            UBB MS 1549, 2</xref>
+                        <figure url="../facsimiles/UBB MS 1549, 2 1.jpg">
+                            <p>Facsimile recto</p>
+                        </figure>
+                        <figure url="../facsimiles/UBB MS 1549, 2 2.jpg">
+                            <p>Facsimile verso</p>
+                        </figure>
+                    </item>
+                </list>
+            </div>
+        </body>
+    </text>
+</TEI.2>
